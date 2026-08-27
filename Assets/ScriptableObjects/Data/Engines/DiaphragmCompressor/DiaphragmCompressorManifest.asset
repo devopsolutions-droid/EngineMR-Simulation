@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: DiaphragmCompressorManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Outlet Valve01
+    partData: {fileID: 11400000, guid: f54de190f2df08047b6b7a4fc3f295f0, type: 2}
+  - gameObjectName: Outlet Valve02
+    partData: {fileID: 11400000, guid: e1c6be8851086ee4392adbd5e2cf5ba0, type: 2}
+  - gameObjectName: Outlet Valve03
+    partData: {fileID: 11400000, guid: 63bbdcabd00a83547a194ce881733d8d, type: 2}
+  - gameObjectName: Outlet Valve04
+    partData: {fileID: 11400000, guid: 3ad34e244af635b4b8295bf1b396cb11, type: 2}
+  - gameObjectName: Inlet Valve08
+    partData: {fileID: 11400000, guid: 194d0759456e25a4397dd94c8022417e, type: 2}
+  - gameObjectName: Inlet Valve07
+    partData: {fileID: 11400000, guid: 4c431df1c7244ee46b6a85a177503d4a, type: 2}
+  - gameObjectName: Inlet Valve06
+    partData: {fileID: 11400000, guid: 789dc9dca0db2124caa43e001a09e131, type: 2}
+  - gameObjectName: Inlet Valve05
+    partData: {fileID: 11400000, guid: 56a51e0802444f848aa003a713657282, type: 2}
+  - gameObjectName: Inlet Valve04
+    partData: {fileID: 11400000, guid: e4a1a894e320dd440a70013175875481, type: 2}
+  - gameObjectName: Inlet Valve03
+    partData: {fileID: 11400000, guid: bc4f136721a718f468a9db96faa461e1, type: 2}
+  - gameObjectName: Inlet Valve02
+    partData: {fileID: 11400000, guid: 71ee12bd9a1c7344ca5ec0ac5e7ed385, type: 2}
+  - gameObjectName: Inlet Valve01
+    partData: {fileID: 11400000, guid: e1d0804a6c3d6184ea8a3db76d4ce484, type: 2}
+  - gameObjectName: Nut_Volte
+    partData: {fileID: 11400000, guid: 35fcdd2467c2fb848aec37b604243b61, type: 2}
+  - gameObjectName: Upper Head
+    partData: {fileID: 11400000, guid: e71529a2cdfee044089e4bf1d4b11a45, type: 2}
+  - gameObjectName: Diaphragm2
+    partData: {fileID: 11400000, guid: 11990abafb626ff4e9bb355877b3500e, type: 2}
+  - gameObjectName: Diaphragm1
+    partData: {fileID: 11400000, guid: 345e6d8632caa3e48bee4acbce03f45f, type: 2}
+  - gameObjectName: Diaphragm
+    partData: {fileID: 11400000, guid: 02dd61bc74bb7434583e40fc498eb712, type: 2}
+  - gameObjectName: 2. Head Lower
+    partData: {fileID: 11400000, guid: b8890cfe992b3564c9090191112bd454, type: 2}
+  - gameObjectName: Frame3
+    partData: {fileID: 11400000, guid: 7b7a10ecf97b7584395f7bd7d2f26b9e, type: 2}
+  - gameObjectName: Frame2
+    partData: {fileID: 11400000, guid: 9a5a4257b58dfe04da61b1ce34d88ea2, type: 2}
+  - gameObjectName: Frame1
+    partData: {fileID: 11400000, guid: 5eeb972797a6a9c43ab9d8892017a7d1, type: 2}
+  - gameObjectName: Frame
+    partData: {fileID: 11400000, guid: 48dbf0615d4304d48af15a03efc7acb0, type: 2}
+  - gameObjectName: Connecter2
+    partData: {fileID: 11400000, guid: 8774def2eb0c6b34f8b29efb8eb73ac5, type: 2}
+  - gameObjectName: Connecter1
+    partData: {fileID: 11400000, guid: ceca5a770bb7bf64690c3230a347e61c, type: 2}
+  - gameObjectName: Cap1
+    partData: {fileID: 11400000, guid: 017cdd29f2eb73d42be5bc05e2f33b16, type: 2}
+  - gameObjectName: Cap
+    partData: {fileID: 11400000, guid: b3c2487b55b91db4987eff1f371cd393, type: 2}
+  - gameObjectName: Oil_Pressure_Limiter1
+    partData: {fileID: 11400000, guid: 824711c2cacfecf4f8db2c95d8e67fb2, type: 2}
+  - gameObjectName: PressureLimiter2
+    partData: {fileID: 11400000, guid: b842b93e544682740aed961aeb822105, type: 2}
+  - gameObjectName: Oil_Pressure_Limiter
+    partData: {fileID: 11400000, guid: 354bbf91cb9ef6e42aa93e3a8a17bde5, type: 2}
+  - gameObjectName: PressureLimiter1
+    partData: {fileID: 11400000, guid: cc0234e3ae4e53b4db96e0bf77265b2b, type: 2}
+  - gameObjectName: pistoncylinder
+    partData: {fileID: 11400000, guid: 5db8616bdfda0694eb2058a8034eb74e, type: 2}
+  - gameObjectName: P_ROD
+    partData: {fileID: 11400000, guid: 7a3281e1fa079bf4dab835996c4431ed, type: 2}
+  - gameObjectName: Piston
+    partData: {fileID: 11400000, guid: 720f8f916701d4044a2c55b0c06ec258, type: 2}
+  - gameObjectName: Cross_Head
+    partData: {fileID: 11400000, guid: b315c8aeca6d2fb47986d9c184482202, type: 2}
+  - gameObjectName: connecting_rod
+    partData: {fileID: 11400000, guid: f6bef61926d9958479e8f5d9c912a654, type: 2}
+  - gameObjectName: pCube7
+    partData: {fileID: 11400000, guid: a2a5c6c95b4115f4b9d36e2928995a4f, type: 2}
+  - gameObjectName: Spring
+    partData: {fileID: 11400000, guid: 1ec5553b93d5fda4a90578c8ef521c3c, type: 2}
+  - gameObjectName: Shaft1
+    partData: {fileID: 11400000, guid: 6d26ecb5a4787764c8dca769a9e753f7, type: 2}
+  - gameObjectName: Rod
+    partData: {fileID: 11400000, guid: 7189b635e928aa449921b09c6b7254a2, type: 2}
+  - gameObjectName: Pump_connecter
+    partData: {fileID: 11400000, guid: 0ad0e847fe8035d4c970b83b1115c894, type: 2}
+  - gameObjectName: Pipe
+    partData: {fileID: 11400000, guid: 469c43e65807e95459b4e96a0aba0caa, type: 2}
+  - gameObjectName: Connecter
+    partData: {fileID: 11400000, guid: 6c0fdc493e5c9e244b4ef1e2d466cdc0, type: 2}
+  - gameObjectName: pCylinder12
+    partData: {fileID: 11400000, guid: 2c035b03dfb7a0d42a3658c3ba224d3c, type: 2}
+  - gameObjectName: Shaft
+    partData: {fileID: 11400000, guid: a420951e71c1cc943babf3ad65545d4b, type: 2}
+  - gameObjectName: crankshaft
+    partData: {fileID: 11400000, guid: 77bc0375615042b45aac2a4b95b3b976, type: 2}
+  - gameObjectName: Wheel_2
+    partData: {fileID: 11400000, guid: 387040d4ee1814a4ea4c010f2ce05934, type: 2}
+  - gameObjectName: M_Shaft
+    partData: {fileID: 11400000, guid: 562210e75ffdd3240afcd476a902277b, type: 2}
+  - gameObjectName: M_Fan
+    partData: {fileID: 11400000, guid: a88f53a26ae07dc43800918a2e05e397, type: 2}
+  - gameObjectName: M_Cover
+    partData: {fileID: 11400000, guid: cf51e56c8d0336f4a821d6568281d85a, type: 2}
+  - gameObjectName: Wheel_1
+    partData: {fileID: 11400000, guid: f9355140ff9afe042be57d4078ba54f7, type: 2}
+  - gameObjectName: pCylinder16
+    partData: {fileID: 11400000, guid: f91fd605846f2cf4999b915f4753c371, type: 2}
+  - gameObjectName: Belt
+    partData: {fileID: 11400000, guid: 13720ce66c10194469fd5621747f1744, type: 2}
+  - gameObjectName: Base3
+    partData: {fileID: 11400000, guid: eddf7d71c3a640047b118160895f38cd, type: 2}
+  - gameObjectName: Base2
+    partData: {fileID: 11400000, guid: 0c916a5248f4bf74681d1052d54c1c78, type: 2}
+  - gameObjectName: Base1
+    partData: {fileID: 11400000, guid: fd4d5aba509605e4e8202eb4e4551256, type: 2}

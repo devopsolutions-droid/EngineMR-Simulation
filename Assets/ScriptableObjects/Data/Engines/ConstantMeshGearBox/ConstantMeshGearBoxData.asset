@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: ConstantMeshGearBoxData
+  m_EditorClassIdentifier: 
+  engineName: Constant Mesh Gear Box
+  engineDescription: 'A Constant Mesh Gear Box is a type of gearbox in which all
+    the gears are always in mesh with their corresponding gears. The gears on the
+    main shaft rotate freely, and power is transmitted by engaging dog clutches with
+    the required gear. This arrangement prevents direct sliding of gears and reduces
+    wear.
+
+    In a constant mesh gearbox, different gear ratios are obtained by
+    locking the desired gear to the shaft through a dog clutch. The gears remain
+    continuously engaged, while shifting is achieved by connecting the selected gear
+    to the shaft. It is widely used in automobiles and motorcycles because it provides
+    smoother and quieter gear operation.'
+  engineCategory: Engineering
+  thumbnail: {fileID: 21300000, guid: 466b53acb726afb4eb60b1a61ea938de, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: c35ca8923d2ee154f97ed135a4289832, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

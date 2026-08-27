@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: CoolingTowerManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Stairs
+    partData: {fileID: 11400000, guid: 42b159019b257404182ae3f9144ab561, type: 2}
+  - gameObjectName: Plane
+    partData: {fileID: 11400000, guid: 8b99e7da48b4cbd4c926df7b7b72ae3a, type: 2}
+  - gameObjectName: Plane (1)
+    partData: {fileID: 11400000, guid: a97c3499a618a3042a6bc16cbd2bc85b, type: 2}
+  - gameObjectName: Plane (2)
+    partData: {fileID: 11400000, guid: afc986b409a91714384b6632dc4cdeda, type: 2}
+  - gameObjectName: Cube (2)
+    partData: {fileID: 11400000, guid: 2456718d2f1d2714b8e147a350374344, type: 2}
+  - gameObjectName: Cube (3)
+    partData: {fileID: 11400000, guid: 58d74376f8d04af4a97b1654ac372ebb, type: 2}
+  - gameObjectName: Cube (4)
+    partData: {fileID: 11400000, guid: 16c0b89f40577d1478dd088c13e66101, type: 2}
+  - gameObjectName: Cube (5)
+    partData: {fileID: 11400000, guid: 315dd7126290991418b6a42110b820a4, type: 2}
+  - gameObjectName: Cube (6)
+    partData: {fileID: 11400000, guid: 2701c8bb1ff473443966f92ace980141, type: 2}
+  - gameObjectName: Cube (7)
+    partData: {fileID: 11400000, guid: fd14ac80c2cfcfa42b7054c1c36a4384, type: 2}
+  - gameObjectName: Cube (8)
+    partData: {fileID: 11400000, guid: 0b0be7ac131062c43b80544d9a71fbfe, type: 2}
+  - gameObjectName: Cube (9)
+    partData: {fileID: 11400000, guid: f980c018ddf8ea049a9ce65c1be9b297, type: 2}
+  - gameObjectName: Cube (10)
+    partData: {fileID: 11400000, guid: 62bd758ba728ef147a5289220563a6c8, type: 2}
+  - gameObjectName: Cube (1)
+    partData: {fileID: 11400000, guid: baf9b30a5f5cf4b49ad446e6e582bb48, type: 2}
+  - gameObjectName: Cube
+    partData: {fileID: 11400000, guid: 5014b14c244908e4488302317ae2e43e, type: 2}
+  - gameObjectName: Cube
+    partData: {fileID: 11400000, guid: 5014b14c244908e4488302317ae2e43e, type: 2}
+  - gameObjectName: Cube (1)
+    partData: {fileID: 11400000, guid: baf9b30a5f5cf4b49ad446e6e582bb48, type: 2}
+  - gameObjectName: Cube (11)
+    partData: {fileID: 11400000, guid: ec5c68b817710a54592e53fb1b5fa201, type: 2}
+  - gameObjectName: Cube (12)
+    partData: {fileID: 11400000, guid: 4a31aec4c9ac3f142b0ad20e099310fa, type: 2}
+  - gameObjectName: Cube (13)
+    partData: {fileID: 11400000, guid: 4236c4694fb90d447941604bff99be9a, type: 2}
+  - gameObjectName: Cube (14)
+    partData: {fileID: 11400000, guid: 5aba2b25a6d976e45bd1d95247b9fe0e, type: 2}
+  - gameObjectName: Water_Cooling_Tower
+    partData: {fileID: 11400000, guid: 04cb1321fb4270a42a56dc276d21758a, type: 2}
+  - gameObjectName: Extrs_pipe02
+    partData: {fileID: 11400000, guid: 3d785162edc761242b46172df5b6e208, type: 2}
+  - gameObjectName: Extrs_pipe01
+    partData: {fileID: 11400000, guid: ff392f52fee536a4a9717feb4eb6c81e, type: 2}
+  - gameObjectName: polySurface2968
+    partData: {fileID: 11400000, guid: 41b1584da77a27c4b9d631f257d9cd59, type: 2}
+  - gameObjectName: polySurface2969
+    partData: {fileID: 11400000, guid: ada02bd9b7dbf754cb09b4a172d819db, type: 2}
+  - gameObjectName: polySurface2970
+    partData: {fileID: 11400000, guid: 5a968fb9e3b64c84c92df9d0603a992b, type: 2}
+  - gameObjectName: polySurface2971
+    partData: {fileID: 11400000, guid: 2e544719c5a96b54c8dc367c5a5154f1, type: 2}
+  - gameObjectName: polySurface2972
+    partData: {fileID: 11400000, guid: 4be171a0e6cac554d8a5a2c3fb5251e0, type: 2}
+  - gameObjectName: polySurface2973
+    partData: {fileID: 11400000, guid: 81b783494fce4e64e99e66c16c3c7ea4, type: 2}
+  - gameObjectName: polySurface2974
+    partData: {fileID: 11400000, guid: 9824325986fee7c4a81387143a9af0ea, type: 2}
+  - gameObjectName: polySurface2975
+    partData: {fileID: 11400000, guid: bfba8f579c4ad3b46a8943f29c0b5146, type: 2}
+  - gameObjectName: polySurface2976
+    partData: {fileID: 11400000, guid: 2d7ba176610274a468c06cc6b80141be, type: 2}
+  - gameObjectName: polySurface2977
+    partData: {fileID: 11400000, guid: 3dc32bea013f821468dd0bdd34619f81, type: 2}
+  - gameObjectName: polySurface2978
+    partData: {fileID: 11400000, guid: 50e0a867e5a5e864883ebce1b914ccdd, type: 2}
+  - gameObjectName: polySurface2979
+    partData: {fileID: 11400000, guid: 0275ca4543901b446810162b5a35aa86, type: 2}
+  - gameObjectName: polySurface2980
+    partData: {fileID: 11400000, guid: 94e944cad431cbf47a6aa8078eef315f, type: 2}
+  - gameObjectName: polySurface2981
+    partData: {fileID: 11400000, guid: 551d30332712bbe47bca026310807320, type: 2}
+  - gameObjectName: polySurface2982
+    partData: {fileID: 11400000, guid: d0970aa0960fbe840bc258ffbc9b3244, type: 2}
+  - gameObjectName: polySurface2983
+    partData: {fileID: 11400000, guid: fe9da346d8eb2144898c203ffe3b6503, type: 2}
+  - gameObjectName: polySurface2984
+    partData: {fileID: 11400000, guid: a7d4b6b7f1e61884cbbbe7f69e7d9d30, type: 2}
+  - gameObjectName: polySurface2985
+    partData: {fileID: 11400000, guid: bc005c01cf2a89b499bd10b7e6f2918a, type: 2}
+  - gameObjectName: polySurface2986
+    partData: {fileID: 11400000, guid: 02581ea2c2779e64fa47f35c65751b72, type: 2}
+  - gameObjectName: polySurface2987
+    partData: {fileID: 11400000, guid: 476afac02ae48424996faaf488132391, type: 2}
+  - gameObjectName: polySurface2988
+    partData: {fileID: 11400000, guid: bc5255b04c4812b46b3fe587dadc95e5, type: 2}
+  - gameObjectName: polySurface2989
+    partData: {fileID: 11400000, guid: daca68dfd8f06684a9d8836d714f2e0e, type: 2}
+  - gameObjectName: polySurface2990
+    partData: {fileID: 11400000, guid: 1c4d0bea5dd75a943b27f50f9bfd4745, type: 2}
+  - gameObjectName: polySurface2991
+    partData: {fileID: 11400000, guid: 3854bcf96f4b3344695a005c650c82ba, type: 2}
+  - gameObjectName: polySurface2992
+    partData: {fileID: 11400000, guid: ad4ba0a8c261740459d5b01dc604873a, type: 2}
+  - gameObjectName: polySurface2993
+    partData: {fileID: 11400000, guid: 8190d11d7ca4d344fae37cb684d83635, type: 2}
+  - gameObjectName: polySurface2994
+    partData: {fileID: 11400000, guid: f63c66d4c59839f4fb5847bfbf92bd26, type: 2}
+  - gameObjectName: polySurface2995
+    partData: {fileID: 11400000, guid: c69f49adefd3298459c6164e1efc6c29, type: 2}
+  - gameObjectName: polySurface2996
+    partData: {fileID: 11400000, guid: 2d9dc6508c9455d4b8f51853a58f9a43, type: 2}
+  - gameObjectName: polySurface2997
+    partData: {fileID: 11400000, guid: e8a7a7a2bc696084090f6371a420b9bf, type: 2}
+  - gameObjectName: polySurface2998
+    partData: {fileID: 11400000, guid: 47aea432efb0bd143ab434133865d711, type: 2}
+  - gameObjectName: polySurface2999
+    partData: {fileID: 11400000, guid: 1689a0529b629014c87506421afba4ed, type: 2}
+  - gameObjectName: polySurface3000
+    partData: {fileID: 11400000, guid: 335367666a3137b45aa51c8f1a8f4f2e, type: 2}
+  - gameObjectName: polySurface3001
+    partData: {fileID: 11400000, guid: 008fb77fd34ed7544bc71d4dc89ab538, type: 2}
+  - gameObjectName: polySurface3002
+    partData: {fileID: 11400000, guid: 01f3057320c592e4f8231f675b816941, type: 2}
+  - gameObjectName: polySurface3003
+    partData: {fileID: 11400000, guid: 1b27f57285e5c794e8541efca5d6fb14, type: 2}
+  - gameObjectName: polySurface3004
+    partData: {fileID: 11400000, guid: c0758a1d00406364fa75629f0af2dbf5, type: 2}
+  - gameObjectName: polySurface3005
+    partData: {fileID: 11400000, guid: 3920b6ba495024940b4bfcb84ccb4c25, type: 2}
+  - gameObjectName: polySurface3006
+    partData: {fileID: 11400000, guid: d27910709ea69eb47ac76769f3f5ca0f, type: 2}
+  - gameObjectName: polySurface3007
+    partData: {fileID: 11400000, guid: fd9334e9627db904297f2ddfd8f8e9f5, type: 2}
+  - gameObjectName: polySurface3008
+    partData: {fileID: 11400000, guid: 09768656acf7183479fcf10fd6b24beb, type: 2}
+  - gameObjectName: polySurface3009
+    partData: {fileID: 11400000, guid: 02e70c65de704354bb3bec08da1c711e, type: 2}
+  - gameObjectName: polySurface3010
+    partData: {fileID: 11400000, guid: 2575e3dbc9c266940b98d986f235fab4, type: 2}
+  - gameObjectName: polySurface3011
+    partData: {fileID: 11400000, guid: f8ebcf1c460413040b27d8b60fb1dab9, type: 2}
+  - gameObjectName: polySurface3012
+    partData: {fileID: 11400000, guid: 6f0a9bacc3523c84fbfa77767fe612f5, type: 2}
+  - gameObjectName: Air Inlet
+    partData: {fileID: 11400000, guid: bca38907e00f9a74291f25698773c8cf, type: 2}
+  - gameObjectName: Spray Nozzles
+    partData: {fileID: 11400000, guid: be306761dc03acc4eb3b1156499840b1, type: 2}
+  - gameObjectName: Part04
+    partData: {fileID: 11400000, guid: 250bdfee2b495e043831a35e6440a6de, type: 2}
+  - gameObjectName: Collecting Basin
+    partData: {fileID: 11400000, guid: be8f0c01aa8f93f4f983352d8981926e, type: 2}
+  - gameObjectName: Hyperboloid Cooling Tower Shell
+    partData: {fileID: 11400000, guid: 7ebe10b0e54517640bd78c146492d794, type: 2}
+  - gameObjectName: Drift Eliminators
+    partData: {fileID: 11400000, guid: 0ea2690d7a924724380466bb48143cdc, type: 2}
+  - gameObjectName: Fill Media
+    partData: {fileID: 11400000, guid: ec7b67ae8383ca64891a98c40a013c27, type: 2}

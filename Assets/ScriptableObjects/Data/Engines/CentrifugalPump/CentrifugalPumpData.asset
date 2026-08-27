@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: CentrifugalPumpData
+  m_EditorClassIdentifier: 
+  engineName: Centrifugal Pump
+  engineDescription: "A centrifugal pump is a hydraulic machine that converts the
+    mechanical energy of a rotating impeller into pressure energy to transport liquids.
+    Its main components are the impeller, casing, shaft, suction pipe, and delivery
+    pipe. During operation, the rotating impeller creates centrifugal force, drawing
+    liquid into the pump and discharging it at higher pressure. \nCentrifugal pumps
+    are widely used in water supply, irrigation, chemical industries, power plants,
+    and HVAC systems. From an engineering perspective, understanding pump characteristics,
+    efficiency, head, discharge, cavitation, priming, and the affinity laws is essential
+    for proper pump selection, design, operation, and maintenance, ensuring reliable
+    and energy-efficient performance.\r"
+  engineCategory: Engineering
+  thumbnail: {fileID: 21300000, guid: 9a870179040572f41bb1d62f1a08719e, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 251775fc39d69f34db02cc887041eb68, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

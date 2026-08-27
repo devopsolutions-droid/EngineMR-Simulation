@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: DiskBrakeEngineManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: MasterCylinder02
+    partData: {fileID: 11400000, guid: 04964abbab2ccb34c8ce7d69d0147384, type: 2}
+  - gameObjectName: MasterCylinder01
+    partData: {fileID: 11400000, guid: 9052876ddb8c85f46994ce93043560bf, type: 2}
+  - gameObjectName: Brake Pedal01
+    partData: {fileID: 11400000, guid: 0c1a3da6bcc9062419971321faeb34ab, type: 2}
+  - gameObjectName: Brake Pedal02
+    partData: {fileID: 11400000, guid: 9d55560e94be5e543a5caa90b290eeb4, type: 2}
+  - gameObjectName: Brake Pedal03
+    partData: {fileID: 11400000, guid: cc03299d9cd389d409c7e10e278b293c, type: 2}
+  - gameObjectName: Brake Pedal04
+    partData: {fileID: 11400000, guid: 223f5cad7157cb34081d32279966fb2d, type: 2}
+  - gameObjectName: Brake Pedal05
+    partData: {fileID: 11400000, guid: 61ab6bbd68c9c214f8028eeda68e476b, type: 2}
+  - gameObjectName: Piston
+    partData: {fileID: 11400000, guid: c85ad10045b9e9444bd849acaaa864b5, type: 2}
+  - gameObjectName: Brake hose
+    partData: {fileID: 11400000, guid: f6244591cceb8534884f7efda30cc657, type: 2}
+  - gameObjectName: Disk Rotor
+    partData: {fileID: 11400000, guid: 669eec328e06b1a46ab79f96ed7069aa, type: 2}
+  - gameObjectName: bearing
+    partData: {fileID: 11400000, guid: 3af7170988aa5264794c8007bb38ac74, type: 2}
+  - gameObjectName: Threaded_Studs
+    partData: {fileID: 11400000, guid: 976eda245219cc94b88b18e9fbba91a4, type: 2}
+  - gameObjectName: Wheel Hub
+    partData: {fileID: 11400000, guid: 5d179d806e99c2f41826dd488968e272, type: 2}
+  - gameObjectName: Inner_Brake_Pad
+    partData: {fileID: 11400000, guid: 772592112b8ad6743bd13e64250efed4, type: 2}
+  - gameObjectName: Outer_Brake_Pad
+    partData: {fileID: 11400000, guid: 8281f73425154b74c812a57d50bce2bb, type: 2}
+  - gameObjectName: BrakeCaliberAssembley
+    partData: {fileID: 11400000, guid: 8df483ea93543594aa2b2d080b2d0d1b, type: 2}
+  - gameObjectName: Banjo_bolt
+    partData: {fileID: 11400000, guid: 891185259db21104eaa8705c9e6f6aee, type: 2}
+  - gameObjectName: Caliper_Bracket
+    partData: {fileID: 11400000, guid: 01172d863dc785d43b4a677fed4d3d79, type: 2}
+  - gameObjectName: Caliper_Frame
+    partData: {fileID: 11400000, guid: 515de6d30186b4c4ca76eb85ef139cba, type: 2}
+  - gameObjectName: Copper_washer
+    partData: {fileID: 11400000, guid: 94d7ae65f0a9e33419a94cebe951460b, type: 2}
+  - gameObjectName: polySurface17
+    partData: {fileID: 11400000, guid: db241635ce100ab43985586e3c1d449a, type: 2}
+  - gameObjectName: polySurface19
+    partData: {fileID: 11400000, guid: 38e44b55d36c7084a9fa4499a8f21cea, type: 2}
+  - gameObjectName: polySurface36
+    partData: {fileID: 11400000, guid: 16978bbf527f04548b9bf900047fc38e, type: 2}
+  - gameObjectName: Rubber_Bellows01
+    partData: {fileID: 11400000, guid: fbe34231eda1f204ebd7977bacbf46c5, type: 2}
+  - gameObjectName: Rubber_Bellows02
+    partData: {fileID: 11400000, guid: 1483f6d0adb3aed4386799fda4233bb1, type: 2}
+  - gameObjectName: Slider_Pin01
+    partData: {fileID: 11400000, guid: 22ac529817132a342bf2da586e32ce04, type: 2}
+  - gameObjectName: Slider_Pin02
+    partData: {fileID: 11400000, guid: 71141a4cef980474cb28f178222bc49d, type: 2}

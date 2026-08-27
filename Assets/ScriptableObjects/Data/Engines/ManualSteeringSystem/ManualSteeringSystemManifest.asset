@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: ManualSteeringSystemManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Tie Rod Elements
+    partData: {fileID: 11400000, guid: ed49e1dd54e90a842a9eee9c0e3199d9, type: 2}
+  - gameObjectName: Tie Rod Elements
+    partData: {fileID: 11400000, guid: ed49e1dd54e90a842a9eee9c0e3199d9, type: 2}
+  - gameObjectName: Tie Rod Elements
+    partData: {fileID: 11400000, guid: ed49e1dd54e90a842a9eee9c0e3199d9, type: 2}
+  - gameObjectName: Tie Rod Elements
+    partData: {fileID: 11400000, guid: ed49e1dd54e90a842a9eee9c0e3199d9, type: 2}
+  - gameObjectName: Tie Rod Elements
+    partData: {fileID: 11400000, guid: ed49e1dd54e90a842a9eee9c0e3199d9, type: 2}
+  - gameObjectName: Tie Rod Elements
+    partData: {fileID: 11400000, guid: ed49e1dd54e90a842a9eee9c0e3199d9, type: 2}
+  - gameObjectName: Tie Rod Elements
+    partData: {fileID: 11400000, guid: ed49e1dd54e90a842a9eee9c0e3199d9, type: 2}
+  - gameObjectName: Rack
+    partData: {fileID: 11400000, guid: 4f433e54c0b09484d9aacc4ec5192336, type: 2}
+  - gameObjectName: Pinion_Gear
+    partData: {fileID: 11400000, guid: 9fc9d37baba94a1448497fe598f3d467, type: 2}
+  - gameObjectName: Steering Wheel
+    partData: {fileID: 11400000, guid: b4c6ff40489de6f4bb34ffcbfdfd50ec, type: 2}
+  - gameObjectName: Rotator
+    partData: {fileID: 11400000, guid: 831ab6c0434faec46adb6d89253a12c2, type: 2}
+  - gameObjectName: pCylinder5
+    partData: {fileID: 11400000, guid: dcae4a25920f2e24c94c45e85e273dd2, type: 2}
+  - gameObjectName: Rotator
+    partData: {fileID: 11400000, guid: 831ab6c0434faec46adb6d89253a12c2, type: 2}
+  - gameObjectName: polySurface140
+    partData: {fileID: 11400000, guid: b6950ab251e758242bb493c2d1122486, type: 2}
+  - gameObjectName: polySurface141
+    partData: {fileID: 11400000, guid: d901c9df1e3c52a4d9b205e4bd122d18, type: 2}
+  - gameObjectName: polySurface85
+    partData: {fileID: 11400000, guid: 87f8a3dff5a07234ba0f04586cd66594, type: 2}
+  - gameObjectName: polySurface87
+    partData: {fileID: 11400000, guid: bcee5b3e3d2183646945a90da9ddfb62, type: 2}
+  - gameObjectName: polySurface113
+    partData: {fileID: 11400000, guid: 4665d38e5dcb2e248b092097f8ba7133, type: 2}
+  - gameObjectName: Steering Arm Left
+    partData: {fileID: 11400000, guid: 3dd9768521664214e89c4e5cee9cf81b, type: 2}
+  - gameObjectName: Steering Arm Right
+    partData: {fileID: 11400000, guid: 352a9dc1817b08b47942eeb00ceec5fd, type: 2}
+  - gameObjectName: Tire Right
+    partData: {fileID: 11400000, guid: d60435d4bda869e438da7aa7823de83c, type: 2}
+  - gameObjectName: Rim_L
+    partData: {fileID: 11400000, guid: 5415f4d12e1640b4085984458ce254a2, type: 2}
+  - gameObjectName: Tire Left
+    partData: {fileID: 11400000, guid: 042d1115af8983a45a5f719a90e0a37a, type: 2}
+  - gameObjectName: Rim_L
+    partData: {fileID: 11400000, guid: 5415f4d12e1640b4085984458ce254a2, type: 2}
+  - gameObjectName: Tire Left
+    partData: {fileID: 11400000, guid: 042d1115af8983a45a5f719a90e0a37a, type: 2}
+  - gameObjectName: Rim_L1
+    partData: {fileID: 11400000, guid: af3fb2c3e625a214daceab5c992f07d9, type: 2}
+  - gameObjectName: Tire Right
+    partData: {fileID: 11400000, guid: d60435d4bda869e438da7aa7823de83c, type: 2}
+  - gameObjectName: Rim_R1
+    partData: {fileID: 11400000, guid: 8cbda3ffbdec6fd48a1c227e44b57634, type: 2}
+  - gameObjectName: Right Piston Elements
+    partData: {fileID: 11400000, guid: 2397d43acc48d044eb7123131fa5f67a, type: 2}
+  - gameObjectName: Right Piston Elements
+    partData: {fileID: 11400000, guid: 2397d43acc48d044eb7123131fa5f67a, type: 2}
+  - gameObjectName: Right Piston Elements
+    partData: {fileID: 11400000, guid: 2397d43acc48d044eb7123131fa5f67a, type: 2}
+  - gameObjectName: Right Piston Elements
+    partData: {fileID: 11400000, guid: 2397d43acc48d044eb7123131fa5f67a, type: 2}
+  - gameObjectName: Right Piston Elements
+    partData: {fileID: 11400000, guid: 2397d43acc48d044eb7123131fa5f67a, type: 2}
+  - gameObjectName: Left Piston Elements
+    partData: {fileID: 11400000, guid: 5c3086a6d8b71cc4cb69bd05b2829c28, type: 2}
+  - gameObjectName: Left Piston Elements
+    partData: {fileID: 11400000, guid: 5c3086a6d8b71cc4cb69bd05b2829c28, type: 2}
+  - gameObjectName: Left Piston Elements
+    partData: {fileID: 11400000, guid: 5c3086a6d8b71cc4cb69bd05b2829c28, type: 2}
+  - gameObjectName: Left Piston Elements
+    partData: {fileID: 11400000, guid: 5c3086a6d8b71cc4cb69bd05b2829c28, type: 2}
+  - gameObjectName: Left Piston Elements
+    partData: {fileID: 11400000, guid: 5c3086a6d8b71cc4cb69bd05b2829c28, type: 2}

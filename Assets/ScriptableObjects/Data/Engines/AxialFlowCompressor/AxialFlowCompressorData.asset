@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: AxialFlowCompressorData
+  m_EditorClassIdentifier: 
+  engineName: 'Axial Flow Compressor '
+  engineDescription: An Axial Flow Compressor is a continuous-flow turbomachinery
+    device used to increase the pressure of a gas by accelerating and progressively
+    compressing it in a direction parallel to the axis of rotation. Its main components
+    include the rotor, compressor blades, stator blades, casing, shaft, inlet guide
+    vanes, bearings, and outlet diffuser. During operation, air enters the compressor
+    axially and passes through successive stages consisting of rotating rotor blades
+    and stationary stator blades. The rotor blades increase the velocity and energy
+    of the airflow, while the stator blades convert part of this velocity into pressure
+    and redirect the flow toward the next stage. Repeated compression through multiple
+    stages produces a significant increase in air pressure before the compressed
+    air reaches the outlet. Axial flow compressors are widely used in gas turbines,
+    jet engines, power plants, and large industrial compression systems. From an
+    engineering perspective, understanding blade aerodynamics, pressure ratio, stage
+    efficiency, flow velocity, compressor surge, stall, blade loading, vibration,
+    and temperature management is essential for achieving efficient and stable operation.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: e70b4a185352d5b47bdf5c30cca0b721, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

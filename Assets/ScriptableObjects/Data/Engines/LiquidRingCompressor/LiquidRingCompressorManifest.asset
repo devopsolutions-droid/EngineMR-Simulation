@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: LiquidRingCompressorManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Stand01
+    partData: {fileID: 11400000, guid: 090c42ef048cb954ab886f43dd4d29c6, type: 2}
+  - gameObjectName: Stand02
+    partData: {fileID: 11400000, guid: 9fc75e36456ec024687ad9dd14c676d0, type: 2}
+  - gameObjectName: Casing
+    partData: {fileID: 11400000, guid: 1bc5a546591836b4caa3be82fcbf8ebf, type: 2}
+  - gameObjectName: Plate1
+    partData: {fileID: 11400000, guid: 34b91c7dc906cce46a694b65ad4641cc, type: 2}
+  - gameObjectName: Impeller
+    partData: {fileID: 11400000, guid: 1b039aa1ffdff64489a66d131330926b, type: 2}
+  - gameObjectName: Intake and Discharge Nozzle
+    partData: {fileID: 11400000, guid: f950dfc191771e4478fe4eb979c6f337, type: 2}
+  - gameObjectName: Mechanical_seal
+    partData: {fileID: 11400000, guid: fc5885199d36caa47a325756c2e7bdd1, type: 2}
+  - gameObjectName: Port Plate
+    partData: {fileID: 11400000, guid: 72a5e2fe15615094c813c664954f4e7f, type: 2}
+  - gameObjectName: Shaft
+    partData: {fileID: 11400000, guid: 2a31f9dc6cb75a748a86b7af8f917ec8, type: 2}

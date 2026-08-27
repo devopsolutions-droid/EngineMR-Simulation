@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: BackwardCurvedCentrifugalFanData
+  m_EditorClassIdentifier: 
+  engineName: Backward Curved Centrifugal Fan
+  engineDescription: A Backward Curved Centrifugal Fan is a dynamic fluid-flow machine
+    used to move air or gases by converting mechanical energy from a rotating impeller
+    into pressure and kinetic energy. Its main components include the impeller, backward-curved
+    blades, casing, shaft, motor, inlet, outlet, bearings, and supporting structure.
+    During operation, air enters axially through the fan inlet and is accelerated
+    outward by the rotating impeller. The backward-curved blades direct the air toward
+    the outer circumference while reducing the amount of energy required for a given
+    airflow. The surrounding casing collects the high-velocity air and converts part
+    of its kinetic energy into static pressure before directing it toward the outlet.
+    These fans are widely used in HVAC systems, industrial ventilation, air-handling
+    units, dust collection systems, and process industries. From an engineering perspective,
+    understanding fan pressure, airflow rate, blade geometry, system resistance,
+    efficiency, power consumption, noise, vibration, and operating-point selection
+    is essential for reliable and energy-efficient performance.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 471ab24a7eb68aa48bc5a231f821c69f, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

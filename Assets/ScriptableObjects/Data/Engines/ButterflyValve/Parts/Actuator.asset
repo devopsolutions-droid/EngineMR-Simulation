@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8570e25f67e4d9b47982d8b1123bce61, type: 3}
+  m_Name: Actuator
+  m_EditorClassIdentifier: 
+  partName: Actuator Rod
+  description: This is the Actuator Rod which transmits motion from the actuator
+    to the valve to control its operation and position.
+  audioExplanation: {fileID: 8300000, guid: c639e302e22e9084d8298c6958bdb4a2, type: 3}

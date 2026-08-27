@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8570e25f67e4d9b47982d8b1123bce61, type: 3}
+  m_Name: blade_prt
+  m_EditorClassIdentifier: 
+  partName: Crossflow Turbine Runner
+  description: This is the Crossflow Turbine Runner Assembly, the rotating component
+    that supports the turbine blades and transfers the kinetic energy of flowing
+    water into rotational motion. It ensures stable operation, efficient two-stage
+    energy extraction, and effective mechanical power transmission to the generator.
+  audioExplanation: {fileID: 8300000, guid: ddbbb80f84e36bb4682c4e8416ecc3f3, type: 3}

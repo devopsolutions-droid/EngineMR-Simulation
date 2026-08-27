@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8570e25f67e4d9b47982d8b1123bce61, type: 3}
+  m_Name: GearLock2
+  m_EditorClassIdentifier: 
+  partName: Third Gear Lock
+  description: This is the Third Gear Lock that mechanically engages and disengages
+    the third gear to control rotation and airflow speed
+  audioExplanation: {fileID: 8300000, guid: 773c8f9646687d24a8ff78c1d60c75cb, type: 3}

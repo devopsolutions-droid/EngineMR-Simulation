@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: DiaphragmCompressorData
+  m_EditorClassIdentifier: 
+  engineName: Diaphragm Compressor
+  engineDescription: A Diaphragm Compressor is a positive-displacement compressor
+    that compresses gases using the reciprocating movement of a flexible diaphragm,
+    preventing direct contact between the gas and the mechanical drive components.
+    Its main components include the diaphragm, compression chamber, hydraulic or
+    mechanical drive mechanism, suction valve, discharge valve, cylinder head, crankshaft,
+    and cooling system. During operation, the diaphragm moves back and forth inside
+    the compression chamber. During the suction stroke, the diaphragm moves away
+    from the chamber, increasing its volume and drawing gas through the inlet valve.
+    During the compression stroke, the diaphragm moves toward the chamber, reducing
+    the gas volume and increasing its pressure. The compressed gas is then discharged
+    through the outlet valve. Diaphragm compressors are widely used for high-purity
+    gases, chemical processing, hydrogen systems, laboratories, pharmaceutical applications,
+    and gas handling where contamination must be minimized. From an engineering perspective,
+    understanding diaphragm stresses, compression ratio, gas purity, sealing, pressure
+    pulsation, heat transfer, fatigue, cooling, and maintenance is essential for
+    safe and reliable operation.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: a05778b738b636f4dae45dbfc195cab5, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8570e25f67e4d9b47982d8b1123bce61, type: 3}
+  m_Name: Impeller
+  m_EditorClassIdentifier: 
+  partName: Impeller (2)
+  description: This is the Impeller (2) which is a rotating component that accelerates
+    fluid flow through centrifugal force, attached to a shaft for rotation within
+    the pump.
+  audioExplanation: {fileID: 8300000, guid: 616cade9b810ec7448b28d85c5531c33, type: 3}

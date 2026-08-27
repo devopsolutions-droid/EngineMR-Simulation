@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: CNCMachineManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Sliding Door
+    partData: {fileID: 11400000, guid: 325e84513407e1849acf85ff02577a0c, type: 2}
+  - gameObjectName: Exhaust
+    partData: {fileID: 11400000, guid: 395bf6f8e0ccced4bbbfd2beecb73009, type: 2}
+  - gameObjectName: Internal body Nut Bolt
+    partData: {fileID: 11400000, guid: 65812695cea9b4c44b3a6e566f6c94b8, type: 2}
+  - gameObjectName: Body
+    partData: {fileID: 11400000, guid: 5b724bdad46eaed4d8ce91ac8c7e30b9, type: 2}
+  - gameObjectName: CNC Panel
+    partData: {fileID: 11400000, guid: 277b47daf42e93e45ad6ffe521276636, type: 2}
+  - gameObjectName: Arrow_Button
+    partData: {fileID: 11400000, guid: 7008d908f0e645a489c18beced14e2c1, type: 2}
+  - gameObjectName: Buttons
+    partData: {fileID: 11400000, guid: 7ebde3ea683c0814489e4f97da21debc, type: 2}
+  - gameObjectName: PauseStartButton
+    partData: {fileID: 11400000, guid: 2efed3208be991845a55e2a295516d39, type: 2}
+  - gameObjectName: Switch
+    partData: {fileID: 11400000, guid: d332f4f4f7d50204fb213477b374f9c0, type: 2}
+  - gameObjectName: Switch1
+    partData: {fileID: 11400000, guid: 1c2f7dee2f9918a46b12744b7c2e9073, type: 2}
+  - gameObjectName: Switch2
+    partData: {fileID: 11400000, guid: 9dc1c12ef272562489e12afd3ce630d9, type: 2}
+  - gameObjectName: Switch3
+    partData: {fileID: 11400000, guid: ebdd6305fa0f4a047af55e28f5e5b600, type: 2}
+  - gameObjectName: Switch4
+    partData: {fileID: 11400000, guid: 3e846a46488eccd4a8ab2528f7a53f55, type: 2}
+  - gameObjectName: Switch5
+    partData: {fileID: 11400000, guid: 3648c476b8b5c06429bc7929f2a9c74b, type: 2}
+  - gameObjectName: Display Panel (LCD)
+    partData: {fileID: 11400000, guid: a05b250dfdceafe478ba815c50e1180c, type: 2}
+  - gameObjectName: Emergency Switch
+    partData: {fileID: 11400000, guid: 162053bd5d40a7b49829bef26160c816, type: 2}
+  - gameObjectName: Jog Switch
+    partData: {fileID: 11400000, guid: 197166a0bfc31ee479747d56d636cabc, type: 2}
+  - gameObjectName: Tab Selection Buttons
+    partData: {fileID: 11400000, guid: 782c84b82aef4494ea5d3aa19a523dfa, type: 2}
+  - gameObjectName: Operational Control Panel
+    partData: {fileID: 11400000, guid: 5c47d18f56cec514da76629b024bf867, type: 2}
+  - gameObjectName: 'X and Z: Axial Control Panel'
+    partData: {fileID: 11400000, guid: 1ff62b11182f55a4aafdc3d1b213a9a3, type: 2}
+  - gameObjectName: Functional Control Panel
+    partData: {fileID: 11400000, guid: 6f4306c962342c94a93d5c1a3e622773, type: 2}
+  - gameObjectName: Signal Indicating Tower Lamp
+    partData: {fileID: 11400000, guid: a123a457e1513a844b5ec922b9793fcb, type: 2}
+  - gameObjectName: Outer Body Sepration
+    partData: {fileID: 11400000, guid: 70715aa381207824899b2b0850f9694f, type: 2}
+  - gameObjectName: Objects7
+    partData: {fileID: 11400000, guid: 5e0a5e10d2567084d8b4eeeeddfbaf74, type: 2}
+  - gameObjectName: Internal body Objects49
+    partData: {fileID: 11400000, guid: 68f7132dd4bc886408ce5c5a40f462e7, type: 2}
+  - gameObjectName: Driving Motors
+    partData: {fileID: 11400000, guid: 8d08424bb400f6d43a134cb272462d16, type: 2}
+  - gameObjectName: X-Axis Slide
+    partData: {fileID: 11400000, guid: ae34ae71b98dbcc40b23a1d866aef869, type: 2}
+  - gameObjectName: Feed Screw
+    partData: {fileID: 11400000, guid: f199324f70bbaed438c5614fa5af9b3a, type: 2}
+  - gameObjectName: Lead Screw
+    partData: {fileID: 11400000, guid: 29b9134b50a1ef14c9cae38688ec631a, type: 2}
+  - gameObjectName: Tail Stock
+    partData: {fileID: 11400000, guid: 237f295393737bc42987223045b9abfd, type: 2}
+  - gameObjectName: Sliding Tracks 1
+    partData: {fileID: 11400000, guid: 4956ff0cdc807e548a26993c0558cd0e, type: 2}
+  - gameObjectName: Sliding Tracks 2
+    partData: {fileID: 11400000, guid: eb869403ae26bce458a625faab1660a9, type: 2}
+  - gameObjectName: Chuck -->Three_jaw_Chunk
+    partData: {fileID: 11400000, guid: 1ebe86d1f22f0284da72a7d95089d66f, type: 2}
+  - gameObjectName: chunk_jaw1
+    partData: {fileID: 11400000, guid: 7d832a84039087c44bebe905060afbcc, type: 2}
+  - gameObjectName: chunk_jaw2
+    partData: {fileID: 11400000, guid: 6f7760175ab75bb488ded489185faecb, type: 2}
+  - gameObjectName: chunk_jaw3
+    partData: {fileID: 11400000, guid: d668dfa97a52668498de548f89919d15, type: 2}
+  - gameObjectName: Internal body Objects28
+    partData: {fileID: 11400000, guid: 48f80f78061df1946bcc410bdb6efa85, type: 2}
+  - gameObjectName: Objects27
+    partData: {fileID: 11400000, guid: 75df5af111aec7941b66984f3ca58684, type: 2}
+  - gameObjectName: Head Stock
+    partData: {fileID: 11400000, guid: d313165991f24624f95a5a276a9d28f9, type: 2}
+  - gameObjectName: Servo Motor
+    partData: {fileID: 11400000, guid: aa4e22fe7bf3c3142b71041d0a18e1d8, type: 2}
+  - gameObjectName: Power Transmission System
+    partData: {fileID: 11400000, guid: 249d0a2fbec4a0e41bfa143fd51b1c42, type: 2}
+  - gameObjectName: Power_transmission_belt
+    partData: {fileID: 11400000, guid: 30eaa7cfdf1d1d04b9ba2cef4b230450, type: 2}
+  - gameObjectName: power_transmission_system2
+    partData: {fileID: 11400000, guid: db7d77ba29adbc04b84c19edbca83e7b, type: 2}
+  - gameObjectName: Turret Head Base
+    partData: {fileID: 11400000, guid: d3db17bfa150e774bb71a8c1377de401, type: 2}
+  - gameObjectName: Tools
+    partData: {fileID: 11400000, guid: ea0e8da9b4f92c24d9b4b989bcbc876f, type: 2}
+  - gameObjectName: Tool_spacers7
+    partData: {fileID: 11400000, guid: e81838ad157139f41ac992b47ace2670, type: 2}
+  - gameObjectName: Tool_spacers6
+    partData: {fileID: 11400000, guid: 6f15e239a6228844a86a279e52ec48bb, type: 2}
+  - gameObjectName: Tool_spacers5
+    partData: {fileID: 11400000, guid: 01e773407e54ea24b9f10e0e68e7152e, type: 2}
+  - gameObjectName: Tool_spacers4
+    partData: {fileID: 11400000, guid: d3a033eafe30edc419b17bdb1e373760, type: 2}
+  - gameObjectName: Tool_spacers3
+    partData: {fileID: 11400000, guid: c43eedf7f61094247913df3af32d2a38, type: 2}
+  - gameObjectName: Tool_spacers2
+    partData: {fileID: 11400000, guid: 5079a62c2e0dfda4f811fc31812af721, type: 2}
+  - gameObjectName: Tool_spacers1
+    partData: {fileID: 11400000, guid: 53d0eed101a8153488229bf25ced97ed, type: 2}
+  - gameObjectName: Tool_spacers
+    partData: {fileID: 11400000, guid: 8729b3ccb72a30c41adb183e35decdfc, type: 2}
+  - gameObjectName: Drill3
+    partData: {fileID: 11400000, guid: ce4c7f25d1dd7ca4caa40bd18ad22a17, type: 2}
+  - gameObjectName: Drill2
+    partData: {fileID: 11400000, guid: 715c6e84baac5ca40a0fd997f1c59758, type: 2}
+  - gameObjectName: Drill1
+    partData: {fileID: 11400000, guid: 84ad954fc03ff7246b4d9d63b52b1539, type: 2}
+  - gameObjectName: Drill
+    partData: {fileID: 11400000, guid: 0042b542982633f41b3dd965cb0051d9, type: 2}
+  - gameObjectName: ToolHead
+    partData: {fileID: 11400000, guid: 2a8322a57ebe79941b6fe75b063212a9, type: 2}
+  - gameObjectName: Z-Axis Slide
+    partData: {fileID: 11400000, guid: 514ac5ce7332e1249911da6a81205efe, type: 2}
+  - gameObjectName: Mist Coolant Spray
+    partData: {fileID: 11400000, guid: 34e964303740c224da7c4ead431842a3, type: 2}
+  - gameObjectName: Cutting Tool
+    partData: {fileID: 11400000, guid: 55de6a2764591d74aa7ca15fd58b401d, type: 2}
+  - gameObjectName: Cutting Tool
+    partData: {fileID: 11400000, guid: 55de6a2764591d74aa7ca15fd58b401d, type: 2}
+  - gameObjectName: CNC Panel Switch
+    partData: {fileID: 11400000, guid: 84f5a2957f311a44684ba918204a686c, type: 2}

@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: AbsorptionChillerManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Pipe_9
+    partData: {fileID: 11400000, guid: ca863f2a38cfc9444b994708422f0eba, type: 2}
+  - gameObjectName: Pipe_16
+    partData: {fileID: 11400000, guid: 220d50caa69a77746826a0f9f66da15f, type: 2}
+  - gameObjectName: objects6
+    partData: {fileID: 11400000, guid: b80d47b794d24374797bb38eb9f78ec9, type: 2}
+  - gameObjectName: objects23
+    partData: {fileID: 11400000, guid: 04c9d073497d51f438249f7c3bd2c629, type: 2}
+  - gameObjectName: objects22
+    partData: {fileID: 11400000, guid: e8a3c7b5abffae6458e20f99d31cfa71, type: 2}
+  - gameObjectName: generator_cover
+    partData: {fileID: 11400000, guid: c0af353ba6d6a0a44b9bacdbcf336469, type: 2}
+  - gameObjectName: internal_pipes_rods1
+    partData: {fileID: 11400000, guid: 41688461f77e5e644b23bc22f52fa1b2, type: 2}
+  - gameObjectName: Pipe_11
+    partData: {fileID: 11400000, guid: 465520970fa5ed44f80b3425ca9835e5, type: 2}
+  - gameObjectName: Generator
+    partData: {fileID: 11400000, guid: 53f9716bb3f60f140a4aaf579759c1dc, type: 2}
+  - gameObjectName: burner
+    partData: {fileID: 11400000, guid: da041988ba63bf645b0820c098071239, type: 2}
+  - gameObjectName: gas_valve_to_burner
+    partData: {fileID: 11400000, guid: 48f90795d6e494b4e8acb8405ab57a29, type: 2}
+  - gameObjectName: objects48
+    partData: {fileID: 11400000, guid: ca7c0a484efb73c4681340380aa0d702, type: 2}
+  - gameObjectName: Boiler Burner
+    partData: {fileID: 11400000, guid: 38e48ec5783e1fc4d9b053c080415c0c, type: 2}
+  - gameObjectName: 'Double Valve '
+    partData: {fileID: 11400000, guid: f73f8ec592a4388419366d83e08b0ec0, type: 2}
+  - gameObjectName: Gas Outlet
+    partData: {fileID: 11400000, guid: 5263ddac2c0e3774a8512fc2a38fb26e, type: 2}
+  - gameObjectName: objects7
+    partData: {fileID: 11400000, guid: 5142c7df473b1994fad1f9d06e1e8083, type: 2}
+  - gameObjectName: Filter
+    partData: {fileID: 11400000, guid: 058b3cc3e74be064c8fdfb451c6b0f48, type: 2}
+  - gameObjectName: Control Panel
+    partData: {fileID: 11400000, guid: 184e2821d01217a438a5e42c52f2cd82, type: 2}
+  - gameObjectName: objects30
+    partData: {fileID: 11400000, guid: 1db42ac6cb9f57240ae848035dd81dfa, type: 2}
+  - gameObjectName: objects20
+    partData: {fileID: 11400000, guid: 58d7082becb4caa48942d8cae2c55473, type: 2}
+  - gameObjectName: objects24
+    partData: {fileID: 11400000, guid: 5fcd3e59f88000c4f9ffe6e3d0f4c6a8, type: 2}
+  - gameObjectName: objects35
+    partData: {fileID: 11400000, guid: 28b2289941ec77140a80afcd546deb5a, type: 2}
+  - gameObjectName: objects52
+    partData: {fileID: 11400000, guid: a91410e2e6feb444a8eb25598b603ba1, type: 2}
+  - gameObjectName: objects62
+    partData: {fileID: 11400000, guid: d7ea10c71e50d5a4cb9d5e6035a525f5, type: 2}
+  - gameObjectName: condenser
+    partData: {fileID: 11400000, guid: 542c0f24c67f07a42b9d1c47bb5bcd0c, type: 2}
+  - gameObjectName: condenser fins
+    partData: {fileID: 11400000, guid: abb2ed870da88404492522aed0f19a2d, type: 2}
+  - gameObjectName: internal_pipes_rods4
+    partData: {fileID: 11400000, guid: 21232d52de5990d42b5eae9bef59417f, type: 2}
+  - gameObjectName: condenser_cover
+    partData: {fileID: 11400000, guid: 06ba6059bbe134c4bb269549ac4084f9, type: 2}
+  - gameObjectName: Heat exchanger
+    partData: {fileID: 11400000, guid: 239e4d509a2eda94a829d4f948e7b692, type: 2}
+  - gameObjectName: Purge System
+    partData: {fileID: 11400000, guid: 5e678d1bb085d7f48810833663a8a31b, type: 2}
+  - gameObjectName: objects3
+    partData: {fileID: 11400000, guid: e27fc8a3e439a4b4f810f6d212c2e00c, type: 2}
+  - gameObjectName: Pipe_3
+    partData: {fileID: 11400000, guid: 4e77580943b9e104090edc7897fb9d16, type: 2}
+  - gameObjectName: Pipe_5
+    partData: {fileID: 11400000, guid: c9d02e93f1785794a8c4717da3ffdf74, type: 2}
+  - gameObjectName: Pipe_10
+    partData: {fileID: 11400000, guid: fda5a189c59977f488d71c31c8baa8c1, type: 2}
+  - gameObjectName: objects16
+    partData: {fileID: 11400000, guid: 091b8ec478e03de42b669858a0911ca7, type: 2}
+  - gameObjectName: Fins8
+    partData: {fileID: 11400000, guid: 43d379cbeef4814459a8d72e8fe938d7, type: 2}
+  - gameObjectName: Fins6
+    partData: {fileID: 11400000, guid: 5cd3a95b7a484db4ebc9ef07a17357b7, type: 2}
+  - gameObjectName: Fins4
+    partData: {fileID: 11400000, guid: ecc9630f7ed39b344bab2ba951ed9718, type: 2}
+  - gameObjectName: Fins2
+    partData: {fileID: 11400000, guid: 68458d6cb343c174293fdd57c3989a56, type: 2}
+  - gameObjectName: absorber_cover
+    partData: {fileID: 11400000, guid: 3c589f1887473c347975924d8bdb4b03, type: 2}
+  - gameObjectName: absorber_cover1
+    partData: {fileID: 11400000, guid: 4f6dc4c08bdb0024ab19b15bf3e560bf, type: 2}
+  - gameObjectName: Evaporater
+    partData: {fileID: 11400000, guid: 63d59cb1497eafe49b25305767a24827, type: 2}
+  - gameObjectName: Absorber
+    partData: {fileID: 11400000, guid: 53e01baa738eb6148ae1115e88730c16, type: 2}
+  - gameObjectName: objects58
+    partData: {fileID: 11400000, guid: ca02b1a6da0e4ca40a8ddd87c8941737, type: 2}
+  - gameObjectName: Absorbent_pump_assembly
+    partData: {fileID: 11400000, guid: 28883913e0ed5ee4f94848df60f58f40, type: 2}
+  - gameObjectName: Absorber
+    partData: {fileID: 11400000, guid: 53e01baa738eb6148ae1115e88730c16, type: 2}
+  - gameObjectName: Fins7
+    partData: {fileID: 11400000, guid: fd22289e7d670b24b8792f546b5f2592, type: 2}
+  - gameObjectName: Fins5
+    partData: {fileID: 11400000, guid: 86d31ed9cde4acb4592beab223362fb7, type: 2}
+  - gameObjectName: Fins3
+    partData: {fileID: 11400000, guid: ceebde0f382a9654db4151455cda93a7, type: 2}
+  - gameObjectName: Fins1
+    partData: {fileID: 11400000, guid: dec99e4a5afaa594a8088141a4305545, type: 2}
+  - gameObjectName: Chilled water outlet
+    partData: {fileID: 11400000, guid: 30c1a8c6ebb34fb46904713a5e7b03ce, type: 2}
+  - gameObjectName: Chilled water inlet
+    partData: {fileID: 11400000, guid: 536d7981ab8bdd24faea81e865971be7, type: 2}
+  - gameObjectName: Evaporator_cover1
+    partData: {fileID: 11400000, guid: 14945f4b29b2517418bde98454ce28b0, type: 2}
+  - gameObjectName: Evaporator_cover
+    partData: {fileID: 11400000, guid: 18517a79026b87b44b9a4eb477d6a7d5, type: 2}
+  - gameObjectName: Evaporator
+    partData: {fileID: 11400000, guid: 3a770608ff5176f42a294496ad58edc5, type: 2}
+  - gameObjectName: vacuum_motor
+    partData: {fileID: 11400000, guid: a98efaace6c00d34d987437ed373fe6c, type: 2}
+  - gameObjectName: pulley2
+    partData: {fileID: 11400000, guid: 744bec56669fb964da03bdc1e8eab884, type: 2}
+  - gameObjectName: pulley1
+    partData: {fileID: 11400000, guid: e65446de44fa1cd49bf489232bea4a07, type: 2}
+  - gameObjectName: motor
+    partData: {fileID: 11400000, guid: 456a2e893f8bfe64ba707fc93bf460e0, type: 2}
+  - gameObjectName: belt
+    partData: {fileID: 11400000, guid: a142eb9da51df734f956493bf7ab2bd5, type: 2}
+  - gameObjectName: Flow Switch
+    partData: {fileID: 11400000, guid: 3868962b46a6c3b48b905d13158bea4a, type: 2}
+  - gameObjectName: Sight_glass3
+    partData: {fileID: 11400000, guid: 96b2b123d266443468b72b91efde7756, type: 2}
+  - gameObjectName: Sight_glass2
+    partData: {fileID: 11400000, guid: 723ee1cc6c6a64649ba3de658ce6d64a, type: 2}
+  - gameObjectName: Sight Glass1
+    partData: {fileID: 11400000, guid: cb472155b9b39b04d9a85d12f7eab63e, type: 2}
+  - gameObjectName: Chilled Water Temperature Transmitter
+    partData: {fileID: 11400000, guid: 5272caf662fd2994580ff0fde863a4da, type: 2}
+  - gameObjectName: objects18
+    partData: {fileID: 11400000, guid: 6e688cb2bdaf54a4dac9ad8d864d4a55, type: 2}
+  - gameObjectName: Refrigerant_pump_assembly
+    partData: {fileID: 11400000, guid: a155b5cbe2deeb54cb9f1c4d54a0405c, type: 2}
+  - gameObjectName: Base stand 4
+    partData: {fileID: 11400000, guid: a9137d00079a25646942666f65111bd7, type: 2}
+  - gameObjectName: Base stand 3
+    partData: {fileID: 11400000, guid: 0fc943329204b83449ebdd3579159f1b, type: 2}
+  - gameObjectName: Base stand 2
+    partData: {fileID: 11400000, guid: 8e800abb07d21b64a9b97b63146f9a58, type: 2}
+  - gameObjectName: Base stand
+    partData: {fileID: 11400000, guid: 0bc1a0b0ce47d724ea433f55415e532f, type: 2}
+  - gameObjectName: Steam_inlet
+    partData: {fileID: 11400000, guid: f80f8f0c596c6ab45861c1a7b654d3ad, type: 2}
+  - gameObjectName: Pipe_17
+    partData: {fileID: 11400000, guid: 8dc8e926c875bca4ebaafc2695689f97, type: 2}
+  - gameObjectName: Pipe_15
+    partData: {fileID: 11400000, guid: 02c8a66eec7876e4e92fad95178c0484, type: 2}
+  - gameObjectName: Pipe_14
+    partData: {fileID: 11400000, guid: a34594b9468e47a45bfbd35f47da83f8, type: 2}
+  - gameObjectName: Pipe_13
+    partData: {fileID: 11400000, guid: e7d58204e5cd6d84f95e751ca4ab52bd, type: 2}
+  - gameObjectName: Pipe_12
+    partData: {fileID: 11400000, guid: f663cf2db464f3f4180ae6ac4b3b8964, type: 2}
+  - gameObjectName: Pipe_8
+    partData: {fileID: 11400000, guid: 11f006070a6fea64683d90c8be4e2b0e, type: 2}
+  - gameObjectName: Pipe_7
+    partData: {fileID: 11400000, guid: f4cb5f1b271b3064396fad9f6fd6a79b, type: 2}
+  - gameObjectName: Pipe_6
+    partData: {fileID: 11400000, guid: f71d6c14ef39aca4c9a39adeb1aa854d, type: 2}
+  - gameObjectName: Pipe_4
+    partData: {fileID: 11400000, guid: a826806cb4981f348a26b7bb39735887, type: 2}
+  - gameObjectName: Pipe_2
+    partData: {fileID: 11400000, guid: 0aba8c63811623343b2918a884799787, type: 2}
+  - gameObjectName: objects55
+    partData: {fileID: 11400000, guid: 5e69c921c82cd4040b89f5dd20adda44, type: 2}
+  - gameObjectName: objects61
+    partData: {fileID: 11400000, guid: 19ac8fb6605b4d241ba5f96bb5bc1bd1, type: 2}
+  - gameObjectName: Pipe_1
+    partData: {fileID: 11400000, guid: dd4996ec5ff18f8498af4c2c6fced3f2, type: 2}

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: DrumBrakeManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Inner_01_low.
+    partData: {fileID: 11400000, guid: e0c37c6dde75fc74eb44b4be801bf543, type: 2}
+  - gameObjectName: BackPlate.
+    partData: {fileID: 11400000, guid: 78c851225176ddb48903c732d949da8d, type: 2}
+  - gameObjectName: Brake drum
+    partData: {fileID: 11400000, guid: db2d5dc478c691c48ba4011b0203b34f, type: 2}
+  - gameObjectName: Nut_01_low.
+    partData: {fileID: 11400000, guid: cc51f239fdb3a454593559736d7a6315, type: 2}
+  - gameObjectName: Nut_02_low.
+    partData: {fileID: 11400000, guid: a8bd61eb01d397a46b7bda732ed1e542, type: 2}
+  - gameObjectName: Nut_03_low.
+    partData: {fileID: 11400000, guid: f4d90f5d5f9eb514d8ef30a7fb13727b, type: 2}
+  - gameObjectName: Spring_Base_low.
+    partData: {fileID: 11400000, guid: a0e9b881ee68bf94aaaa4fc5e522f54a, type: 2}
+  - gameObjectName: Bolt_01_low.
+    partData: {fileID: 11400000, guid: c0743efa56327da43a567dd43ead6e97, type: 2}
+  - gameObjectName: BrakeShoe/BrakeLining
+    partData: {fileID: 11400000, guid: 7d394bbb2c4dd7c4a95157d826a7090a, type: 2}
+  - gameObjectName: Wheel cylinder
+    partData: {fileID: 11400000, guid: 497f873fc8cf774468162f97b2190518, type: 2}
+  - gameObjectName: Rubber_01_low
+    partData: {fileID: 11400000, guid: 5137fc0ae4a2fad4491ee280b68c02aa, type: 2}
+  - gameObjectName: Automatic lever
+    partData: {fileID: 11400000, guid: 2fd06e9034bf61c4ca221b28278021fb, type: 2}
+  - gameObjectName: Parking lever
+    partData: {fileID: 11400000, guid: 3bdc4b6973073d741a933bafe7dd251b, type: 2}
+  - gameObjectName: Cyl_02_low
+    partData: {fileID: 11400000, guid: 6124885a7d6ffb146853bf87b7aac912, type: 2}
+  - gameObjectName: Gear_low
+    partData: {fileID: 11400000, guid: 4439f2afc7a28a04bb1b75231f13d9ae, type: 2}
+  - gameObjectName: Return spring
+    partData: {fileID: 11400000, guid: b12deb32fe2c60c469854cb323c440b0, type: 2}
+  - gameObjectName: Spring_Base_02_low
+    partData: {fileID: 11400000, guid: 9cd217238ab8f2743bc7309affefe822, type: 2}
+  - gameObjectName: Piston_low
+    partData: {fileID: 11400000, guid: 9e762ec54f4d8ad46861873c0139b773, type: 2}
+  - gameObjectName: Base
+    partData: {fileID: 11400000, guid: 4e5a45a26aa2e064a96cbf4d9ffc8a57, type: 2}
+  - gameObjectName: Pedal
+    partData: {fileID: 11400000, guid: 160c26310ef50dd4c86dcd9579c6384b, type: 2}
+  - gameObjectName: MasterCylinder1
+    partData: {fileID: 11400000, guid: 138c2235e47fde54abc9cf40ebed9a12, type: 2}
+  - gameObjectName: MaterCylinder
+    partData: {fileID: 11400000, guid: 43dcfe494a692a243b8fab648259e802, type: 2}
+  - gameObjectName: Fluid
+    partData: {fileID: 11400000, guid: 747e42eaeb249ed45afea270a1f45230, type: 2}
+  - gameObjectName: FluidPipe
+    partData: {fileID: 11400000, guid: 6d0196f3ccc963a43ae8ef49eedc3bdf, type: 2}

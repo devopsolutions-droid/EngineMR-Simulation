@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: LiquidRingCompressorData
+  m_EditorClassIdentifier: 
+  engineName: 'Liquid Ring Compressor '
+  engineDescription: A Liquid Ring Compressor is a rotary compressor that uses a
+    rotating liquid ring to compress gases and is particularly suitable for applications
+    requiring reliable gas handling and sealing. It operates using an eccentrically
+    mounted impeller inside a casing partially filled with sealing liquid, usually
+    water or another compatible fluid. Its major components include the casing, impeller,
+    shaft, liquid ring, inlet and outlet ports, bearings, and mechanical seals. During
+    operation, the rotating impeller causes the liquid to form a ring around the
+    casing. Because of the eccentric position of the impeller, the spaces between
+    the impeller blades and liquid ring continuously change in volume, drawing gas
+    in and compressing it before discharge. Liquid ring compressors are widely used
+    in vacuum systems, chemical processing, refrigeration, petroleum industries,
+    and gas handling. From an engineering perspective, liquid-ring formation, sealing
+    effectiveness, gas compression, liquid temperature, cavitation, corrosion, and
+    power consumption are important factors affecting performance.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 927487b236a0bfe448931e29ed571139, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

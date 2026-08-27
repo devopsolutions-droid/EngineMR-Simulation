@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: HydraulicSteeringSystemData
+  m_EditorClassIdentifier: 
+  engineName: Hydraulic Steering System
+  engineDescription: A Hydraulic Steering System is a power-assisted steering mechanism
+    that uses pressurized hydraulic fluid to reduce the effort required for steering
+    vehicles and heavy machinery. Its main components include the hydraulic pump,
+    steering gear, control valve, hydraulic cylinder, fluid reservoir, hoses, and
+    steering wheel linkage. During operation, the hydraulic pump supplies pressurized
+    fluid to the steering gear, where the control valve directs the fluid to assist
+    the movement of the steering mechanism according to the driver's input. Hydraulic
+    steering systems are widely used in automobiles, trucks, buses, agricultural
+    tractors, construction equipment, and marine vessels. From an engineering perspective,
+    understanding hydraulic pressure, steering response, fluid flow, system efficiency,
+    leakage prevention, and maintenance is essential for ensuring safe, smooth, and
+    reliable steering performance.
+  engineCategory: Engineering
+  thumbnail: {fileID: 21300000, guid: 171afe93f7d757a4186afd8837817ab1, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 971103afddec5104d9d8fb76359f672d, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

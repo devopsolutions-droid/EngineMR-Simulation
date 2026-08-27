@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: GearPumpManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Cover_B
+    partData: {fileID: 11400000, guid: b6deaca9c58debb46b7805a7fdd1872b, type: 2}
+  - gameObjectName: Bolt1
+    partData: {fileID: 11400000, guid: 0a7190aa577eab243a88d2a91b48867f, type: 2}
+  - gameObjectName: Bolt2
+    partData: {fileID: 11400000, guid: 0762161ea9e99ef468a87bb64721b9ce, type: 2}
+  - gameObjectName: Bolt3
+    partData: {fileID: 11400000, guid: 5411dde976a1f874d8f116f37266f794, type: 2}
+  - gameObjectName: Bolt4
+    partData: {fileID: 11400000, guid: fe1798356e149a8408cf631298eae918, type: 2}
+  - gameObjectName: Gasket_B
+    partData: {fileID: 11400000, guid: d5a3fbb6be149de4a8ea4b08c5145773, type: 2}
+  - gameObjectName: Gasket_C
+    partData: {fileID: 11400000, guid: 9eda4f24d09b42e44b915abb19bf5733, type: 2}
+  - gameObjectName: Outlet 1
+    partData: {fileID: 11400000, guid: f67949f506381934a91c71bef29d9e2c, type: 2}
+  - gameObjectName: Outlet 2
+    partData: {fileID: 11400000, guid: 39cc7491f86b7fc44bcab72d5f9ce1db, type: 2}
+  - gameObjectName: casing_locker_A
+    partData: {fileID: 11400000, guid: 2bfe80d7ffc09294c8d09fcc1ae570fa, type: 2}
+  - gameObjectName: casing_locker_B
+    partData: {fileID: 11400000, guid: 214364bcd8194984cb8474d56eefc52b, type: 2}
+  - gameObjectName: casing_locker_C
+    partData: {fileID: 11400000, guid: d19e104280edb4444b09a033708f2f15, type: 2}
+  - gameObjectName: Casing_Locker_D
+    partData: {fileID: 11400000, guid: 4627b285f3c0c714189b0518cb77c776, type: 2}
+  - gameObjectName: Driven Shaft
+    partData: {fileID: 11400000, guid: c343f0df6c289c149af5932bcd23fb16, type: 2}
+  - gameObjectName: Bearing_A
+    partData: {fileID: 11400000, guid: 2dc077f4cd49b7b4099724130210405e, type: 2}
+  - gameObjectName: Berring_B
+    partData: {fileID: 11400000, guid: 9c7a3be9915753b4e986a16b44bee521, type: 2}
+  - gameObjectName: Berring_C
+    partData: {fileID: 11400000, guid: e8b8292e4695e524d9dd3b54380e6a23, type: 2}
+  - gameObjectName: Berring_D
+    partData: {fileID: 11400000, guid: fdc958af6af5d534fa8b804e9749e0dd, type: 2}
+  - gameObjectName: Slip Ring
+    partData: {fileID: 11400000, guid: 1cf44bca99a8b97468750becce674ebe, type: 2}
+  - gameObjectName: Ring_B
+    partData: {fileID: 11400000, guid: 7f1ab4999866ad548ad550ac95c5d3fd, type: 2}
+  - gameObjectName: Ring_C
+    partData: {fileID: 11400000, guid: 8432aac0fa566734b9f2bca75e5f5812, type: 2}
+  - gameObjectName: Ring_D
+    partData: {fileID: 11400000, guid: 76262e8428a704a43b8a6c0c00e22ef8, type: 2}
+  - gameObjectName: Casing
+    partData: {fileID: 11400000, guid: b9cec49449d4d984293af124cdc67d7a, type: 2}
+  - gameObjectName: Casing Cover
+    partData: {fileID: 11400000, guid: 00fc7a43aa1544f4f82847c167b0b87d, type: 2}
+  - gameObjectName: Drive Gear
+    partData: {fileID: 11400000, guid: 3e4c3bdd71bf02942af104223498bdd8, type: 2}
+  - gameObjectName: Driven (Idler) Gear
+    partData: {fileID: 11400000, guid: 33cb47f8dee38d64a9af6a17f1da56e1, type: 2}
+  - gameObjectName: Gasket
+    partData: {fileID: 11400000, guid: 2161bd4ecd19c974fb716e8be495d10d, type: 2}
+  - gameObjectName: Inlet
+    partData: {fileID: 11400000, guid: 96651fc8c2bbed341abb5c6a845e2826, type: 2}
+  - gameObjectName: Casing Seal
+    partData: {fileID: 11400000, guid: 3b13768bacc856741a3c6d664e39c0dc, type: 2}
+  - gameObjectName: Drive Shaft
+    partData: {fileID: 11400000, guid: 92e29902b4671504e9a8d9327c104a94, type: 2}

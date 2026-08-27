@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: MultistageCentrifugalPumpData
+  m_EditorClassIdentifier: 
+  engineName: Multistage Centrifugal Pump
+  engineDescription: 'A Multistage Centrifugal Pump is a dynamic fluid-handling device
+    used to transport liquids at high pressures by passing the fluid through multiple
+    impellers arranged in series within a single pump casing. It operates by converting
+    the mechanical energy supplied by a motor into hydraulic energy, with each impeller
+    progressively increasing the fluid pressure. Its main components include the
+    pump casing, multiple impellers, diffusers, shaft, bearings, mechanical seals,
+    suction and discharge nozzles, and coupling. During operation, liquid enters
+    through the suction inlet and flows sequentially through each impeller stage,
+    where its pressure is increased before being discharged at the outlet. The diffusers
+    help convert the fluid''s velocity into pressure, improving the pump''s overall
+    efficiency.
+
+
+    Multistage centrifugal pumps are widely used in water supply
+    systems, boiler feed applications, irrigation, power plants, mining, chemical
+    processing, reverse osmosis systems, and high-rise building water distribution
+    due to their ability to deliver high pressure with smooth and continuous flow.'
+  engineCategory: Engineering
+  thumbnail: {fileID: 21300000, guid: 94d3f07071b04824dbe3f53e4b6658c9, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: a31f548eb0c81f04daabf69b506614ee, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

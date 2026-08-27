@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: DrumBrakeData
+  m_EditorClassIdentifier: 
+  engineName: Drum Brake
+  engineDescription: 'A Drum Brake is a mechanical braking system used to slow down
+    or stop the rotation of a wheel by creating friction between brake shoes and
+    the inner surface of a rotating brake drum. Its main components include the brake
+    drum, brake shoes, wheel cylinder, return springs, backing plate, adjuster mechanism,
+    and parking brake lever. During operation, hydraulic pressure or mechanical force
+    pushes the brake shoes outward against the inner surface of the rotating drum,
+    generating friction that converts the vehicle''s kinetic energy into heat, thereby
+    reducing the wheel''s speed. When the braking force is released, the return springs
+    retract the brake shoes to their original position.
+
+
+    Drum brakes are widely
+    used in passenger vehicles, commercial vehicles, motorcycles, and heavy-duty
+    equipment, particularly on rear wheels due to their durability, cost-effectiveness,
+    and integrated parking brake functionality.'
+  engineCategory: Engineering
+  thumbnail: {fileID: 21300000, guid: 8ac7d6ca392031842bce1ccb70fbf93e, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 88014ea0af974f34b867db94e55d7057, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

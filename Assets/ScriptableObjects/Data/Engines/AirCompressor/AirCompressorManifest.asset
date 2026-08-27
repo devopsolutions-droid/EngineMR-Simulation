@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: AirCompressorManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Drive_belt4
+    partData: {fileID: 11400000, guid: e158a5e536ec8d74a8203f589ca17514, type: 2}
+  - gameObjectName: Motor_Fan
+    partData: {fileID: 11400000, guid: cb912b357eeb84f4b9f97f624c08e6cc, type: 2}
+  - gameObjectName: 1_Motor
+    partData: {fileID: 11400000, guid: 131e480f8779c1440a12c363b8d832ca, type: 2}
+  - gameObjectName: Tank
+    partData: {fileID: 11400000, guid: 5f30db7efb2bc0a48ba860f42357ac77, type: 2}
+  - gameObjectName: Outlet_Int
+    partData: {fileID: 11400000, guid: b87def586c471e545b059fb144076ace, type: 2}
+  - gameObjectName: inlet_pipe1_Int
+    partData: {fileID: 11400000, guid: fce6dd82f9a4ff04fa9a8b539d4ef88a, type: 2}
+  - gameObjectName: Controlls _ Int
+    partData: {fileID: 11400000, guid: 89eef2da7592a3c4186e1a6559515a03, type: 2}
+  - gameObjectName: CylinderCapTransparent
+    partData: {fileID: 11400000, guid: a044c1edb6425274692670d7e2282bb6, type: 2}
+  - gameObjectName: HP_cylinder5
+    partData: {fileID: 11400000, guid: 011de12d41fd1f8498fd3604cc996ca3, type: 2}
+  - gameObjectName: HP_cylinder3
+    partData: {fileID: 11400000, guid: 71e1e8eef2209a54aa4330542746cb8b, type: 2}
+  - gameObjectName: CylinderCap
+    partData: {fileID: 11400000, guid: 07b1cefaaf43e6e43abab7251733d0cb, type: 2}
+  - gameObjectName: RemovableCylinder_Int
+    partData: {fileID: 11400000, guid: 52a9b198b972fe644a0a64636910ad9c, type: 2}
+  - gameObjectName: CylinderCapTransparent
+    partData: {fileID: 11400000, guid: a044c1edb6425274692670d7e2282bb6, type: 2}
+  - gameObjectName: LP_cylinder5
+    partData: {fileID: 11400000, guid: e0792210fc152a0458dee5d879f03440, type: 2}
+  - gameObjectName: LP_cylinder3
+    partData: {fileID: 11400000, guid: 5c63c3130c642bf46b8c72268614955b, type: 2}
+  - gameObjectName: CylinderCap
+    partData: {fileID: 11400000, guid: 07b1cefaaf43e6e43abab7251733d0cb, type: 2}
+  - gameObjectName: RemovableCylinder
+    partData: {fileID: 11400000, guid: 979bc4e250c9fba4097e8cae560c6bcf, type: 2}
+  - gameObjectName: 5_Air_filter
+    partData: {fileID: 11400000, guid: 0efda33ad4c3ce24b9daa52d9c039d7c, type: 2}
+  - gameObjectName: 6_Crank_case
+    partData: {fileID: 11400000, guid: 1584670d43763b148b3501ff99bdcb5d, type: 2}
+  - gameObjectName: 7_Inter_Cooler
+    partData: {fileID: 11400000, guid: 63932bb5b9ce3be4e92c643d79793912, type: 2}
+  - gameObjectName: Drive_belt5
+    partData: {fileID: 11400000, guid: b35a4c988c4769a43add033f167db2fa, type: 2}
+  - gameObjectName: 8_Crank_shaft
+    partData: {fileID: 11400000, guid: a954848c05f19df43882693410a2b64b, type: 2}
+  - gameObjectName: 9_Pressure_gauge
+    partData: {fileID: 11400000, guid: 318b3dd4cc2cea645a84fbcb1df2d01e, type: 2}
+  - gameObjectName: Drive_belt6
+    partData: {fileID: 11400000, guid: 759842c2c2dbbc04596e96239634c8fc, type: 2}
+  - gameObjectName: Drive_belt2
+    partData: {fileID: 11400000, guid: 6d6061d003637ca48b5717c12339d2f5, type: 2}
+  - gameObjectName: Drive_belt1
+    partData: {fileID: 11400000, guid: d3baa98fec12ad245a6aaf0ae1711381, type: 2}

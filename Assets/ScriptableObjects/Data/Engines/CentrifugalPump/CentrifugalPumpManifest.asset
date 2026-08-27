@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: CentrifugalPumpManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Stand
+    partData: {fileID: 11400000, guid: 32e7b3e79d0d6d543a120b81a6be9e34, type: 2}
+  - gameObjectName: Full_Section
+    partData: {fileID: 11400000, guid: d8db3565beaccce489260a57a3ceb26a, type: 2}
+  - gameObjectName: Cut_Section
+    partData: {fileID: 11400000, guid: 91d3ed89f76784247846f22b4c6b4952, type: 2}
+  - gameObjectName: DischargeNozzle
+    partData: {fileID: 11400000, guid: 95c8cc59659afec4e99089c4b04c08d1, type: 2}
+  - gameObjectName: Cut_Section
+    partData: {fileID: 11400000, guid: 91d3ed89f76784247846f22b4c6b4952, type: 2}
+  - gameObjectName: Full_Section
+    partData: {fileID: 11400000, guid: d8db3565beaccce489260a57a3ceb26a, type: 2}
+  - gameObjectName: Stand
+    partData: {fileID: 11400000, guid: 32e7b3e79d0d6d543a120b81a6be9e34, type: 2}
+  - gameObjectName: Impeller
+    partData: {fileID: 11400000, guid: 74bf7d9910e5aca409670ae845be215e, type: 2}
+  - gameObjectName: Full_Section
+    partData: {fileID: 11400000, guid: d8db3565beaccce489260a57a3ceb26a, type: 2}
+  - gameObjectName: Cut_Section
+    partData: {fileID: 11400000, guid: 91d3ed89f76784247846f22b4c6b4952, type: 2}
+  - gameObjectName: Pipe_Extension
+    partData: {fileID: 11400000, guid: 4986b047453b74f44a9fe2e1946d0915, type: 2}
+  - gameObjectName: Cover Plate
+    partData: {fileID: 11400000, guid: ea3a0d51d1dfdf149a73658441c9958a, type: 2}
+  - gameObjectName: Coupling
+    partData: {fileID: 11400000, guid: dfc94da58f3c0e84b8280508349f13a0, type: 2}
+  - gameObjectName: Motor
+    partData: {fileID: 11400000, guid: 2983500c262f9f748876e951933aad4e, type: 2}
+  - gameObjectName: Shaft
+    partData: {fileID: 11400000, guid: 3f6c8beb29a5ba4458d2fb312709de18, type: 2}
+  - gameObjectName: Shadow (1)
+    partData: {fileID: 11400000, guid: e3a4bddae25f0ef438962a3ae2092be5, type: 2}
+  - gameObjectName: Shadow (2)
+    partData: {fileID: 11400000, guid: 2e983dfcfdd1a05439726dd0b7548711, type: 2}
+  - gameObjectName: Shadow (3)
+    partData: {fileID: 11400000, guid: 613d0508ee828174b9a06fa35620cf1f, type: 2}
+  - gameObjectName: Shadow
+    partData: {fileID: 11400000, guid: 0819e703c0e44514d976674b9794e020, type: 2}

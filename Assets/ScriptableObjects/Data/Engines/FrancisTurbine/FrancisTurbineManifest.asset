@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: FrancisTurbineManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Runner_Blade
+    partData: {fileID: 11400000, guid: 99d054241c77de34dbd18a02d8f80b8f, type: 2}
+  - gameObjectName: Bottom_cover
+    partData: {fileID: 11400000, guid: 7f5deb6410f4f6a4a9cf3113c83ff081, type: 2}
+  - gameObjectName: GuidedVanesOutline
+    partData: {fileID: 11400000, guid: bbfd5eeb04be48b4daf03b347108f77b, type: 2}
+  - gameObjectName: Stay_Vanes
+    partData: {fileID: 11400000, guid: e0de3b19c401db04495e44c07064e472, type: 2}
+  - gameObjectName: Shaft
+    partData: {fileID: 11400000, guid: 7c2fb964420d8154c8566f3f6d3b7a86, type: 2}
+  - gameObjectName: SpiralCaseOutline
+    partData: {fileID: 11400000, guid: 08ed57365186d5641ad9c772163d873b, type: 2}
+  - gameObjectName: OperatorRingOutline
+    partData: {fileID: 11400000, guid: ce3016da82f12f14783f1301bc05185b, type: 2}
+  - gameObjectName: Water_intel_valve
+    partData: {fileID: 11400000, guid: de658711f27eedf49a1785f5e375b0f2, type: 2}
+  - gameObjectName: Water_intel_pipe1
+    partData: {fileID: 11400000, guid: 2400bd25b45ec3849a76148958266c76, type: 2}
+  - gameObjectName: DraftTube
+    partData: {fileID: 11400000, guid: e700b0c192989174ba2f00590a1e6161, type: 2}
+  - gameObjectName: Spiral_Case
+    partData: {fileID: 11400000, guid: b19f59f7246e39c4b8f77cf82acad98f, type: 2}
+  - gameObjectName: GuidedVane
+    partData: {fileID: 11400000, guid: ac709745cd591e84db6342565b25f23d, type: 2}
+  - gameObjectName: OperatorRing_WaterGuidingDevice
+    partData: {fileID: 11400000, guid: dc328be2cda121444a84f83670c8f5a3, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8570e25f67e4d9b47982d8b1123bce61, type: 3}
+  m_Name: Ball
+  m_EditorClassIdentifier: 
+  partName: Ball
+  description: This is a Ball that rotates within the valve to control airflow and
+    sealing, allowing or blocking fluid flow through the valve.
+  audioExplanation: {fileID: 8300000, guid: 1f41b7ef1fca2e843931529e66f03b70, type: 3}

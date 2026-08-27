@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: FireTubeBoilerManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Back_tubesheet
+    partData: {fileID: 11400000, guid: 59d4d0d396c746a48ace27c95f316a89, type: 2}
+  - gameObjectName: Front_Tubesheet
+    partData: {fileID: 11400000, guid: a2150fd41fee76f40a17125538e109f1, type: 2}
+  - gameObjectName: Reversal_Chamber
+    partData: {fileID: 11400000, guid: ccc70fd6607352945b485bed056f80d9, type: 2}
+  - gameObjectName: Corrugated_Furnace
+    partData: {fileID: 11400000, guid: dc7c3d739a3cc0c49bba3a4d2fe4f0be, type: 2}
+  - gameObjectName: Third_Smoketube
+    partData: {fileID: 11400000, guid: 9465f04cf2d0f2a4cb4fb1cb607098d7, type: 2}
+  - gameObjectName: Second_Smoketube
+    partData: {fileID: 11400000, guid: 718e050a30863e240a1a8989cc73ef95, type: 2}
+  - gameObjectName: Shell
+    partData: {fileID: 11400000, guid: 6d6139c967ed5bd42b4a1417be35e87b, type: 2}
+  - gameObjectName: inspection_doors_Front
+    partData: {fileID: 11400000, guid: 5983b373960319649b729599723d5763, type: 2}
+  - gameObjectName: inspection_doors_back
+    partData: {fileID: 11400000, guid: 002863733fe6b55488c02256d10f0725, type: 2}
+  - gameObjectName: Smokebox_front
+    partData: {fileID: 11400000, guid: cae1a796d4e79d34aa172b21b2716154, type: 2}
+  - gameObjectName: Smokebox_back
+    partData: {fileID: 11400000, guid: c991f9cc80fdc84449e7bd0ccd479b49, type: 2}
+  - gameObjectName: ladder_mesh
+    partData: {fileID: 11400000, guid: a27dd9217198d5b4ebda390f1fdbd4f0, type: 2}
+  - gameObjectName: Ladder
+    partData: {fileID: 11400000, guid: 2bf5269f9b4feae4c93a38d31a07a5e8, type: 2}
+  - gameObjectName: Feed_water_pump
+    partData: {fileID: 11400000, guid: 9c7ad37b3fd3ccd408449954b664a184, type: 2}
+  - gameObjectName: Drain
+    partData: {fileID: 11400000, guid: d195c27ee1fb3b14f9fab6b7ffbd8ec4, type: 2}
+  - gameObjectName: BurnerOutline (1)
+    partData: {fileID: 11400000, guid: bf4eb0aebf5c83e44b94e872ca452d66, type: 2}
+  - gameObjectName: Burner
+    partData: {fileID: 11400000, guid: a688583b41bf0dc42823a889e503966a, type: 2}
+  - gameObjectName: Support
+    partData: {fileID: 11400000, guid: 8de4d434e4447bc429a322b48263beaa, type: 2}
+  - gameObjectName: manhole
+    partData: {fileID: 11400000, guid: 7fbbc9b5e0bb5d140ab0fa10da8b15fc, type: 2}
+  - gameObjectName: Cover
+    partData: {fileID: 11400000, guid: f32d655130c25a341ba78c018c5a8332, type: 2}
+  - gameObjectName: water_lavel_gauge
+    partData: {fileID: 11400000, guid: f41216d42feb2124d83fd7d3d2280985, type: 2}
+  - gameObjectName: Safety_walve
+    partData: {fileID: 11400000, guid: cf7772f966a73b94da3badbf1211adc4, type: 2}
+  - gameObjectName: pressure_Gauges
+    partData: {fileID: 11400000, guid: a489bd6862c50434286fc1b1f244149f, type: 2}

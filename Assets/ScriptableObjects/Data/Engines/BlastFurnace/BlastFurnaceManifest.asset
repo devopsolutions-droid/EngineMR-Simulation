@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: BlastFurnaceManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Alternative System Load
+    partData: {fileID: 11400000, guid: 480bb11cbc366fa44a659c562e8f8bce, type: 2}
+  - gameObjectName: blast_Furnance_cover1
+    partData: {fileID: 11400000, guid: fc42d4196e057194c83e49208a636bf9, type: 2}
+  - gameObjectName: blast_Furnance_cover2
+    partData: {fileID: 11400000, guid: 1d1961dfa3c63f34abdd0c27b917f31d, type: 2}
+  - gameObjectName: Coke
+    partData: {fileID: 11400000, guid: 1abb706224548fb46a263bb35623e5a8, type: 2}
+  - gameObjectName: Tuyere
+    partData: {fileID: 11400000, guid: c560e4b4d77220645a71a84f000d676a, type: 2}
+  - gameObjectName: Pulverized Coal Injection
+    partData: {fileID: 11400000, guid: 954d13d970484804cae0dd53304f6dbc, type: 2}
+  - gameObjectName: Bustle Pipe01
+    partData: {fileID: 11400000, guid: b6bf9fb0696aaf74c81205ecf6c83ed3, type: 2}
+  - gameObjectName: Bustle Pipe02
+    partData: {fileID: 11400000, guid: 5b64bdd39598d4648a0f63d2795c7d6a, type: 2}
+  - gameObjectName: Wall_Pipe
+    partData: {fileID: 11400000, guid: b7b686cc3ed8ca3448d49aac468ed219, type: 2}
+  - gameObjectName: Wall_Pipe1
+    partData: {fileID: 11400000, guid: 4ddb722ea0cc9174ea2c94cbe0e3a697, type: 2}

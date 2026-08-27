@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: CrossFlowTurbineData
+  m_EditorClassIdentifier: 
+  engineName: CrossFlow Turbine
+  engineDescription: A Cross Flow Turbine is a water turbine used to convert the
+    kinetic and potential energy of flowing water into mechanical rotational energy,
+    with the water passing through the runner in a direction transverse to its rotational
+    axis. Its main components include the nozzle, guide mechanism, cylindrical runner,
+    curved blades, shaft, casing, and bearings. During operation, water from the
+    penstock enters the turbine through a nozzle, which converts pressure energy
+    into a high-velocity water jet. The jet strikes the curved blades of the rotating
+    runner and transfers energy to the runner. The water then passes through the
+    runner a second time, transferring additional energy before leaving the turbine.
+    Cross-flow turbines are widely used in small and micro-hydroelectric power plants,
+    particularly where water flow conditions vary significantly. From an engineering
+    perspective, understanding hydraulic efficiency, nozzle design, blade geometry,
+    water velocity, runner speed, head and flow rate, cavitation, mechanical losses,
+    and maintenance is essential for achieving efficient and reliable power generation.
+  engineCategory: Engineering
+  thumbnail: {fileID: 21300000, guid: 6b5e315dca9bdca4c8c8196383a123d0, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: a1df28a744b6d0849b0b1eb478962e11, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

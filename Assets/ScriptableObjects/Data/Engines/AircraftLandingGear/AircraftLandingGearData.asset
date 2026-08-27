@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: AircraftLandingGearData
+  m_EditorClassIdentifier: 
+  engineName: Aircraft Landing Gear
+  engineDescription: An Aircraft Landing Gear System is a mechanical system that
+    supports an aircraft during landing, takeoff, taxiing, and ground operations
+    while absorbing the impact forces generated during touchdown. Its main components
+    include landing gear struts, wheels, tires, shock absorbers, hydraulic actuators,
+    brakes, bearings, retraction mechanisms, and control linkages. During operation,
+    the landing gear is extended before landing to provide a stable support structure
+    for the aircraft. During touchdown, the shock-absorbing mechanism absorbs and
+    dissipates landing impact energy, while the wheels rotate to allow the aircraft
+    to decelerate smoothly. After takeoff, the landing gear can be retracted into
+    the aircraft structure to reduce aerodynamic drag. Aircraft landing gear systems
+    are widely used in commercial aircraft, military aircraft, helicopters, and general
+    aviation aircraft. From an engineering perspective, understanding impact loading,
+    structural strength, shock absorption, hydraulic actuation, braking, fatigue,
+    vibration, aerodynamic drag, and maintenance inspection is essential for ensuring
+    safe and reliable aircraft operation.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 4fa6d991b6403674480c15e1b8e024a4, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

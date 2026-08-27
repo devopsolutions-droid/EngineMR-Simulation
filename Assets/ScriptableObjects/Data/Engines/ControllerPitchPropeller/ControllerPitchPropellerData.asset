@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: ControllerPitchPropellerData
+  m_EditorClassIdentifier: 
+  engineName: Controller Pitch Propeller
+  engineDescription: A Controllable Pitch Propeller is a marine propulsion system
+    that allows the pitch angle of the propeller blades to be adjusted during operation
+    to control thrust and vessel speed without necessarily changing the rotational
+    speed of the engine. Its main components include the propeller hub, adjustable
+    blades, pitch-control mechanism, hydraulic actuator, propeller shaft, control
+    valve, bearings, and control system. During operation, engine power is transmitted
+    through the propeller shaft to rotate the propeller. The blade pitch is adjusted
+    using a hydraulic or mechanical mechanism, allowing the amount of thrust generated
+    by the propeller to be varied. Increasing the pitch generally increases the propeller's
+    thrust and load, while reducing the pitch decreases thrust and allows efficient
+    operation under different vessel conditions. Controllable pitch propellers are
+    widely used in ships, tugboats, ferries, offshore vessels, fishing vessels, and
+    naval craft. From an engineering perspective, understanding blade hydrodynamics,
+    pitch control, thrust generation, cavitation, hydraulic actuation, shaft loading,
+    efficiency, vibration, and control-system reliability is essential for efficient
+    marine propulsion.
+  engineCategory: Engineering
+  thumbnail: {fileID: 21300000, guid: 4e2c9958db7d49644b3fc603fc5278f2, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 79e00713c23891e4e83c786487908ca3, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

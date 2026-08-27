@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: AxialFlowCompressorManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Fan_Blades
+    partData: {fileID: 11400000, guid: 3f1990e204686784fba15ede1add815f, type: 2}
+  - gameObjectName: Frontcap
+    partData: {fileID: 11400000, guid: 15ca48eced3ea78409bccca0dbdefd30, type: 2}
+  - gameObjectName: Roted
+    partData: {fileID: 11400000, guid: af91f5976abc8534987336b33fb6c171, type: 2}
+  - gameObjectName: Roted
+    partData: {fileID: 11400000, guid: af91f5976abc8534987336b33fb6c171, type: 2}
+  - gameObjectName: Roted
+    partData: {fileID: 11400000, guid: af91f5976abc8534987336b33fb6c171, type: 2}
+  - gameObjectName: Roted
+    partData: {fileID: 11400000, guid: af91f5976abc8534987336b33fb6c171, type: 2}
+  - gameObjectName: Blade1
+    partData: {fileID: 11400000, guid: de19dcc4fdafe3248ac55eea191a10c9, type: 2}
+  - gameObjectName: Blade3
+    partData: {fileID: 11400000, guid: 41e861f5feaee91418f262d9584bffea, type: 2}
+  - gameObjectName: Blade5
+    partData: {fileID: 11400000, guid: 6e10b75c6baab6f4e90fe99d9972e1f2, type: 2}
+  - gameObjectName: Blade7
+    partData: {fileID: 11400000, guid: 8a3984ccc0f56934099481c68ef27289, type: 2}
+  - gameObjectName: Roted
+    partData: {fileID: 11400000, guid: af91f5976abc8534987336b33fb6c171, type: 2}
+  - gameObjectName: Roted
+    partData: {fileID: 11400000, guid: af91f5976abc8534987336b33fb6c171, type: 2}
+  - gameObjectName: Roted
+    partData: {fileID: 11400000, guid: af91f5976abc8534987336b33fb6c171, type: 2}
+  - gameObjectName: Roted
+    partData: {fileID: 11400000, guid: af91f5976abc8534987336b33fb6c171, type: 2}
+  - gameObjectName: Blade9
+    partData: {fileID: 11400000, guid: c45dec26f87848f46ab70e0313fdca72, type: 2}
+  - gameObjectName: Blade11
+    partData: {fileID: 11400000, guid: 64503b11bda3494458d5b5c303c5cad3, type: 2}
+  - gameObjectName: Blade13
+    partData: {fileID: 11400000, guid: fce39645984b15c4da4bc8e08ffcea26, type: 2}
+  - gameObjectName: Blade15
+    partData: {fileID: 11400000, guid: 94252099f6fae324cb32689dd33491d7, type: 2}
+  - gameObjectName: Shaft
+    partData: {fileID: 11400000, guid: 63649f4d2a35887409ec46360df710a8, type: 2}
+  - gameObjectName: Shaft1
+    partData: {fileID: 11400000, guid: 6da1c04f0c63a344a9459a6377226ad3, type: 2}
+  - gameObjectName: CoverPart_1
+    partData: {fileID: 11400000, guid: e97da78569cab7d42a133d8ef93344a2, type: 2}
+  - gameObjectName: CoverPart_2
+    partData: {fileID: 11400000, guid: ee4435b28e7aaad4a87fb82a6356cd96, type: 2}
+  - gameObjectName: Part_3
+    partData: {fileID: 11400000, guid: 2aeff0511702a784bb9b52f464259358, type: 2}
+  - gameObjectName: CoverPart_3
+    partData: {fileID: 11400000, guid: 8b51b4300f83e034186012ca9130a38b, type: 2}
+  - gameObjectName: Blade_01
+    partData: {fileID: 11400000, guid: 4d6c9a5766f36754392ad78f96d4714a, type: 2}
+  - gameObjectName: Blade for Holo
+    partData: {fileID: 11400000, guid: 9bd561e2ac357ff4e9f1909a6b16efb4, type: 2}
+  - gameObjectName: RotarBlade_02
+    partData: {fileID: 11400000, guid: 4f3cb188ea62d7d4d9b2dbd58615c7f4, type: 2}
+  - gameObjectName: RotarBlade_02  for Holo
+    partData: {fileID: 11400000, guid: c2f68da5e119efe45b5ddff281a8ecf1, type: 2}
+  - gameObjectName: Straight Arrow1 (1)
+    partData: {fileID: 11400000, guid: 09a3b43247aa86845930fdf777094e69, type: 2}
+  - gameObjectName: Straight Arrow2
+    partData: {fileID: 11400000, guid: 514278137d1d1e844b5d0aba3ba6cf5b, type: 2}
+  - gameObjectName: Straight Arrow3
+    partData: {fileID: 11400000, guid: dbb9a7d2fd4566245879c927d9d4e405, type: 2}
+  - gameObjectName: Straight Arrow1
+    partData: {fileID: 11400000, guid: 2d069f4f5d13e3a4cb58efba53ff271d, type: 2}
+  - gameObjectName: Straight Arrow2
+    partData: {fileID: 11400000, guid: 514278137d1d1e844b5d0aba3ba6cf5b, type: 2}
+  - gameObjectName: Straight Arrow3
+    partData: {fileID: 11400000, guid: dbb9a7d2fd4566245879c927d9d4e405, type: 2}
+  - gameObjectName: Blur
+    partData: {fileID: 11400000, guid: daf43023c2ce9dc4f845e3279bccd7ba, type: 2}
+  - gameObjectName: Purple
+    partData: {fileID: 11400000, guid: 6eb69f3d5d1f3854695343fb0ca2d113, type: 2}
+  - gameObjectName: Orange
+    partData: {fileID: 11400000, guid: 71819274888d3ae4380126cff5963f1e, type: 2}

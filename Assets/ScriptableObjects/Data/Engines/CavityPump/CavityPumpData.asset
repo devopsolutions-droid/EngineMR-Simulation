@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: CavityPumpData
+  m_EditorClassIdentifier: 
+  engineName: Progressive Cavity Pump
+  engineDescription: A Cavity Pump, commonly known as a Progressive Cavity Pump,
+    is a positive-displacement pump used to transfer liquids, viscous fluids, slurries,
+    and fluids containing suspended solids through the progressive movement of sealed
+    cavities. Its main components include the rotor, stator, casing, drive shaft,
+    coupling rod, inlet chamber, outlet chamber, seals, and bearings. During operation,
+    a helical rotor rotates inside an elastomeric stator with a specially designed
+    internal geometry. This creates a series of sealed cavities between the rotor
+    and stator. As the rotor rotates, these cavities progress continuously from the
+    suction side toward the discharge side, carrying the fluid with minimal pulsation.
+    The fluid is then discharged at the required pressure. Progressive cavity pumps
+    are widely used in wastewater treatment, food processing, chemical industries,
+    petroleum applications, sludge handling, and industrial fluid transfer. From
+    an engineering perspective, understanding rotor-stator geometry, cavity formation,
+    volumetric efficiency, slip, elastomer compatibility, pressure generation, lubrication,
+    wear, and dry-running limitations is essential for reliable pump operation.
+  engineCategory: Engineering
+  thumbnail: {fileID: 21300000, guid: 770d3dc350e6f674493eb263cf0ce5a7, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 91d0e6b5b10b9464ab86428ecf3f7aa1, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

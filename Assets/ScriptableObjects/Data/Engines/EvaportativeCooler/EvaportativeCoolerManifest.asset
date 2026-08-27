@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: EvaportativeCoolerManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Case Pillar
+    partData: {fileID: 11400000, guid: a276e676b986a9c49b1e9f233351f661, type: 2}
+  - gameObjectName: CasePillar1
+    partData: {fileID: 11400000, guid: 2dca0048588e8ab4dab60c6cfdbeab47, type: 2}
+  - gameObjectName: CasePillar2
+    partData: {fileID: 11400000, guid: 87c9531a1bbcb644e92570e5cddb79ca, type: 2}
+  - gameObjectName: CasePillar3
+    partData: {fileID: 11400000, guid: d2188a6e3455f3942b9e795b79823333, type: 2}
+  - gameObjectName: Motor Pully
+    partData: {fileID: 11400000, guid: 7993fbcc89dc3f14ab266f00c4564b4f, type: 2}
+  - gameObjectName: Shaft Bearing
+    partData: {fileID: 11400000, guid: c0e071379729aac44a6946cd84140a28, type: 2}
+  - gameObjectName: Blower pully
+    partData: {fileID: 11400000, guid: 6ee48a3589352c74f9abc110242dc650, type: 2}
+  - gameObjectName: Bottom Cover
+    partData: {fileID: 11400000, guid: b0c120efb732005498c16793d00dfda8, type: 2}
+  - gameObjectName: Casing
+    partData: {fileID: 11400000, guid: 76033e9cde3849b4186f5d8f57156f27, type: 2}
+  - gameObjectName: Distribution Tubing
+    partData: {fileID: 11400000, guid: a63843baa0b45e348ab8d6f7577fb131, type: 2}
+  - gameObjectName: Drain and Overflow Tube
+    partData: {fileID: 11400000, guid: 30d5ef0e4238b2c48a3db8844a01a02b, type: 2}
+  - gameObjectName: Evaporative Pads
+    partData: {fileID: 11400000, guid: 7e08ee39a9e426c4c93254aa06be3489, type: 2}
+  - gameObjectName: Evaporative_Pads1
+    partData: {fileID: 11400000, guid: 2d2a6c16262a80f4db42da42fce93245, type: 2}
+  - gameObjectName: Evaporative_Pads2
+    partData: {fileID: 11400000, guid: bf866fe41fe40f14f8531fbab63ce9d9, type: 2}
+  - gameObjectName: Evaporative_Pads3
+    partData: {fileID: 11400000, guid: 96f5773ba05378a46899a2f120b494c6, type: 2}
+  - gameObjectName: Float Valve
+    partData: {fileID: 11400000, guid: 4492e657c27ea9042891d3ed46e3f968, type: 2}
+  - gameObjectName: Motor
+    partData: {fileID: 11400000, guid: 8d21a15e4052b844c9c20ef1bc606e95, type: 2}
+  - gameObjectName: Side cover
+    partData: {fileID: 11400000, guid: a984e39c070c3f7459f8614d21385b5c, type: 2}
+  - gameObjectName: Sidecover1
+    partData: {fileID: 11400000, guid: 4bb84d02cb475a84eb3a432cb122412c, type: 2}
+  - gameObjectName: Sidecover2
+    partData: {fileID: 11400000, guid: 44745140a2153054fb1c7f2a054d9470, type: 2}
+  - gameObjectName: Sidecover3
+    partData: {fileID: 11400000, guid: af20ac03fe9a7c1428d835d2d4b20346, type: 2}
+  - gameObjectName: Top Cover
+    partData: {fileID: 11400000, guid: 3d8e633ea95a0a440b9a7cf400089110, type: 2}
+  - gameObjectName: Vbelt
+    partData: {fileID: 11400000, guid: 7bad8402a6bcd9a4dbcdf130a5c666c5, type: 2}
+  - gameObjectName: Water Pipes
+    partData: {fileID: 11400000, guid: 503e2649c275c5042b344fe93e25faa2, type: 2}
+  - gameObjectName: Water Pump
+    partData: {fileID: 11400000, guid: 0233032a1edfdd34f9b600c70b9eedb4, type: 2}
+  - gameObjectName: Wire Connection
+    partData: {fileID: 11400000, guid: fd3e31f843eb91143a3631c25ccd76dc, type: 2}
+  - gameObjectName: Wire Connection Box
+    partData: {fileID: 11400000, guid: 609402e73d5f15a4cb4912d7c4969b1f, type: 2}
+  - gameObjectName: Water Layer
+    partData: {fileID: 11400000, guid: ea1af157ea5ae5f4ab67b45f0ebc704c, type: 2}

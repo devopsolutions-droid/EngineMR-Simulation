@@ -1,0 +1,329 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: DieselEngineManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Engine_Block_upper
+    partData: {fileID: 11400000, guid: 6e483528689e50b499d2d44d40e35a6d, type: 2}
+  - gameObjectName: CylinderHead_Part_10
+    partData: {fileID: 11400000, guid: 4318675071dce464a87cd15b0af8903a, type: 2}
+  - gameObjectName: CylinderHead_Part_09
+    partData: {fileID: 11400000, guid: f395a016976751b4e95be42e94371f9b, type: 2}
+  - gameObjectName: CylinderHead_Part_08
+    partData: {fileID: 11400000, guid: 2668cf65f68ba78409777ab8c4a6a8f6, type: 2}
+  - gameObjectName: CylinderHead_Part_07
+    partData: {fileID: 11400000, guid: 94c9d3eb047299241b76513a3b1c343e, type: 2}
+  - gameObjectName: CylinderHead_Part_06
+    partData: {fileID: 11400000, guid: 13db369c02cc0014e82ef3acbf276475, type: 2}
+  - gameObjectName: CylinderHead_Part_05
+    partData: {fileID: 11400000, guid: 26df68b382f91eb47aa43f4a3d714751, type: 2}
+  - gameObjectName: CylinderHead_Part_04
+    partData: {fileID: 11400000, guid: 8dc974c2703e56843971d60b3aa10119, type: 2}
+  - gameObjectName: CylinderHead_Part_03
+    partData: {fileID: 11400000, guid: 48d2b63875387be4a863b938b5204356, type: 2}
+  - gameObjectName: CylinderHead_Part_02
+    partData: {fileID: 11400000, guid: b95f201fb5c5ca845836f3ed3043bf93, type: 2}
+  - gameObjectName: CylinderHead_Part_01
+    partData: {fileID: 11400000, guid: a5d663173a06afd47b66290b8541028b, type: 2}
+  - gameObjectName: CylinderHead001
+    partData: {fileID: 11400000, guid: c9507f4f5da7dcb44a392a9c95c57846, type: 2}
+  - gameObjectName: EngineBlock_2
+    partData: {fileID: 11400000, guid: 643e03d95f3779143bd1cc2f9c8b86ef, type: 2}
+  - gameObjectName: EngineBlock_1
+    partData: {fileID: 11400000, guid: d24240224b1b3f743a450a7032d078d2, type: 2}
+  - gameObjectName: CylinderHead
+    partData: {fileID: 11400000, guid: dcffe26c0d0ecd247b496a51ffcee8cd, type: 2}
+  - gameObjectName: Cylinder_Head_Cover
+    partData: {fileID: 11400000, guid: 41b5ec7c405948240854edce8687302d, type: 2}
+  - gameObjectName: Flywheel
+    partData: {fileID: 11400000, guid: 1c1a8767c78f4de458b2bbd3b42117ce, type: 2}
+  - gameObjectName: Piston_Head_01
+    partData: {fileID: 11400000, guid: ad6c2ad47d37b2a4b8f3d9ab329fa39e, type: 2}
+  - gameObjectName: Piston_Shaft_04
+    partData: {fileID: 11400000, guid: 8a9a4f98e610ace40a7be0e2c5406342, type: 2}
+  - gameObjectName: Piston_Head_02
+    partData: {fileID: 11400000, guid: a40246fa928e5ad408951c23c85db6e9, type: 2}
+  - gameObjectName: Piston_Shaft_03
+    partData: {fileID: 11400000, guid: b2573b3a2954a9d40a0cfb6141910fc3, type: 2}
+  - gameObjectName: Piston_Head_03
+    partData: {fileID: 11400000, guid: 4912f9e79cbf0a248b201d8984a7fda5, type: 2}
+  - gameObjectName: Piston_Shaft_02
+    partData: {fileID: 11400000, guid: 3f6f896294564ad488da5f550f5030de, type: 2}
+  - gameObjectName: Piston_Head_04
+    partData: {fileID: 11400000, guid: 4172fbcbe24da9f40a9f0c52b3b325c5, type: 2}
+  - gameObjectName: Piston_Shaft_01
+    partData: {fileID: 11400000, guid: 444808b7143e9444aaaf4025c418e212, type: 2}
+  - gameObjectName: Valve_Intake_01
+    partData: {fileID: 11400000, guid: 985aeeaa42b1fee47b0cadecef46d3c4, type: 2}
+  - gameObjectName: Valve_Spring_01
+    partData: {fileID: 11400000, guid: 2c4fe81a097eb88479db975827296e64, type: 2}
+  - gameObjectName: Valve_Intake_02
+    partData: {fileID: 11400000, guid: 7b0e6e1aacf184441ae2be2931616bc4, type: 2}
+  - gameObjectName: Valve_Spring_02
+    partData: {fileID: 11400000, guid: 2bdf7b33d75a2264aa46a1df704be359, type: 2}
+  - gameObjectName: Valve_Intake_03
+    partData: {fileID: 11400000, guid: 554928032146c9448a0e25ab3b2da7b3, type: 2}
+  - gameObjectName: Valve_Spring_03
+    partData: {fileID: 11400000, guid: a5524381baa5b29429e72c759b0cc44b, type: 2}
+  - gameObjectName: Valve_Intake_04
+    partData: {fileID: 11400000, guid: c9b97559015ac2e4ab5560ea69df1c24, type: 2}
+  - gameObjectName: Valve_Spring_04
+    partData: {fileID: 11400000, guid: 88bb536c3c2443048bd5cc7005636ff9, type: 2}
+  - gameObjectName: Valve_Intake_05
+    partData: {fileID: 11400000, guid: 9514e7a666c485743a4df7957d111080, type: 2}
+  - gameObjectName: Valve_Spring_05
+    partData: {fileID: 11400000, guid: c4f136c712088e64f89ac74dd7a62852, type: 2}
+  - gameObjectName: Valve_Intake_06
+    partData: {fileID: 11400000, guid: 151dc8136d4fd154caadeec01e05ecb7, type: 2}
+  - gameObjectName: Valve_Spring_06
+    partData: {fileID: 11400000, guid: acb8ced47b344f74c88ec09f76a97003, type: 2}
+  - gameObjectName: Valve_Intake_07
+    partData: {fileID: 11400000, guid: a15b41f9b5daef048affc4e2b089afa0, type: 2}
+  - gameObjectName: Valve_Spring_07
+    partData: {fileID: 11400000, guid: d1ac584120c150f4890b72c18008a3d5, type: 2}
+  - gameObjectName: Valve_Intake_08
+    partData: {fileID: 11400000, guid: b9187e96995a66a41bd1cf14103d14de, type: 2}
+  - gameObjectName: Valve_Spring_08
+    partData: {fileID: 11400000, guid: 12b3ae0109f5e7e4db3d2d55d7a82d44, type: 2}
+  - gameObjectName: Valve_Intake_09
+    partData: {fileID: 11400000, guid: f06d77838fc984744be0c5cdf08e0b6b, type: 2}
+  - gameObjectName: Valve_Spring_09
+    partData: {fileID: 11400000, guid: 3ab7a91e5d6a3d34dbee6eb485cff478, type: 2}
+  - gameObjectName: Valve_Intake_10
+    partData: {fileID: 11400000, guid: e817e8d20ee4aa942871ec7250ed6293, type: 2}
+  - gameObjectName: Valve_Spring_10
+    partData: {fileID: 11400000, guid: c03ea0ff6b9a732458e747a43562ffdd, type: 2}
+  - gameObjectName: Valve_Intake_11
+    partData: {fileID: 11400000, guid: d94b9591bd39e0b4d89e6a987233493a, type: 2}
+  - gameObjectName: Valve_Spring_11
+    partData: {fileID: 11400000, guid: cfccb98168129af49a74b2daf1d44eea, type: 2}
+  - gameObjectName: Valve_Intake_12
+    partData: {fileID: 11400000, guid: d03a6cdde958c0e46bf4999726d3ace0, type: 2}
+  - gameObjectName: Valve_Spring_12
+    partData: {fileID: 11400000, guid: d9b863eaba4b1a24a906a930644c56c6, type: 2}
+  - gameObjectName: Valve_Intake_13
+    partData: {fileID: 11400000, guid: 9e8c87d8f07621b49b8a90732f94a0b0, type: 2}
+  - gameObjectName: Valve_Spring_13
+    partData: {fileID: 11400000, guid: 53c41aa812d72f54ea2462b1e8422ab5, type: 2}
+  - gameObjectName: Valve_Intake_14
+    partData: {fileID: 11400000, guid: f3729c95e11944246be70d4e6d779b44, type: 2}
+  - gameObjectName: Valve_Spring_14
+    partData: {fileID: 11400000, guid: 9e5ee92f64c6067488341c485a66e1fb, type: 2}
+  - gameObjectName: Valve_Intake_15
+    partData: {fileID: 11400000, guid: 4e1eea1edb7af5143a28110712fa7bb5, type: 2}
+  - gameObjectName: Valve_Spring_15
+    partData: {fileID: 11400000, guid: 3afbf8931d4a105469356c893490cd06, type: 2}
+  - gameObjectName: Valve_Intake_16
+    partData: {fileID: 11400000, guid: 7fa5d75d104eb484f8a263ee4ad1caaa, type: 2}
+  - gameObjectName: Valve_Spring_16
+    partData: {fileID: 11400000, guid: 31d94a93baa870244955be3133b7fbe4, type: 2}
+  - gameObjectName: Cylinder
+    partData: {fileID: 11400000, guid: 12ba4d3b4a89252459690835ac5e93f5, type: 2}
+  - gameObjectName: Gear02
+    partData: {fileID: 11400000, guid: cac56134d9a9419459b2d7b7eccb56d5, type: 2}
+  - gameObjectName: Gear01
+    partData: {fileID: 11400000, guid: e5634e55b2bf8ac4bbf3d5d8b274b815, type: 2}
+  - gameObjectName: generator
+    partData: {fileID: 11400000, guid: 2092dabd182189b4eb66f99a49da9672, type: 2}
+  - gameObjectName: CylinderHead_Part_11
+    partData: {fileID: 11400000, guid: c1ec9b777ad2e384ab193aeafe62bcc8, type: 2}
+  - gameObjectName: CylinderHead_Part_12
+    partData: {fileID: 11400000, guid: a16e2d0c33b439d4295cafe7a856e948, type: 2}
+  - gameObjectName: CylinderHead_Part_13
+    partData: {fileID: 11400000, guid: 66b21e192f3850e43869718543a264e3, type: 2}
+  - gameObjectName: CylinderHead_Part_14
+    partData: {fileID: 11400000, guid: 90d8dd0ff6cad9e49b5708fe7858ea08, type: 2}
+  - gameObjectName: Oil_Pan
+    partData: {fileID: 11400000, guid: e31ee4ed418310540994bf7e476d9acb, type: 2}
+  - gameObjectName: Fuel_Injector_Outer001
+    partData: {fileID: 11400000, guid: f344bb0a2422bfa41a08fcc1b0f4a7bd, type: 2}
+  - gameObjectName: Fuel_Injector_Inner001
+    partData: {fileID: 11400000, guid: 27376db6fd0566446a4509d453d379aa, type: 2}
+  - gameObjectName: Fuel_Injector_Outer
+    partData: {fileID: 11400000, guid: 8b7cdc2c962ebf54d86de4e2193e5fc1, type: 2}
+  - gameObjectName: Fuel_Injector_Inner
+    partData: {fileID: 11400000, guid: cbbfd6eb8ff022a40a5d3d4215e9a887, type: 2}
+  - gameObjectName: Fuel_Injector_Outer002
+    partData: {fileID: 11400000, guid: 68e2298dc0e3b804ab64ab0f0ba17a1d, type: 2}
+  - gameObjectName: Fuel_Injector_Inner002
+    partData: {fileID: 11400000, guid: 718b415d6edc3db4b99ad842e922130d, type: 2}
+  - gameObjectName: Fuel_Injector_Outer003
+    partData: {fileID: 11400000, guid: 0b8bf98b6c832af4188a115059d80e22, type: 2}
+  - gameObjectName: Fuel_Injector_Inner003
+    partData: {fileID: 11400000, guid: 58b9374d4a437a040bb63b76d0fbd3a3, type: 2}
+  - gameObjectName: Oil Filter
+    partData: {fileID: 11400000, guid: 31bd32bc7e2fd5344b61870875e17a12, type: 2}
+  - gameObjectName: polySurface1304
+    partData: {fileID: 11400000, guid: 0704b81182d0bd14d866d45159f831a6, type: 2}
+  - gameObjectName: pCylinder066
+    partData: {fileID: 11400000, guid: 268a21a9ad110ed43820ca84ec8471b7, type: 2}
+  - gameObjectName: pCylinder45
+    partData: {fileID: 11400000, guid: bf1d85285c2c33049887f263b133871a, type: 2}
+  - gameObjectName: polySurface3
+    partData: {fileID: 11400000, guid: 66b60ecec48f6c24bbab37c031ac0d0a, type: 2}
+  - gameObjectName: pCylinder3
+    partData: {fileID: 11400000, guid: ae715b36cfa10e045a71e5229cabb386, type: 2}
+  - gameObjectName: polySurface5
+    partData: {fileID: 11400000, guid: 10b97550f9f82d742b4582ed4dd88b14, type: 2}
+  - gameObjectName: pHelix2
+    partData: {fileID: 11400000, guid: d2b6943097af129469f738022759e0a6, type: 2}
+  - gameObjectName: pCylinder46
+    partData: {fileID: 11400000, guid: de6c7b82a6e965249a482b9e4d6773ae, type: 2}
+  - gameObjectName: pHelix1
+    partData: {fileID: 11400000, guid: 8174731304860bb459cd02dd7feb7871, type: 2}
+  - gameObjectName: pCylinder47
+    partData: {fileID: 11400000, guid: 2ec80dcaa1d49cc49b8cf5eb5d785f44, type: 2}
+  - gameObjectName: Radiator
+    partData: {fileID: 11400000, guid: 9ae533ffb6b829c4ea4b67b9cbfb9e27, type: 2}
+  - gameObjectName: Radiator_Cap
+    partData: {fileID: 11400000, guid: e4f4e632e5df0764d9c4d8dade605f9c, type: 2}
+  - gameObjectName: polySurface652
+    partData: {fileID: 11400000, guid: 143cedc7eb74cf346bd9166d63de3420, type: 2}
+  - gameObjectName: polySurface643  Step2
+    partData: {fileID: 11400000, guid: 74debe4d67f4ebe4596046584c5743f8, type: 2}
+  - gameObjectName: Object003 Step2
+    partData: {fileID: 11400000, guid: 9dbd65f3a7afbd940b81fefa6ed8b2ff, type: 2}
+  - gameObjectName: polySurface679
+    partData: {fileID: 11400000, guid: 0950917940fae164b8e0c1fd89f2901b, type: 2}
+  - gameObjectName: polySurface681
+    partData: {fileID: 11400000, guid: d730a26d713842144b15add6afd66add, type: 2}
+  - gameObjectName: polySurface678
+    partData: {fileID: 11400000, guid: 7f4635d1ea2fbf64ca6edb0f542f8fb3, type: 2}
+  - gameObjectName: polySurface682
+    partData: {fileID: 11400000, guid: 8bbcc68937ec8b24dbf11767b24aae4d, type: 2}
+  - gameObjectName: polySurface683
+    partData: {fileID: 11400000, guid: 48625628a36bbbd4bbe7b16bfeaf8b2e, type: 2}
+  - gameObjectName: polySurface772 Step1
+    partData: {fileID: 11400000, guid: bcd331c210d78f345840500f5bad9f8e, type: 2}
+  - gameObjectName: Object002 Step1
+    partData: {fileID: 11400000, guid: e058acd81c4f49f45b98036d6e173d2e, type: 2}
+  - gameObjectName: polySurface635
+    partData: {fileID: 11400000, guid: d54872e0c863fa64fbf951581215fb6d, type: 2}
+  - gameObjectName: polySurface621  Step2
+    partData: {fileID: 11400000, guid: d687c85ba543fbe4c84b1a25de55a978, type: 2}
+  - gameObjectName: polySurface622
+    partData: {fileID: 11400000, guid: eba57c0153a45c04da173e49db6c741b, type: 2}
+  - gameObjectName: Line012
+    partData: {fileID: 11400000, guid: a670a4bc8fd8f3a41b7670e3290aeb55, type: 2}
+  - gameObjectName: Line014  Step2
+    partData: {fileID: 11400000, guid: f7395a5d5923f2448b0a58cb95fe8da8, type: 2}
+  - gameObjectName: Line002 Step1 (1)
+    partData: {fileID: 11400000, guid: 197d7c15f2aeab24a8db8c3194e0514d, type: 2}
+  - gameObjectName: Water_Pump_Pulley
+    partData: {fileID: 11400000, guid: 422453c4061a41342ac920796664461a, type: 2}
+  - gameObjectName: Water_Pump_Pulley_Mount
+    partData: {fileID: 11400000, guid: ed8900b78b9531c4f8689d6bb6c6d3b3, type: 2}
+  - gameObjectName: Fan_Blades
+    partData: {fileID: 11400000, guid: 3cead3dfb0a954c458a01f0cc77a6f43, type: 2}
+  - gameObjectName: Camshaft_Exhaust
+    partData: {fileID: 11400000, guid: 7a322eac3c07eaa46ac8f7421b1b43b0, type: 2}
+  - gameObjectName: Camshaft_Intake
+    partData: {fileID: 11400000, guid: b4c6deaef9bd0794f89a235b0ab27ae0, type: 2}
+  - gameObjectName: Cranckshaft_01
+    partData: {fileID: 11400000, guid: fe59860a85be76341aafc5b6539c00ec, type: 2}
+  - gameObjectName: Cranckshaft_02
+    partData: {fileID: 11400000, guid: af29fbb535353d541884ef39464940f4, type: 2}
+  - gameObjectName: Cranckshaft_03
+    partData: {fileID: 11400000, guid: 03f3ad1bfced2694699c3b6904138f7a, type: 2}
+  - gameObjectName: Cranckshaft_04
+    partData: {fileID: 11400000, guid: c3f08f06618e2fe468b1f2a364808ce9, type: 2}
+  - gameObjectName: Cranckshaft
+    partData: {fileID: 11400000, guid: 5d5671d7feae6e84a9f571f237e08f57, type: 2}
+  - gameObjectName: Cranckshaft_Part1
+    partData: {fileID: 11400000, guid: 6057fa66ec6b40f44afccb1d05c9a840, type: 2}
+  - gameObjectName: Cranckshaft_Part2
+    partData: {fileID: 11400000, guid: ba2646b0df601f748a5a5b7a82d9912d, type: 2}
+  - gameObjectName: Cranckshaft_Part3
+    partData: {fileID: 11400000, guid: 4e61f0f2cf4f2b54f998966dda07e8d0, type: 2}
+  - gameObjectName: Cranckshaft_Part4
+    partData: {fileID: 11400000, guid: b271c45f0372d4042af23545a7cd287f, type: 2}
+  - gameObjectName: oil 2
+    partData: {fileID: 11400000, guid: 7e7148dbb2378fa40a5ceda205731c36, type: 2}
+  - gameObjectName: oil 1
+    partData: {fileID: 11400000, guid: 2a6437dea511b3c408f1cb490a5d4153, type: 2}
+  - gameObjectName: oil 4
+    partData: {fileID: 11400000, guid: 8864caec9e88595449104357ead5b955, type: 2}
+  - gameObjectName: oil 5
+    partData: {fileID: 11400000, guid: 0941da636dfbdc048a30daf385724103, type: 2}
+  - gameObjectName: oil 3
+    partData: {fileID: 11400000, guid: 153977de93764bb44abce576697dd831, type: 2}
+  - gameObjectName: Tension_Pulley
+    partData: {fileID: 11400000, guid: 90fb81f77eb2ef648a662c066d6d9d89, type: 2}
+  - gameObjectName: Tension_Pulley_Mount
+    partData: {fileID: 11400000, guid: 51b27f7ee1558cf4089b28d48d25477f, type: 2}
+  - gameObjectName: Belt_02
+    partData: {fileID: 11400000, guid: 13e4e58f48d2ad347b472e2504786b23, type: 2}
+  - gameObjectName: Belt_01
+    partData: {fileID: 11400000, guid: 88ba0917495d02744b9f4fd40ef8c6a0, type: 2}
+  - gameObjectName: Oil Pump
+    partData: {fileID: 11400000, guid: 189d6a8350f853942ab365b54bcdbe35, type: 2}
+  - gameObjectName: polySurface7
+    partData: {fileID: 11400000, guid: 3210476a0264173428da6a4d8e6ac7f2, type: 2}
+  - gameObjectName: Object062
+    partData: {fileID: 11400000, guid: 44d4da98cee055241beb1f022c39c341, type: 2}
+  - gameObjectName: Object061
+    partData: {fileID: 11400000, guid: ca44206cae3f0c74694a76039928470d, type: 2}
+  - gameObjectName: pCylinder52
+    partData: {fileID: 11400000, guid: c0c21a80d5c700c4ab53e25e3c14dee0, type: 2}
+  - gameObjectName: asdada016
+    partData: {fileID: 11400000, guid: cab9f791ee1233444b8cc0e89bd9df6b, type: 2}
+  - gameObjectName: pCylinder076
+    partData: {fileID: 11400000, guid: eaae429df6d89794a846909b435fc506, type: 2}
+  - gameObjectName: pCylinder53
+    partData: {fileID: 11400000, guid: e61ea2ea226d3ec4b8b566799ee20582, type: 2}
+  - gameObjectName: polySurface6
+    partData: {fileID: 11400000, guid: e47f34c05e47ec04daf896e6940b3bb2, type: 2}
+  - gameObjectName: Generator
+    partData: {fileID: 11400000, guid: 2092dabd182189b4eb66f99a49da9672, type: 2}
+  - gameObjectName: pCube002
+    partData: {fileID: 11400000, guid: cacd8dd847f074345a626860cc81270c, type: 2}
+  - gameObjectName: pCylinder073
+    partData: {fileID: 11400000, guid: 99c98d69c1657b2449e84554db513118, type: 2}
+  - gameObjectName: pCylinder074
+    partData: {fileID: 11400000, guid: ea3e3db73d250d04d900f0dd4857d5ee, type: 2}
+  - gameObjectName: pCylinder075
+    partData: {fileID: 11400000, guid: 7b15ad94f3811a94fa5bc945ffa7ec39, type: 2}
+  - gameObjectName: pCylinder58
+    partData: {fileID: 11400000, guid: 026ec352ca4e64d448be0a8f75777939, type: 2}
+  - gameObjectName: pCylinder62
+    partData: {fileID: 11400000, guid: 2304160c113e51e45913c8a3e229bf69, type: 2}
+  - gameObjectName: pCylinder63
+    partData: {fileID: 11400000, guid: 5e0c6c4caf3faef4db93620920b1c700, type: 2}
+  - gameObjectName: pCylinder64
+    partData: {fileID: 11400000, guid: 10f6a5a31f46c7345ad2e3a0afe80d3c, type: 2}
+  - gameObjectName: pHelix3
+    partData: {fileID: 11400000, guid: fa0904b4e959fde46b41c192978d493c, type: 2}
+  - gameObjectName: pCylinder65
+    partData: {fileID: 11400000, guid: 340664a2f065ce941b205b66705c3dce, type: 2}
+  - gameObjectName: Generator001
+    partData: {fileID: 11400000, guid: f0b89823519229345b82ad54d8aa31d9, type: 2}
+  - gameObjectName: Line087
+    partData: {fileID: 11400000, guid: ce0c5afa8baa08b4a9417581fc00d934, type: 2}
+  - gameObjectName: pCylinder57
+    partData: {fileID: 11400000, guid: 7fcff1e986879fe4fb7abd8ca28d97b0, type: 2}
+  - gameObjectName: asdada002 Step 5
+    partData: {fileID: 11400000, guid: b2a486b7aa7f03e41aeb0c25603af523, type: 2}
+  - gameObjectName: asdada004 Step2
+    partData: {fileID: 11400000, guid: 951203b73d462be4f9cd52ccdf92464b, type: 2}
+  - gameObjectName: asdada005 Step 4
+    partData: {fileID: 11400000, guid: e79a4bd43f23c314a8ac10f184a03cd8, type: 2}
+  - gameObjectName: asdada007 Step 4
+    partData: {fileID: 11400000, guid: 20d1dcc4f6e0ec44bb618240d6743f3b, type: 2}
+  - gameObjectName: Object008
+    partData: {fileID: 11400000, guid: 27f99aca11f15c241835a434b3898ab0, type: 2}
+  - gameObjectName: Object009
+    partData: {fileID: 11400000, guid: ccbbfd9a547cedb4585e91a6193502c6, type: 2}
+  - gameObjectName: Object058
+    partData: {fileID: 11400000, guid: 453f8ff029a36004d904a47693cbfe7c, type: 2}
+  - gameObjectName: polySurface685
+    partData: {fileID: 11400000, guid: 1b5733f64ac0b124a9c6bcde0bf45f20, type: 2}

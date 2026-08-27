@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: NuclearReactorCoreData
+  m_EditorClassIdentifier: 
+  engineName: Nuclear Reactor Core
+  engineDescription: A Nuclear Reactor Core is the central region of a nuclear reactor
+    where a controlled nuclear fission reaction takes place and releases thermal
+    energy. It operates by maintaining a controlled chain reaction in which fissile
+    fuel atoms split and release energy and neutrons. Its major components include
+    fuel assemblies, fuel rods, control rods, moderator, coolant channels, neutron
+    absorbers, structural supports, and monitoring systems. During operation, nuclear
+    fission within the fuel generates heat, while the moderator, where used, slows
+    neutrons to support the chain reaction. Control rods absorb neutrons and regulate
+    reactor power, while the coolant continuously removes heat from the core and
+    transfers it to a steam generator or other heat-removal system. Nuclear reactor
+    cores are used in nuclear power plants, research reactors, and specialized propulsion
+    systems. From an engineering perspective, reactor kinetics, neutron behavior,
+    heat transfer, coolant flow, fuel integrity, reactivity control, radiation protection,
+    and thermal-hydraulic safety are critical to reliable operation.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: b59fdae4d36ce5645bbcde573135623a, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

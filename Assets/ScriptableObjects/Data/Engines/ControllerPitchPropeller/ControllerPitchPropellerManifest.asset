@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: ControllerPitchPropellerManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Hub04
+    partData: {fileID: 11400000, guid: 9d382241c19429b4081554e2c6a72033, type: 2}
+  - gameObjectName: Hub03
+    partData: {fileID: 11400000, guid: 3bf3110b09d05ed43b85c77a7d7ae3fc, type: 2}
+  - gameObjectName: Hub02
+    partData: {fileID: 11400000, guid: 4a6fb87c2caf00c42960236933631047, type: 2}
+  - gameObjectName: Hub01
+    partData: {fileID: 11400000, guid: 058df591ec7bb7c438015b079c165210, type: 2}
+  - gameObjectName: Blades
+    partData: {fileID: 11400000, guid: f8f31c3c3e0c439469502fcd40a410c8, type: 2}
+  - gameObjectName: Pitch_control_mechanism
+    partData: {fileID: 11400000, guid: 8021f072df5876641b8a79fbd065d519, type: 2}
+  - gameObjectName: inner pipeandouter pipe01
+    partData: {fileID: 11400000, guid: fea09e4336d7be24ea4e80460bbf8bd4, type: 2}
+  - gameObjectName: inner pipeandouter pipe02
+    partData: {fileID: 11400000, guid: 127bd0a622d852342ab32d97a19730d3, type: 2}
+  - gameObjectName: inner pipeandouter pipe03
+    partData: {fileID: 11400000, guid: 77c6b8edeeb2f554ab19611736338002, type: 2}
+  - gameObjectName: inner pipeandouter pipe04
+    partData: {fileID: 11400000, guid: cf590521e963afa45b6d874b2d7baed8, type: 2}
+  - gameObjectName: Piston01
+    partData: {fileID: 11400000, guid: 8f928b406277a3742a1435d8f03c3033, type: 2}
+  - gameObjectName: Piston02
+    partData: {fileID: 11400000, guid: d57108d8582fd254bb6e725df6f34e7a, type: 2}
+  - gameObjectName: Piston03
+    partData: {fileID: 11400000, guid: e8b522e53cf323940ad4865c61291d40, type: 2}
+  - gameObjectName: Piston04
+    partData: {fileID: 11400000, guid: f3ae5b1600495cc42979bb50d0ab6e38, type: 2}
+  - gameObjectName: PropellerShaft
+    partData: {fileID: 11400000, guid: 5272f148b34939a48a270205e8dc965b, type: 2}
+  - gameObjectName: Shaft_bearings
+    partData: {fileID: 11400000, guid: c3b195af226c0144193e9047066c6a11, type: 2}

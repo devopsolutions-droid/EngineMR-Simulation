@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: HydraulicAutomationTransmissionManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Oil Pan
+    partData: {fileID: 11400000, guid: 30278ae13fd52284d89d54a2dbc5c656, type: 2}
+  - gameObjectName: Casing
+    partData: {fileID: 11400000, guid: a11a146472c031d478154c0a9e93b48e, type: 2}
+  - gameObjectName: Transmission Housing
+    partData: {fileID: 11400000, guid: c8f5077b976ac5747b7891a57ae6a2db, type: 2}
+  - gameObjectName: DriveHub_1
+    partData: {fileID: 11400000, guid: f717885a70bb9ac4cad1982beda7f685, type: 2}
+  - gameObjectName: Sepration Plate
+    partData: {fileID: 11400000, guid: 917d8c28856d8224eba061edffa959c6, type: 2}
+  - gameObjectName: Implerrer_2
+    partData: {fileID: 11400000, guid: 4a1d853c2adad6044bf613856b7a212a, type: 2}
+  - gameObjectName: BearingRoller_2
+    partData: {fileID: 11400000, guid: c6b9e84eefea89f469323f79666334bb, type: 2}
+  - gameObjectName: BearingSleeve_3
+    partData: {fileID: 11400000, guid: 5efdbb0ec7fb07948a52dacdded17188, type: 2}
+  - gameObjectName: NeedleBearing_1
+    partData: {fileID: 11400000, guid: e5401285e3a066a4ba935a4129e02fdf, type: 2}
+  - gameObjectName: StatorwithOneWayRollerStrag_6
+    partData: {fileID: 11400000, guid: e2702aa073835e145ae74d630c2470eb, type: 2}
+  - gameObjectName: Turbine_3
+    partData: {fileID: 11400000, guid: e58c8f8815905ab4d9d2ccadc2cad5d5, type: 2}
+  - gameObjectName: DampingFormPlate_2
+    partData: {fileID: 11400000, guid: 76cfd70ab1c32e240bab9e2ac0f9e0e8, type: 2}
+  - gameObjectName: DampingSpringAssemblyCover_1
+    partData: {fileID: 11400000, guid: 47fdc3c4e7c0d6548989bb04657e063f, type: 2}
+  - gameObjectName: FrontCover_12
+    partData: {fileID: 11400000, guid: 5e7fc25568834564f81ed6b2fca22964, type: 2}
+  - gameObjectName: SensorCommuncationHub
+    partData: {fileID: 11400000, guid: c676a2281029d084eb405a313083e614, type: 2}
+  - gameObjectName: FluidPlate
+    partData: {fileID: 11400000, guid: 9ae89e55c567bd849b40cde471aa1671, type: 2}
+  - gameObjectName: Membrane_Plate
+    partData: {fileID: 11400000, guid: dba049f8ca1175642b634bc163bbe715, type: 2}
+  - gameObjectName: SensorPlate
+    partData: {fileID: 11400000, guid: 358e5127ef717d34698fb325c33fa84a, type: 2}
+  - gameObjectName: Solenoids
+    partData: {fileID: 11400000, guid: aef29eff9fe08164f89c3a207b04e06d, type: 2}
+  - gameObjectName: Solenoids1
+    partData: {fileID: 11400000, guid: 02b509505cf05d94eaefc8b0564c0caa, type: 2}
+  - gameObjectName: Solenoids2
+    partData: {fileID: 11400000, guid: 1ba3636098c46154dbef7f519f51fb1b, type: 2}
+  - gameObjectName: Solenoids3
+    partData: {fileID: 11400000, guid: 3bb607a077f2b934ab4799e9e36741d9, type: 2}
+  - gameObjectName: Solenoids4
+    partData: {fileID: 11400000, guid: 2148e6250bc2f2b4b83dad8d1e5524b7, type: 2}
+  - gameObjectName: Solenoids5
+    partData: {fileID: 11400000, guid: 4e79f15b6eb459a488341e7cf577eff5, type: 2}
+  - gameObjectName: Solenoids6
+    partData: {fileID: 11400000, guid: 39c3df10776a34f4b852d8c5ba4dee93, type: 2}
+  - gameObjectName: Solenoids7
+    partData: {fileID: 11400000, guid: 7f6856a8e44f2524096ad26c65cc5eff, type: 2}
+  - gameObjectName: GearPlateBack
+    partData: {fileID: 11400000, guid: 224c847246dc5074699e792e40efc7d9, type: 2}
+  - gameObjectName: GearPlateFront
+    partData: {fileID: 11400000, guid: aa3b2c69dcdf7364390c5bad7cdfdb7b, type: 2}
+  - gameObjectName: AxialGear
+    partData: {fileID: 11400000, guid: 8d40ca2f851280b479bc670d108af508, type: 2}
+  - gameObjectName: GearTeeth
+    partData: {fileID: 11400000, guid: 70fbbd8be7068fa4786a3c69a3a95f33, type: 2}
+  - gameObjectName: Planetgear
+    partData: {fileID: 11400000, guid: c81de3706143e7a48b066fd5fec628f1, type: 2}
+  - gameObjectName: Planetgear1
+    partData: {fileID: 11400000, guid: 71f5cb51e29450d48957f15c43040e7f, type: 2}
+  - gameObjectName: Planetgear2
+    partData: {fileID: 11400000, guid: 667e68b41de1e6145aa4d764b4a69835, type: 2}
+  - gameObjectName: SunGear
+    partData: {fileID: 11400000, guid: d3029843add9dd94fb6252b36743d038, type: 2}
+  - gameObjectName: GearPlateBack
+    partData: {fileID: 11400000, guid: 224c847246dc5074699e792e40efc7d9, type: 2}
+  - gameObjectName: GearPlateFront
+    partData: {fileID: 11400000, guid: aa3b2c69dcdf7364390c5bad7cdfdb7b, type: 2}
+  - gameObjectName: AxialGear
+    partData: {fileID: 11400000, guid: 8d40ca2f851280b479bc670d108af508, type: 2}
+  - gameObjectName: GearTeeth
+    partData: {fileID: 11400000, guid: 70fbbd8be7068fa4786a3c69a3a95f33, type: 2}
+  - gameObjectName: Planetgear1
+    partData: {fileID: 11400000, guid: 71f5cb51e29450d48957f15c43040e7f, type: 2}
+  - gameObjectName: Planetgear2
+    partData: {fileID: 11400000, guid: 667e68b41de1e6145aa4d764b4a69835, type: 2}
+  - gameObjectName: Planetgear3
+    partData: {fileID: 11400000, guid: 815568fca8196134f8a54af6fdcb3336, type: 2}
+  - gameObjectName: SunGear
+    partData: {fileID: 11400000, guid: d3029843add9dd94fb6252b36743d038, type: 2}
+  - gameObjectName: GearPlateBack
+    partData: {fileID: 11400000, guid: 224c847246dc5074699e792e40efc7d9, type: 2}
+  - gameObjectName: GearPlateFront
+    partData: {fileID: 11400000, guid: aa3b2c69dcdf7364390c5bad7cdfdb7b, type: 2}
+  - gameObjectName: AxialGear
+    partData: {fileID: 11400000, guid: 8d40ca2f851280b479bc670d108af508, type: 2}
+  - gameObjectName: GearTeeth
+    partData: {fileID: 11400000, guid: 70fbbd8be7068fa4786a3c69a3a95f33, type: 2}
+  - gameObjectName: Planetgear
+    partData: {fileID: 11400000, guid: c81de3706143e7a48b066fd5fec628f1, type: 2}
+  - gameObjectName: Planetgear1
+    partData: {fileID: 11400000, guid: 71f5cb51e29450d48957f15c43040e7f, type: 2}
+  - gameObjectName: Planetgear2
+    partData: {fileID: 11400000, guid: 667e68b41de1e6145aa4d764b4a69835, type: 2}
+  - gameObjectName: SunGear
+    partData: {fileID: 11400000, guid: d3029843add9dd94fb6252b36743d038, type: 2}
+  - gameObjectName: RingGearAssembly
+    partData: {fileID: 11400000, guid: 524966aff5fc0d947a7ae86ad32706d7, type: 2}
+  - gameObjectName: ShaftLock_1
+    partData: {fileID: 11400000, guid: 19e5de19d40a1f5428987ae2e665ca6e, type: 2}
+  - gameObjectName: HubRim_8
+    partData: {fileID: 11400000, guid: 50011612d5192d846aa970c10fc78039, type: 2}
+  - gameObjectName: Diaphragm Hub
+    partData: {fileID: 11400000, guid: 41ad19afe462ff84797b000d061d3aa1, type: 2}
+  - gameObjectName: DrivingShaft_1
+    partData: {fileID: 11400000, guid: 4a266bf2f4221814d8740f93789f538c, type: 2}
+  - gameObjectName: Thrust_face_5
+    partData: {fileID: 11400000, guid: ecd67bf4a1a7b9743a742944ee8a288d, type: 2}
+  - gameObjectName: CupplerLock_10
+    partData: {fileID: 11400000, guid: 758aedb23ccbd26488098d0577b27ef8, type: 2}
+  - gameObjectName: LockingCuppler_11
+    partData: {fileID: 11400000, guid: 9e4a9fe030fbb904a8f73162923cf289, type: 2}
+  - gameObjectName: GearLock
+    partData: {fileID: 11400000, guid: 17e400aef45a3bb45a9d5b5ab5a7c468, type: 2}
+  - gameObjectName: GearLock2
+    partData: {fileID: 11400000, guid: 304b7df7b4631734c9ce8846c0563c0b, type: 2}
+  - gameObjectName: ClutchPlate_1
+    partData: {fileID: 11400000, guid: 540669d1aee6c704fadfe8a51f566116, type: 2}
+  - gameObjectName: ClutchPlate_2
+    partData: {fileID: 11400000, guid: eafb31998058d3a4cae46ac5854d449d, type: 2}
+  - gameObjectName: ClutchPlate_3
+    partData: {fileID: 11400000, guid: 8b19a739fc6f6da42b3d59f0f41c73c0, type: 2}
+  - gameObjectName: ClutchPlate_4
+    partData: {fileID: 11400000, guid: 155eb359ac1858b448bb10bab05a7ea5, type: 2}
+  - gameObjectName: ClutchPlate_5
+    partData: {fileID: 11400000, guid: 8481f1bfb9d333a4494debde7b2305c4, type: 2}
+  - gameObjectName: ClutchPlate_6
+    partData: {fileID: 11400000, guid: d809a5f4a9cd32b4ba3d8d5ce0b9ac2e, type: 2}
+  - gameObjectName: ClutchPlate_7
+    partData: {fileID: 11400000, guid: e8ff25edbc159f74fb7b0ca5ac168a6a, type: 2}
+  - gameObjectName: ClutchPlate_8
+    partData: {fileID: 11400000, guid: 87018a4bf6452b2448504d30850bc37e, type: 2}
+  - gameObjectName: ClutchPlate_9
+    partData: {fileID: 11400000, guid: 3abf0be302a6b144da9dec002295a47b, type: 2}
+  - gameObjectName: ClutchPlate_10
+    partData: {fileID: 11400000, guid: 9e645d3ac799d0849a69f11d078368b1, type: 2}
+  - gameObjectName: ClutchPlate_11
+    partData: {fileID: 11400000, guid: ad112d9f9e6b636419821ab0642ddaf9, type: 2}
+  - gameObjectName: ClutchPlate_12
+    partData: {fileID: 11400000, guid: cca5e7b366bb19f46992ba31b6d91903, type: 2}
+  - gameObjectName: ClutchPlate_13
+    partData: {fileID: 11400000, guid: 526e56d8ca975264b9070765e690a4c9, type: 2}
+  - gameObjectName: ClutchPlateCover_1
+    partData: {fileID: 11400000, guid: c100da23f19bba14ca20a14acee0ec96, type: 2}
+  - gameObjectName: GearLock1
+    partData: {fileID: 11400000, guid: 7cc4224ace07b834789345244077d4e1, type: 2}
+  - gameObjectName: Damping Springs
+    partData: {fileID: 11400000, guid: bb90227f1fd7fc746a22718a9b900e38, type: 2}
+  - gameObjectName: Shadow (1)
+    partData: {fileID: 11400000, guid: 835015be382daff4d884d469cdb9ffc3, type: 2}

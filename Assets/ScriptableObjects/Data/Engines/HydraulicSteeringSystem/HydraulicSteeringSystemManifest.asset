@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: HydraulicSteeringSystemManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Fluid_reservoir
+    partData: {fileID: 11400000, guid: 533f6731fb9508c4e88a295f7f5aa236, type: 2}
+  - gameObjectName: Gear
+    partData: {fileID: 11400000, guid: 57a9f0eb7e383c74abaa97f1843a879f, type: 2}
+  - gameObjectName: Hydraulic_pump
+    partData: {fileID: 11400000, guid: 5288ce26ad55b6146bd40d373471ec4f, type: 2}
+  - gameObjectName: Fluid
+    partData: {fileID: 11400000, guid: a3c6c7514c778fd4f83ed0efff0fc96c, type: 2}
+  - gameObjectName: Tube
+    partData: {fileID: 11400000, guid: ea7074d44e9184a42a3b3fabb9a91ea3, type: 2}
+  - gameObjectName: Tube
+    partData: {fileID: 11400000, guid: ea7074d44e9184a42a3b3fabb9a91ea3, type: 2}
+  - gameObjectName: Tube
+    partData: {fileID: 11400000, guid: ea7074d44e9184a42a3b3fabb9a91ea3, type: 2}
+  - gameObjectName: Tube
+    partData: {fileID: 11400000, guid: ea7074d44e9184a42a3b3fabb9a91ea3, type: 2}
+  - gameObjectName: Tube
+    partData: {fileID: 11400000, guid: ea7074d44e9184a42a3b3fabb9a91ea3, type: 2}
+  - gameObjectName: Tube
+    partData: {fileID: 11400000, guid: ea7074d44e9184a42a3b3fabb9a91ea3, type: 2}
+  - gameObjectName: Tube
+    partData: {fileID: 11400000, guid: ea7074d44e9184a42a3b3fabb9a91ea3, type: 2}
+  - gameObjectName: polySurface10
+    partData: {fileID: 11400000, guid: c3097adcecb5ce643aafe96094098185, type: 2}
+  - gameObjectName: Tube
+    partData: {fileID: 11400000, guid: ea7074d44e9184a42a3b3fabb9a91ea3, type: 2}
+  - gameObjectName: Tube
+    partData: {fileID: 11400000, guid: ea7074d44e9184a42a3b3fabb9a91ea3, type: 2}
+  - gameObjectName: Tube
+    partData: {fileID: 11400000, guid: ea7074d44e9184a42a3b3fabb9a91ea3, type: 2}
+  - gameObjectName: Tube
+    partData: {fileID: 11400000, guid: ea7074d44e9184a42a3b3fabb9a91ea3, type: 2}
+  - gameObjectName: Steering_rod01
+    partData: {fileID: 11400000, guid: ebeed62f175f5664a9e77e9097fe8567, type: 2}
+  - gameObjectName: Steering_column
+    partData: {fileID: 11400000, guid: 1b7903b5cab7deb4ea3d9058eca68070, type: 2}
+  - gameObjectName: Steering_rod02
+    partData: {fileID: 11400000, guid: fdfbfc02f738c69419c39749a5ab7c3e, type: 2}
+  - gameObjectName: Rotating_part01
+    partData: {fileID: 11400000, guid: dc0731fa14ccaed4f9eba6ffecb78560, type: 2}
+  - gameObjectName: Rotating_part02
+    partData: {fileID: 11400000, guid: 1af4807e8051c25488efa47972da8806, type: 2}
+  - gameObjectName: Bellows
+    partData: {fileID: 11400000, guid: f64fffa19b7630a439f361a539af4ab8, type: 2}
+  - gameObjectName: Steering_wheel
+    partData: {fileID: 11400000, guid: 0aab425f61b991b4e96ff807cfdf927c, type: 2}
+  - gameObjectName: Rotary_control_valve
+    partData: {fileID: 11400000, guid: fe034f06a0729ee4c954456eaba900ce, type: 2}
+  - gameObjectName: Bolts01
+    partData: {fileID: 11400000, guid: 4eac0931b20f72d4195672d79210b517, type: 2}
+  - gameObjectName: Bolts02
+    partData: {fileID: 11400000, guid: 06863939223ebf74b8d6471559403a78, type: 2}
+  - gameObjectName: Inner_tie_rod_end
+    partData: {fileID: 11400000, guid: a1c459a5af089464fb6233a1f1c2c914, type: 2}
+  - gameObjectName: Outer_tie_rod_end
+    partData: {fileID: 11400000, guid: 6f9f6729903c74b418923adaa5e414b0, type: 2}
+  - gameObjectName: polySurface13
+    partData: {fileID: 11400000, guid: 4eb3e1874a86cc44aa8d3f8b56541454, type: 2}
+  - gameObjectName: polySurface14
+    partData: {fileID: 11400000, guid: 6694fd2d6b451cb40b64372541bf94fc, type: 2}
+  - gameObjectName: Rack Part
+    partData: {fileID: 11400000, guid: 79715d91e3e994e408c236192d28712a, type: 2}
+  - gameObjectName: Rack_part
+    partData: {fileID: 11400000, guid: 79715d91e3e994e408c236192d28712a, type: 2}
+  - gameObjectName: Steering_arm01
+    partData: {fileID: 11400000, guid: cef99d99128813e458527ab70273aa93, type: 2}
+  - gameObjectName: Steering_arm02
+    partData: {fileID: 11400000, guid: 9d92973c78fab1d41b3239ee1b3aee36, type: 2}
+  - gameObjectName: Cover02
+    partData: {fileID: 11400000, guid: b32c4462a0790fc498bdfef63016bdbf, type: 2}
+  - gameObjectName: Tie_rod
+    partData: {fileID: 11400000, guid: 8525e76b9556bf4468b42aa25971e885, type: 2}
+  - gameObjectName: Alloy_wheel
+    partData: {fileID: 11400000, guid: a4d9d3737c6d2d6498c5edd81028f809, type: 2}
+  - gameObjectName: Tire-Front Left
+    partData: {fileID: 11400000, guid: 3025b40e4d7d79c429924a149e387112, type: 2}
+  - gameObjectName: Alloy_wheel Front Right
+    partData: {fileID: 11400000, guid: cb1b9aa2180222e46bc411bb17a91f82, type: 2}
+  - gameObjectName: Tire Front Right
+    partData: {fileID: 11400000, guid: c177d3a9833091c4aa8bd0e1b2e9dc70, type: 2}
+  - gameObjectName: Alloy_wheel Rear Left
+    partData: {fileID: 11400000, guid: 7991d3160f521dc4e95295ca826c715e, type: 2}
+  - gameObjectName: Tire Rear Left
+    partData: {fileID: 11400000, guid: 81ce8a1d66c0abc4cad7ca59b34bba86, type: 2}
+  - gameObjectName: Alloy_wheel Rear Right
+    partData: {fileID: 11400000, guid: 72da76ecb786f2047809cd0d7cee2bc0, type: 2}
+  - gameObjectName: Tire Rear Right
+    partData: {fileID: 11400000, guid: 0db756998b49d43428276a1477fdd1ff, type: 2}
+  - gameObjectName: 'Tie Rod Rear '
+    partData: {fileID: 11400000, guid: 259791b1f96270641af4e4679ce54f48, type: 2}
+  - gameObjectName: Pinion_Gear
+    partData: {fileID: 11400000, guid: 46fafaad198918a409d7fdbc6f457689, type: 2}
+  - gameObjectName: Green_003
+    partData: {fileID: 11400000, guid: a06f1dd7bb0e5664ab96b2ac0b9fddd0, type: 2}
+  - gameObjectName: green_001
+    partData: {fileID: 11400000, guid: ddf06d2a724d70f49ad8f7a4932e4fd2, type: 2}
+  - gameObjectName: green_002
+    partData: {fileID: 11400000, guid: e0cfef687eae1814fa3b3539e5bd7bc8, type: 2}
+  - gameObjectName: red_001
+    partData: {fileID: 11400000, guid: a931298f1dbbf73428bb8f2f7af10eef, type: 2}
+  - gameObjectName: red_002
+    partData: {fileID: 11400000, guid: 2a9b718a2b2b24147bb151d3860125f7, type: 2}

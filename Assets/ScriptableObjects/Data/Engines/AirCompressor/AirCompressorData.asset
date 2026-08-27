@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: AirCompressorData
+  m_EditorClassIdentifier: 
+  engineName: 'Air Compressor '
+  engineDescription: An Air Compressor is a mechanical device used to increase the
+    pressure of atmospheric air by reducing its volume or converting mechanical energy
+    into pneumatic pressure. Its main components include the compressor casing, cylinder
+    or compression chamber, piston or rotating element, inlet valve, discharge valve,
+    crankshaft, connecting rod, bearings, and cooling system. During operation, atmospheric
+    air enters through the inlet valve and is trapped inside the compression chamber.
+    The compressor mechanism reduces the volume occupied by the air, causing its
+    pressure and temperature to increase. The compressed air is then discharged through
+    the outlet valve and stored or supplied directly to pneumatic equipment. Air
+    compressors are widely used in manufacturing plants, workshops, construction
+    equipment, pneumatic tools, refrigeration systems, and industrial automation.
+    From an engineering perspective, understanding compression processes, pressure
+    ratio, volumetric efficiency, heat transfer, lubrication, cooling, leakage, vibration,
+    and maintenance is essential for achieving efficient and reliable compressor
+    performance.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 52ac114f47ade5943a480c932135a6de, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

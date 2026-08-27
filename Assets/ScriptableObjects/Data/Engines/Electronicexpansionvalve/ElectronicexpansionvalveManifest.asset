@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: ElectronicexpansionvalveManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Stepper Motor
+    partData: {fileID: 11400000, guid: 0529a7321f81dfb44ba62c05ab6873e3, type: 2}
+  - gameObjectName: Windings1
+    partData: {fileID: 11400000, guid: f8f36691f36869b4b9d94bebb6f2dc48, type: 2}
+  - gameObjectName: Needle
+    partData: {fileID: 11400000, guid: 9d234150eb156674e86968f0fa19a6e7, type: 2}
+  - gameObjectName: Seat
+    partData: {fileID: 11400000, guid: 5962389049078084e874e08417f59b76, type: 2}
+  - gameObjectName: Permanent Magnet
+    partData: {fileID: 11400000, guid: 475d3ab1088260945872729356da12c3, type: 2}
+  - gameObjectName: Thraed
+    partData: {fileID: 11400000, guid: c61cbc0777ce20a499a2a38d18e3f470, type: 2}
+  - gameObjectName: Shaft
+    partData: {fileID: 11400000, guid: 87f35a03f1c48c84c8964d272a4aec57, type: 2}
+  - gameObjectName: metal_outer_part1
+    partData: {fileID: 11400000, guid: b4cb07e2a0d911c4999f7bcf967ffbde, type: 2}
+  - gameObjectName: Inlet Pipe
+    partData: {fileID: 11400000, guid: 8ca60fadb564df8489423742642f7396, type: 2}
+  - gameObjectName: Outlet pipe
+    partData: {fileID: 11400000, guid: ca2531e0e1eebec45879e2997504afa8, type: 2}
+  - gameObjectName: Valve Body
+    partData: {fileID: 11400000, guid: 116d193cb7832fd40ad2aad2a57451eb, type: 2}
+  - gameObjectName: pCylinder22
+    partData: {fileID: 11400000, guid: a9021018bdb2d2f4ea527d1129be24ef, type: 2}
+  - gameObjectName: pCylinder31
+    partData: {fileID: 11400000, guid: 38babce5293fdf041a476780cf2f2195, type: 2}
+  - gameObjectName: pCylinder30
+    partData: {fileID: 11400000, guid: c0c848b80874986418a046733d080fee, type: 2}
+  - gameObjectName: pCylinder29
+    partData: {fileID: 11400000, guid: 7d4e185497b4da3438683f1da1aaf024, type: 2}
+  - gameObjectName: pCylinder28
+    partData: {fileID: 11400000, guid: ecf0b82a9eb3a604d95875d5e3d4a382, type: 2}
+  - gameObjectName: pCube2
+    partData: {fileID: 11400000, guid: 6f3a56fa8261ccc4b80581fd47fa7e7a, type: 2}
+  - gameObjectName: pCube1
+    partData: {fileID: 11400000, guid: 2ecd57b5997717f4eae2ddfd2a61570c, type: 2}
+  - gameObjectName: Cover
+    partData: {fileID: 11400000, guid: 5c654efe616f95048b09c85ca9974e67, type: 2}

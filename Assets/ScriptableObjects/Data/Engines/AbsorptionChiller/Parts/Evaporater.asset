@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8570e25f67e4d9b47982d8b1123bce61, type: 3}
+  m_Name: Evaporater
+  m_EditorClassIdentifier: 
+  partName: Evaporator Coil
+  description: This is the Evaporator Coil providing a large surface area for heat
+    transfer and refrigerant evaporation to cool the surrounding air
+  audioExplanation: {fileID: 8300000, guid: c219b7ee82f821240a42e0190bc9fe1a, type: 3}

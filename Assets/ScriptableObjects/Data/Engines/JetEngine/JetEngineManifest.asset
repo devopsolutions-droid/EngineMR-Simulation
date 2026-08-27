@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: JetEngineManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Left Outer Cover
+    partData: {fileID: 11400000, guid: e78e8ffd067693c4b9ea25b5ea02c289, type: 2}
+  - gameObjectName: Right Outer Cover
+    partData: {fileID: 11400000, guid: 9dc429518d04a6340a14ba46b601cbf3, type: 2}
+  - gameObjectName: Fan Blades
+    partData: {fileID: 11400000, guid: dba7af2cd6fe4e144ade307608670c4e, type: 2}
+  - gameObjectName: Frontcap
+    partData: {fileID: 11400000, guid: 8e3b2c23baa960541b929a2dd289d068, type: 2}
+  - gameObjectName: Innercover1
+    partData: {fileID: 11400000, guid: bd0f6b46209d2744f9d124113e51e7ca, type: 2}
+  - gameObjectName: Shaft
+    partData: {fileID: 11400000, guid: c99b302bfc4ebc643b982f8f622ceee2, type: 2}
+  - gameObjectName: Fuel Cap
+    partData: {fileID: 11400000, guid: 2af35e87e4e04ca4588b51cd4421121f, type: 2}
+  - gameObjectName: Fuel Injector
+    partData: {fileID: 11400000, guid: 9f3eef2101d0bce44b90f963ac0c5644, type: 2}
+  - gameObjectName: High pressure Blades
+    partData: {fileID: 11400000, guid: 68b7c45e7c909e8429289bef1430d596, type: 2}
+  - gameObjectName: Highpressure Turbine Shaft
+    partData: {fileID: 11400000, guid: 58e8fcaa8b5afc348b803bdc3360eeeb, type: 2}
+  - gameObjectName: Cap
+    partData: {fileID: 11400000, guid: 928a3212107312544b96d570ce4a15c6, type: 2}
+  - gameObjectName: Wires_set
+    partData: {fileID: 11400000, guid: df3ab4d78d6010643a39af80e14508f9, type: 2}

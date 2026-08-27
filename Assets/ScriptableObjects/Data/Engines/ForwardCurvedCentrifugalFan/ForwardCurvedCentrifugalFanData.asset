@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: ForwardCurvedCentrifugalFanData
+  m_EditorClassIdentifier: 
+  engineName: Forward Curved Centrifugal Fan
+  engineDescription: A Forward Curved Centrifugal Fan is a dynamic fan used to move
+    air or gases by transferring rotational energy from a curved impeller to the
+    flowing fluid. Its main components include the impeller, forward-curved blades,
+    casing, shaft, motor, inlet, outlet, bearings, and supporting structure. During
+    operation, air enters through the central inlet and is accelerated outward by
+    the rotating impeller. The forward-curved blades provide a large number of blade
+    passages that increase the velocity and flow rate of the air. The casing then
+    collects the high-speed air and converts part of its kinetic energy into pressure
+    before directing it through the outlet. Forward-curved centrifugal fans are widely
+    used in HVAC systems, furnaces, air-handling equipment, ventilation systems,
+    and low-pressure industrial applications. From an engineering perspective, understanding
+    airflow, static pressure, blade geometry, fan curves, system resistance, efficiency,
+    motor power, noise, vibration, and operating speed is essential for achieving
+    effective and reliable air movement.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 55c04e0544540f3449ea8067fe9243b5, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}
