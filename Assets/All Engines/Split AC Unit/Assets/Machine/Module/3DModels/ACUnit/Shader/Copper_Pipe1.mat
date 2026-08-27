@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Copper_Pipe1
+  m_Shader: {fileID: 4800000, guid: 04b36f182c35502459668afbcc54755e, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _EmptyTex:
+        m_Texture: {fileID: 2800000, guid: a113295fef45f3e46bae72a8355625bf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlowTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LiquidTex:
+        m_Texture: {fileID: 2800000, guid: 5b54da8798c4a0f44a9f86e232154de4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 2c188dd9b99c11a4f90242b87ee8f7b8, type: 3}
+        m_Scale: {x: 4, y: 4}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _FillAmount: 0.561
+    - _FlowSpeed: 0
+    - _LiquidAlpha: 1
+    - _Metallic: 0.691
+    - _NormalStrength: 0.13
+    - _Smoothness: 1
+    m_Colors:
+    - _LiquidColor: {r: 1, g: 0.7254902, b: 0.30588236, a: 1}
+  m_BuildTextureStacks: []
