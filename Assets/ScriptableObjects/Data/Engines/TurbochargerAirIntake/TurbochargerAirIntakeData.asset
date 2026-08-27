@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: TurbochargerAirIntakeData
+  m_EditorClassIdentifier: 
+  engineName: Turbocharger Air Intake
+  engineDescription: A Turbocharger Air Intake System is an air-handling system that
+    supplies compressed air to an internal combustion engine by using the energy
+    of exhaust gases to drive a turbocharger compressor. Its main components include
+    the air filter, intake duct, compressor wheel, compressor housing, shaft, bearings,
+    intercooler, throttle or intake control components, and intake manifold. During
+    operation, atmospheric air first passes through the air filter and enters the
+    compressor side of the turbocharger. Exhaust gases from the engine rotate the
+    turbine, which is connected to the compressor through a common shaft. The rotating
+    compressor draws in and compresses the intake air, increasing its pressure and
+    density. The compressed air may then pass through an intercooler before entering
+    the engine cylinders, allowing a greater mass of air to be supplied for combustion.
+    Turbocharged air-intake systems are widely used in automotive engines, diesel
+    engines, commercial vehicles, marine engines, and high-performance power systems.
+    From an engineering perspective, understanding compressor operation, boost pressure,
+    air density, pressure losses, turbocharger matching, intercooling, thermal management,
+    filtration, lubrication, and compressor surge is essential for improving engine
+    power, fuel efficiency, and reliability.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 19caf3f46fe25bd4faa1f5b33f9841c5, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

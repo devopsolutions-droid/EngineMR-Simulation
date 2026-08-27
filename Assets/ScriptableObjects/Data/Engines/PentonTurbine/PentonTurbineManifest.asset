@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: PentonTurbineManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Base_cover
+    partData: {fileID: 11400000, guid: 72bc465a202c7034ea9debeb1e764c82, type: 2}
+  - gameObjectName: Clamp
+    partData: {fileID: 11400000, guid: edb6274ecd382c44e8a05c69d5aff532, type: 2}
+  - gameObjectName: Clamp1
+    partData: {fileID: 11400000, guid: 1d6c0b4d87afd8340a304778a9c382b9, type: 2}
+  - gameObjectName: Clamp2
+    partData: {fileID: 11400000, guid: c502473d163d2b943a4287b815845423, type: 2}
+  - gameObjectName: Cover
+    partData: {fileID: 11400000, guid: be81fc24563813d44a8fc62a8e4237d5, type: 2}
+  - gameObjectName: Cover1
+    partData: {fileID: 11400000, guid: fab0b4faf5f8a0d4ea7d131b64ef2c1f, type: 2}
+  - gameObjectName: Cover_turbine
+    partData: {fileID: 11400000, guid: 67ce28f70bc319b4aa2cd32bdd86797e, type: 2}
+  - gameObjectName: Inlet_pipe
+    partData: {fileID: 11400000, guid: fdaaf0ac7e3113641ac20f3a3181261b, type: 2}
+  - gameObjectName: Screw
+    partData: {fileID: 11400000, guid: 5f899b8a3b364574981bdef2a5c76ac7, type: 2}
+  - gameObjectName: Screw
+    partData: {fileID: 11400000, guid: 5f899b8a3b364574981bdef2a5c76ac7, type: 2}
+  - gameObjectName: Screw
+    partData: {fileID: 11400000, guid: 5f899b8a3b364574981bdef2a5c76ac7, type: 2}
+  - gameObjectName: Screw
+    partData: {fileID: 11400000, guid: 5f899b8a3b364574981bdef2a5c76ac7, type: 2}
+  - gameObjectName: Screw
+    partData: {fileID: 11400000, guid: 5f899b8a3b364574981bdef2a5c76ac7, type: 2}
+  - gameObjectName: Nozzle
+    partData: {fileID: 11400000, guid: daf5d4514a6352042998332ed2ff08bf, type: 2}
+  - gameObjectName: pipe
+    partData: {fileID: 11400000, guid: 93a50fba17e14de41a26647434a60f91, type: 2}
+  - gameObjectName: Pipe1
+    partData: {fileID: 11400000, guid: e4e896a644e9ef94f95201cdcfa4eb15, type: 2}
+  - gameObjectName: Pipe2
+    partData: {fileID: 11400000, guid: e315d6d6ae34a8c4a95bbd3e5e54e1e0, type: 2}
+  - gameObjectName: Pipe3
+    partData: {fileID: 11400000, guid: e1b196f8dc805b24d9cccacdfd06106d, type: 2}
+  - gameObjectName: Spring
+    partData: {fileID: 11400000, guid: 04ced8f1b0b9ac74a94a0b4f493d50af, type: 2}
+  - gameObjectName: Shaft
+    partData: {fileID: 11400000, guid: 1e13d188b2033ae41b0f43f9e32cb468, type: 2}
+  - gameObjectName: Bearing
+    partData: {fileID: 11400000, guid: ad2516f023d06874d95c81dfcbbcc4e0, type: 2}
+  - gameObjectName: Bearing1
+    partData: {fileID: 11400000, guid: a75176dccd952f04890bfa8a105a78b8, type: 2}
+  - gameObjectName: Bearing2
+    partData: {fileID: 11400000, guid: ed351eab1212e274c9788d89e4cb2420, type: 2}
+  - gameObjectName: Bearing3
+    partData: {fileID: 11400000, guid: ce1398915cdd309409d9fc6a21b7d998, type: 2}
+  - gameObjectName: Bearing4
+    partData: {fileID: 11400000, guid: 340a4f92b47110b4bbfa502158a1ed5d, type: 2}
+  - gameObjectName: Bucket_blades
+    partData: {fileID: 11400000, guid: a30a61d6977206648af7e05951378f4f, type: 2}
+  - gameObjectName: Runner
+    partData: {fileID: 11400000, guid: 20ac010a7cb29bc42b333f07504a6bd1, type: 2}
+  - gameObjectName: Spear
+    partData: {fileID: 11400000, guid: cfabc46f296c96b4a98e3158aed08704, type: 2}
+  - gameObjectName: Spear_Rod
+    partData: {fileID: 11400000, guid: c5938bf41669fab408f572e97801b4bc, type: 2}

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: TwoLobePumpManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Face Plate
+    partData: {fileID: 11400000, guid: 620079e0dfc432a42855d33dfb9fa3f7, type: 2}
+  - gameObjectName: Gearbox Cover
+    partData: {fileID: 11400000, guid: 81a03e3f86d450d4d869d05096ab6b43, type: 2}
+  - gameObjectName: Bolt
+    partData: {fileID: 11400000, guid: b966b211e9efc7646a37a5b59c5f10a6, type: 2}
+  - gameObjectName: Bolt
+    partData: {fileID: 11400000, guid: b966b211e9efc7646a37a5b59c5f10a6, type: 2}
+  - gameObjectName: Bolt
+    partData: {fileID: 11400000, guid: b966b211e9efc7646a37a5b59c5f10a6, type: 2}
+  - gameObjectName: Bolt
+    partData: {fileID: 11400000, guid: b966b211e9efc7646a37a5b59c5f10a6, type: 2}
+  - gameObjectName: Bolt
+    partData: {fileID: 11400000, guid: b966b211e9efc7646a37a5b59c5f10a6, type: 2}
+  - gameObjectName: Bolt
+    partData: {fileID: 11400000, guid: b966b211e9efc7646a37a5b59c5f10a6, type: 2}
+  - gameObjectName: Bolt
+    partData: {fileID: 11400000, guid: b966b211e9efc7646a37a5b59c5f10a6, type: 2}
+  - gameObjectName: Bolt
+    partData: {fileID: 11400000, guid: b966b211e9efc7646a37a5b59c5f10a6, type: 2}
+  - gameObjectName: Casing
+    partData: {fileID: 11400000, guid: 9a9dea099b5f4af459d08716401a0eda, type: 2}
+  - gameObjectName: Gear_01
+    partData: {fileID: 11400000, guid: 83ce0c8bb4c2d1f4b9ed1f1cd2f69983, type: 2}
+  - gameObjectName: Gear_02
+    partData: {fileID: 11400000, guid: ea3c92bb5fa244249ae731feeed01c73, type: 2}
+  - gameObjectName: Lobe2_01
+    partData: {fileID: 11400000, guid: 85cff3886c862e343bb6ab760b5f50d6, type: 2}
+  - gameObjectName: Lobe2_02
+    partData: {fileID: 11400000, guid: 725d17231ebc6a64c942cabbb5aa373a, type: 2}
+  - gameObjectName: Driver Shaft
+    partData: {fileID: 11400000, guid: fd38ff3f4d52acf4890f0ac5be411a1a, type: 2}
+  - gameObjectName: Idler Shaft
+    partData: {fileID: 11400000, guid: 202c91187adc2e446add0a6a36344388, type: 2}
+  - gameObjectName: pCylinder1 (1)
+    partData: {fileID: 11400000, guid: 1291e869544005d46bf7edd5952795a0, type: 2}
+  - gameObjectName: Emiters
+    partData: {fileID: 11400000, guid: 80136e1d851a1b2478346ef61ee2202f, type: 2}
+  - gameObjectName: polySurface1 (1)
+    partData: {fileID: 11400000, guid: aff2187a4289db749a4dcc60d38c3b1b, type: 2}
+  - gameObjectName: Emiters
+    partData: {fileID: 11400000, guid: 80136e1d851a1b2478346ef61ee2202f, type: 2}
+  - gameObjectName: Emiters
+    partData: {fileID: 11400000, guid: 80136e1d851a1b2478346ef61ee2202f, type: 2}
+  - gameObjectName: pCylinder1
+    partData: {fileID: 11400000, guid: 63a3ffbbb3687fe4db329809af3252c9, type: 2}
+  - gameObjectName: polySurface1
+    partData: {fileID: 11400000, guid: b653f78c12d4cfb478e3ad57a6b56f8e, type: 2}
+  - gameObjectName: pCylinder2
+    partData: {fileID: 11400000, guid: 2d12ec60ad1aad5438463b28fb4d0488, type: 2}
+  - gameObjectName: Emiters
+    partData: {fileID: 11400000, guid: 80136e1d851a1b2478346ef61ee2202f, type: 2}
+  - gameObjectName: Emiters
+    partData: {fileID: 11400000, guid: 80136e1d851a1b2478346ef61ee2202f, type: 2}
+  - gameObjectName: Bolt01
+    partData: {fileID: 11400000, guid: 0b2148fc70a759545a8f24742a5b8d0d, type: 2}
+  - gameObjectName: Bolt02
+    partData: {fileID: 11400000, guid: e286e5267ce3df2478b72f951346c1dc, type: 2}
+  - gameObjectName: Bolt03
+    partData: {fileID: 11400000, guid: a77c4d0b3d1d2a14b8bf7fdee6b300f2, type: 2}
+  - gameObjectName: Bolt04
+    partData: {fileID: 11400000, guid: fa0d82ee50ad04e41bfe286080e631e3, type: 2}
+  - gameObjectName: Bolt05
+    partData: {fileID: 11400000, guid: 4a41af942c287a84481c61b161809b61, type: 2}
+  - gameObjectName: Bolt06
+    partData: {fileID: 11400000, guid: 8838a60e57568e94eb5eede52239d28b, type: 2}
+  - gameObjectName: Bolt07
+    partData: {fileID: 11400000, guid: c4693f5e5b58cc44e8c72ebb7048bbd1, type: 2}
+  - gameObjectName: Bolt08
+    partData: {fileID: 11400000, guid: 52161094ccc24094e8f0494faf042c23, type: 2}
+  - gameObjectName: Lobe1
+    partData: {fileID: 11400000, guid: daa62619b70828e4dbc53ec0add72ff5, type: 2}
+  - gameObjectName: Lobe2
+    partData: {fileID: 11400000, guid: 0f29bb54f4680584a9e347d012e3254e, type: 2}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: RamjetEngineData
+  m_EditorClassIdentifier: 
+  engineName: Ramjet Engine
+  engineDescription: A Ramjet Engine is an air-breathing reaction engine that produces
+    thrust by compressing incoming air through the forward motion of the vehicle
+    rather than using a mechanical compressor. It operates on the principle of ram
+    compression, in which high-speed air is slowed and compressed as it passes through
+    the inlet and diffuser. Its major components include the air inlet, diffuser,
+    combustion chamber, fuel injection system, flame holder, and exhaust nozzle.
+    During operation, high-speed air enters the inlet and is compressed as its velocity
+    decreases. Fuel is then injected into the compressed air and burned in the combustion
+    chamber. The resulting high-temperature gases expand through the exhaust nozzle
+    and leave at high velocity, generating thrust. Ramjets are mainly used in high-speed
+    missiles, experimental aircraft, and specialized aerospace propulsion systems.
+    From an engineering perspective, inlet design, shock waves, pressure recovery,
+    combustion stability, fuel-air mixing, thermal loading, nozzle expansion, and
+    operating speed are critical factors affecting performance.
+  engineCategory: Engineering
+  thumbnail: {fileID: 21300000, guid: 71a2e363ad15a5a4daf1925a4371ce2f, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 71314e7cee40200498d9a7cc6445fdf7, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: ShellandTubeHeatExchangerData
+  m_EditorClassIdentifier: 
+  engineName: Shell and Tube Heat Exchanger
+  engineDescription: A Shell-and-Tube Heat Exchanger is a thermal energy-transfer
+    device used to transfer heat between two fluids without directly mixing them.
+    Its main components include the shell, tubes, tube sheets, inlet and outlet nozzles,
+    baffles, channel heads, and supporting structures. During operation, one fluid
+    flows through the tubes while the other fluid flows around the outside of the
+    tubes within the shell. Heat is transferred through the tube walls from the fluid
+    at higher temperature to the fluid at lower temperature. Baffles are commonly
+    provided inside the shell to guide the shell-side fluid and increase turbulence,
+    thereby improving heat transfer. Shell-and-tube heat exchangers are widely used
+    in power plants, chemical processing, petroleum refineries, refrigeration systems,
+    HVAC equipment, and industrial process plants. From an engineering perspective,
+    understanding heat-transfer coefficients, temperature differences, fluid flow
+    patterns, pressure drop, fouling, thermal expansion, material selection, corrosion,
+    and maintenance is essential for achieving efficient and long-term heat exchanger
+    performance.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: cad07d1fbb0a36c4ab646eaa46319ad2, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

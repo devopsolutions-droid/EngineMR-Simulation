@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: ScramjetEngineManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Cover
+    partData: {fileID: 11400000, guid: 1786a200333981e47b912619b9ca4a88, type: 2}
+  - gameObjectName: Engine
+    partData: {fileID: 11400000, guid: 3471f3904c67cf64398caaa01c97ea05, type: 2}
+  - gameObjectName: Scramjet_engine
+    partData: {fileID: 11400000, guid: eda6e1c985327564195f75dab6d21707, type: 2}

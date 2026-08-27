@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: ScrollCompressorManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Scroll Base
+    partData: {fileID: 11400000, guid: fe6fbd63c9efde64aa5f25b5ffeafcd3, type: 2}
+  - gameObjectName: Fan
+    partData: {fileID: 11400000, guid: 0f816ffd92eb0bf4e912ecb38a51e471, type: 2}
+  - gameObjectName: Fan cover
+    partData: {fileID: 11400000, guid: 2106cbf8f5ba6ca4b9b0ed61d9ccf66e, type: 2}
+  - gameObjectName: Fan Shroud
+    partData: {fileID: 11400000, guid: d8a2209f11475f0468d10e984297881f, type: 2}
+  - gameObjectName: Oldham Ring
+    partData: {fileID: 11400000, guid: 61ec8bdba5e7e004690d85e5dd152680, type: 2}
+  - gameObjectName: Orbiting scroll
+    partData: {fileID: 11400000, guid: 3577c64ddac2c2849bd867edcf6ed65d, type: 2}
+  - gameObjectName: Cover plate
+    partData: {fileID: 11400000, guid: 43400c0776f1f73439f8d4c0b7a737ec, type: 2}
+  - gameObjectName: stand
+    partData: {fileID: 11400000, guid: 83842d308639c6b4f8c2caa12aeb57bd, type: 2}
+  - gameObjectName: Srew
+    partData: {fileID: 11400000, guid: 6858e405f1cf9a74895589cb538cc55f, type: 2}
+  - gameObjectName: Fixed_scroll_back
+    partData: {fileID: 11400000, guid: 39c6f620d6295d0418275ef5491c3da0, type: 2}
+  - gameObjectName: polySurface7
+    partData: {fileID: 11400000, guid: 4532d43f1cb286a47a5f09c33c2873dd, type: 2}
+  - gameObjectName: polySurface5
+    partData: {fileID: 11400000, guid: 6d54d8bbca7d1f44c8d5afe6025ad023, type: 2}
+  - gameObjectName: Crankshaft_cover
+    partData: {fileID: 11400000, guid: 253c28fce0a8ff84d98c743e3a876c20, type: 2}
+  - gameObjectName: Crankshaft
+    partData: {fileID: 11400000, guid: e748ecf0123211c438aadcaf28c74941, type: 2}
+  - gameObjectName: Orbiting scroll
+    partData: {fileID: 11400000, guid: 3577c64ddac2c2849bd867edcf6ed65d, type: 2}

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: ThermostaticExpansionValveManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Valve Body
+    partData: {fileID: 11400000, guid: a78dad3cc3bbb9a4680f041224023055, type: 2}
+  - gameObjectName: Valve Body
+    partData: {fileID: 11400000, guid: a78dad3cc3bbb9a4680f041224023055, type: 2}
+  - gameObjectName: object10
+    partData: {fileID: 11400000, guid: f50fd9b8db298fd4b8cd3ed420e19ab5, type: 2}
+  - gameObjectName: CapillaryTube
+    partData: {fileID: 11400000, guid: 67e32798f4eb97b418e7ce05b9e59cc7, type: 2}
+  - gameObjectName: Power Head
+    partData: {fileID: 11400000, guid: 459acee2bf2a7a544b8ececc80eea13e, type: 2}
+  - gameObjectName: Inlet
+    partData: {fileID: 11400000, guid: 9343818f0743457479d567e19c1969c7, type: 2}
+  - gameObjectName: Outlet
+    partData: {fileID: 11400000, guid: 6bdb5366a8602f74380237439e4a01b6, type: 2}
+  - gameObjectName: Superheat Adjust Cap
+    partData: {fileID: 11400000, guid: 00eaca8a1cae3fa4ba5bcbf26b5a9591, type: 2}
+  - gameObjectName: Superheat Spring
+    partData: {fileID: 11400000, guid: 426f1aa8b8f37034e89d4c6cf51c6aa4, type: 2}
+  - gameObjectName: Pin
+    partData: {fileID: 11400000, guid: ad34f937d082c014e924c2b3d0e88f1d, type: 2}
+  - gameObjectName: Diaphragm
+    partData: {fileID: 11400000, guid: 9882f725a23f1144ba9f739bb41eae90, type: 2}
+  - gameObjectName: Sensing Bulb
+    partData: {fileID: 11400000, guid: 48fd0743fc26bb7468572dbf19f2f70d, type: 2}
+  - gameObjectName: object6
+    partData: {fileID: 11400000, guid: 419443269493e5945986de9d7f644a95, type: 2}
+  - gameObjectName: object15
+    partData: {fileID: 11400000, guid: eeb591fafb273fd4aa6bd383c8141a24, type: 2}
+  - gameObjectName: object16
+    partData: {fileID: 11400000, guid: 8a99772cc08ea6b4c9eb9f045c16f035, type: 2}
+  - gameObjectName: Object
+    partData: {fileID: 11400000, guid: 41cc67e2d177afc4490f178569089792, type: 2}
+  - gameObjectName: Table
+    partData: {fileID: 11400000, guid: a44ae187509f2c049aa50cb952e992dd, type: 2}
+  - gameObjectName: Shadow (1)
+    partData: {fileID: 11400000, guid: 0cf0c008bd4751249847ae653b731012, type: 2}
+  - gameObjectName: Shadow
+    partData: {fileID: 11400000, guid: 890ab6fefbdc8fd4f91a0d80d57fabf8, type: 2}

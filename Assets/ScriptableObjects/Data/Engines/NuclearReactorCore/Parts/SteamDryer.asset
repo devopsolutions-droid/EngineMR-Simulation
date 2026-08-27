@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8570e25f67e4d9b47982d8b1123bce61, type: 3}
+  m_Name: SteamDryer
+  m_EditorClassIdentifier: 
+  partName: Steam Dryer
+  description: This is the Steam Dryer which removes moisture from steam to prevent
+    corrosion and ensure efficient airflow within the nuclear reactor core system.
+  audioExplanation: {fileID: 8300000, guid: b9ba2a9c8fd79e34fa8170ef9e059f35, type: 3}

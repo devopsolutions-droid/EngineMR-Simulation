@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: ScrollCompressorData
+  m_EditorClassIdentifier: 
+  engineName: Scroll Compressor
+  engineDescription: A Scroll Compressor is a positive-displacement compressor used
+    for compressing gases and refrigerants by using two interleaving spiral-shaped
+    scrolls, one stationary and one orbiting. Its main components include the fixed
+    scroll, orbiting scroll, crankshaft or eccentric drive, motor, casing, suction
+    port, discharge port, bearings, and sealing elements. During operation, the orbiting
+    scroll moves in an orbital path around the fixed scroll without rotating about
+    its own axis. This movement creates enclosed pockets of gas between the two scrolls.
+    Gas enters through the outer region of the scrolls, and as the orbiting motion
+    continues, the trapped gas pockets move toward the center while their volume
+    decreases. The compressed gas is finally discharged through the central outlet.
+    Scroll compressors are widely used in refrigeration systems, air-conditioning
+    units, heat pumps, automotive air-conditioning systems, and compact industrial
+    equipment. From an engineering perspective, understanding scroll geometry, orbital
+    motion, compression efficiency, leakage, sealing, lubrication, thermal behavior,
+    vibration, and wear characteristics is essential for achieving quiet, efficient,
+    and reliable operation.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: eaf8b9836487b03418a2e3ced6e148bd, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

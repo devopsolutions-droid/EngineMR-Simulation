@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: RefrigeratorManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: BodyofRefrigrator
+    partData: {fileID: 11400000, guid: f0e1315678524c64e8a06f744498986a, type: 2}
+  - gameObjectName: Fridge_door
+    partData: {fileID: 11400000, guid: 65327bffab1995a48909ecfe1553899b, type: 2}
+  - gameObjectName: Main_Wire
+    partData: {fileID: 11400000, guid: 3765a26f8c7ae2d449a676bb153c31e8, type: 2}
+  - gameObjectName: Wire1
+    partData: {fileID: 11400000, guid: d6206720c3ca1b3458b3498b0e236cf3, type: 2}
+  - gameObjectName: Wire2
+    partData: {fileID: 11400000, guid: 9c310125de5e969408106cb6d551a978, type: 2}
+  - gameObjectName: Wire3
+    partData: {fileID: 11400000, guid: 01f42b864e971434a9c8b163bdc68c59, type: 2}
+  - gameObjectName: Wire4
+    partData: {fileID: 11400000, guid: 46b9593bcd44b9843aaa32393eefbc63, type: 2}
+  - gameObjectName: Wire5
+    partData: {fileID: 11400000, guid: c330d7e084495794dad38df35f55545c, type: 2}
+  - gameObjectName: Wire6
+    partData: {fileID: 11400000, guid: fc119daedf2721644ae0e7f83eb2b22d, type: 2}
+  - gameObjectName: Wire7
+    partData: {fileID: 11400000, guid: 046b5da532904114dba67944e72671b4, type: 2}
+  - gameObjectName: Wire8
+    partData: {fileID: 11400000, guid: 2c55b2bac187c0048a1a3061f2eaefa0, type: 2}
+  - gameObjectName: Wire9
+    partData: {fileID: 11400000, guid: 6d446131b871d8049a1a253db131a5f0, type: 2}
+  - gameObjectName: Switch
+    partData: {fileID: 11400000, guid: 401ca760cab2373409a6320970d2da79, type: 2}
+  - gameObjectName: Bulb
+    partData: {fileID: 11400000, guid: bc04e774e3dfa654ebcf75c44654f961, type: 2}
+  - gameObjectName: BulbCover
+    partData: {fileID: 11400000, guid: a765f84f7ffce0c41bf39f00c4b8ac3a, type: 2}
+  - gameObjectName: ThermoStart
+    partData: {fileID: 11400000, guid: fd7fcd8098a64d24580e560d888d74a6, type: 2}
+  - gameObjectName: Tempreature_ControllerPlug
+    partData: {fileID: 11400000, guid: d0e097d05a30b5749ac59ebe24b5198c, type: 2}
+  - gameObjectName: Compressor
+    partData: {fileID: 11400000, guid: d870d35a59ac04041bc7a88196997bb2, type: 2}
+  - gameObjectName: Expansion Device
+    partData: {fileID: 11400000, guid: dacf80e58bdf8ba42b639da8bd767491, type: 2}
+  - gameObjectName: RecevierDryer
+    partData: {fileID: 11400000, guid: ba1b143ad72f3904b8011f013bdf1103, type: 2}
+  - gameObjectName: Relay Device
+    partData: {fileID: 11400000, guid: 6f20beeae5365764aa58b94cb625a467, type: 2}
+  - gameObjectName: Evaporator Coils
+    partData: {fileID: 11400000, guid: 91f98e595cd399c40ae6d785b9bd8150, type: 2}
+  - gameObjectName: Evaporator1
+    partData: {fileID: 11400000, guid: ea7ecd733466c984bad0ec01ee87925b, type: 2}
+  - gameObjectName: Condenser Coils -Condensor3
+    partData: {fileID: 11400000, guid: 04d0ae4e4ed2b8541a64b9369d67bd06, type: 2}
+  - gameObjectName: Condensor_Base
+    partData: {fileID: 11400000, guid: 0798d69367eda084eaffe03c7bd27d8d, type: 2}
+  - gameObjectName: Condensor_Spot
+    partData: {fileID: 11400000, guid: 63060860725ef6d4ca4deb3e68e6252f, type: 2}
+  - gameObjectName: Condensor
+    partData: {fileID: 11400000, guid: b4ea5184b25017d478cf20a9f82b23b8, type: 2}

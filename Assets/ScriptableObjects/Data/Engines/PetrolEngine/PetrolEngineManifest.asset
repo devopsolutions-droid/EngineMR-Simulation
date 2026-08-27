@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: PetrolEngineManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: AirFilter1
+    partData: {fileID: 11400000, guid: 0dedca55d104ff946a2841aac7114938, type: 2}
+  - gameObjectName: AirFilter2
+    partData: {fileID: 11400000, guid: 91c4cf57510c2324f9117b646a18e4a0, type: 2}
+  - gameObjectName: AirFilter3
+    partData: {fileID: 11400000, guid: 10b1a47c9b6228149b1bee096765d2e0, type: 2}
+  - gameObjectName: CamshaftExhaust
+    partData: {fileID: 11400000, guid: 5df1dd53cf54c724baefe62e6f0f264f, type: 2}
+  - gameObjectName: CamshaftIntake
+    partData: {fileID: 11400000, guid: ea1c450eb586c5343a758c3e81cf8230, type: 2}
+  - gameObjectName: ValveExhaust1
+    partData: {fileID: 11400000, guid: 71cc584239d3840439ea63795106d9d7, type: 2}
+  - gameObjectName: ValveExhaust2
+    partData: {fileID: 11400000, guid: 02387a607277cfa468499134515c933e, type: 2}
+  - gameObjectName: ValveExhaust3
+    partData: {fileID: 11400000, guid: 09022ff2a30cac340a301a0f56617ebf, type: 2}
+  - gameObjectName: ValveExhaust4
+    partData: {fileID: 11400000, guid: ca50aa6507609c8458154a328cb028b0, type: 2}
+  - gameObjectName: ValveExhaust5
+    partData: {fileID: 11400000, guid: 66be8c3ecdbc7a3428b8ebda8f681e41, type: 2}
+  - gameObjectName: ValveExhaust6
+    partData: {fileID: 11400000, guid: 6a4f5f5647dc71748802a7ab00f82361, type: 2}
+  - gameObjectName: ValveExhaust7
+    partData: {fileID: 11400000, guid: fbba707b3318e9e4398c1acd9b24b8da, type: 2}
+  - gameObjectName: ValveExhaust8
+    partData: {fileID: 11400000, guid: 46857806803bdc8448b274a4bc62a2e8, type: 2}
+  - gameObjectName: ValveExhaustSpring1
+    partData: {fileID: 11400000, guid: f34d6c91dda156b45a5346495818aed2, type: 2}
+  - gameObjectName: ValveExhaustSpring2
+    partData: {fileID: 11400000, guid: baabc95ca60aa0f47ba50fd52b3883b8, type: 2}
+  - gameObjectName: ValveExhaustSpring3
+    partData: {fileID: 11400000, guid: 53be9b6ecd7b3084d931ae347704477d, type: 2}
+  - gameObjectName: ValveExhaustSpring4
+    partData: {fileID: 11400000, guid: 32d26a55b8ef76a46a7cd5f5edcd56b4, type: 2}
+  - gameObjectName: ValveExhaustSpring5
+    partData: {fileID: 11400000, guid: e8fb570098e09b041a595febc7e1e460, type: 2}
+  - gameObjectName: ValveExhaustSpring6
+    partData: {fileID: 11400000, guid: 161a61f7af6f4cf4a9e390c5f9c9ab6d, type: 2}
+  - gameObjectName: ValveExhaustSpring7
+    partData: {fileID: 11400000, guid: ee6088e78114ef8488aaa5eccbe93f91, type: 2}
+  - gameObjectName: ValveExhaustSpring8
+    partData: {fileID: 11400000, guid: 14667f11e3323bb4f84f9ec44677ab71, type: 2}
+  - gameObjectName: ValveIntake1
+    partData: {fileID: 11400000, guid: db253b4c59d7f0a428ef1919135dff41, type: 2}
+  - gameObjectName: ValveIntake2
+    partData: {fileID: 11400000, guid: e2ef7e40856178241aaed9f7e8b9fff0, type: 2}
+  - gameObjectName: ValveIntake3
+    partData: {fileID: 11400000, guid: b1ce2a754e58dfa4f88577f0957ae233, type: 2}
+  - gameObjectName: ValveIntake4
+    partData: {fileID: 11400000, guid: cb36769ee3ca5e64a9f003bf167f46c6, type: 2}
+  - gameObjectName: ValveIntake5
+    partData: {fileID: 11400000, guid: 918f8bbb142961042b40fa3db556f4f2, type: 2}
+  - gameObjectName: ValveIntake6
+    partData: {fileID: 11400000, guid: caabe8d448ed4da41a3b24817c0865df, type: 2}
+  - gameObjectName: ValveIntake7
+    partData: {fileID: 11400000, guid: 50ffb5fc8120b8e4f95fd47639bd0c0b, type: 2}
+  - gameObjectName: ValveIntake8
+    partData: {fileID: 11400000, guid: a654de4b3e625d74f8c76e34619428f3, type: 2}
+  - gameObjectName: ValveIntakeSpring1
+    partData: {fileID: 11400000, guid: ee1791ad0a7b20145990507e2c7415d2, type: 2}
+  - gameObjectName: ValveIntakeSpring2
+    partData: {fileID: 11400000, guid: 41beb991f872f6b4e9bfff3a6bc8ba9c, type: 2}
+  - gameObjectName: ValveIntakeSpring3
+    partData: {fileID: 11400000, guid: fded9c672ee7f5844bf17a512d1493f7, type: 2}
+  - gameObjectName: ValveIntakeSpring4
+    partData: {fileID: 11400000, guid: 3bc91cff45889d641b6570a93a2f63b7, type: 2}
+  - gameObjectName: ValveIntakeSpring5
+    partData: {fileID: 11400000, guid: 48746e6c6c1c1624a8b0d59458874146, type: 2}
+  - gameObjectName: ValveIntakeSpring6
+    partData: {fileID: 11400000, guid: 59afadde303a97a47bc270703f9a8b21, type: 2}
+  - gameObjectName: ValveIntakeSpring7
+    partData: {fileID: 11400000, guid: c52f66d14fac75148ba632c623f25215, type: 2}
+  - gameObjectName: ValveIntakeSpring8
+    partData: {fileID: 11400000, guid: 6cad273786ce17e49b988f9f232c94c2, type: 2}
+  - gameObjectName: GearboxGear1
+    partData: {fileID: 11400000, guid: 47e6edb6d56d3d845b52712098061283, type: 2}
+  - gameObjectName: Flywheel
+    partData: {fileID: 11400000, guid: 61dc514ad19ccd54c8a873f3125a0f47, type: 2}
+  - gameObjectName: Clutch
+    partData: {fileID: 11400000, guid: 2f37dfff764c4134995b21d66202505c, type: 2}
+  - gameObjectName: Crankshaft
+    partData: {fileID: 11400000, guid: ebfa951574732b1419df36b9123fe56b, type: 2}
+  - gameObjectName: GearboxPrimaryShaft
+    partData: {fileID: 11400000, guid: 7ae5976ca322ecb42ad388da5da6e9fc, type: 2}
+  - gameObjectName: GearboxGear2
+    partData: {fileID: 11400000, guid: b05388b63fcba444f94b8708902d9302, type: 2}
+  - gameObjectName: GearboxGear3
+    partData: {fileID: 11400000, guid: c3a6ffedf61d0614e8e8d40e80d47d9b, type: 2}
+  - gameObjectName: GearboxGear4
+    partData: {fileID: 11400000, guid: 1584902568f456d40a8a74a6ba658062, type: 2}
+  - gameObjectName: GearboxGear5
+    partData: {fileID: 11400000, guid: e690326d9befef443801978cd10dab67, type: 2}
+  - gameObjectName: GearboxSecondaryShaft
+    partData: {fileID: 11400000, guid: 3b6c693f895740f4282b367adb7d92b6, type: 2}
+  - gameObjectName: GeneratorBelt
+    partData: {fileID: 11400000, guid: 7dfdc139e4beff04db7c2947b9274b2e, type: 2}
+  - gameObjectName: GeneratorPulley
+    partData: {fileID: 11400000, guid: f45ecd59f8848b043b032febf30bc352, type: 2}
+  - gameObjectName: Piston1
+    partData: {fileID: 11400000, guid: f738e0a809a7fa84ea29c8d19f3a7b54, type: 2}
+  - gameObjectName: Piston2
+    partData: {fileID: 11400000, guid: b6e5ab0b054939a41b6d800fe8e580ed, type: 2}
+  - gameObjectName: Piston3
+    partData: {fileID: 11400000, guid: b12085b052ce0fd41b1a34d0cf7329ec, type: 2}
+  - gameObjectName: Piston4
+    partData: {fileID: 11400000, guid: a967b5fc8c626cf4bafcb5901200dd8a, type: 2}
+  - gameObjectName: Rod1
+    partData: {fileID: 11400000, guid: 985de3a0611ebb847a87b311d85c888d, type: 2}
+  - gameObjectName: Rod2
+    partData: {fileID: 11400000, guid: 8b2f53e15df4840408b3ef201ba07e8b, type: 2}
+  - gameObjectName: Rod3
+    partData: {fileID: 11400000, guid: f7aea3ba4841382489bb62b5f2a8858d, type: 2}
+  - gameObjectName: Rod4
+    partData: {fileID: 11400000, guid: de779c21a759fec41941c0600551f1e7, type: 2}
+  - gameObjectName: StarterGear1
+    partData: {fileID: 11400000, guid: e067d9b83626c0e49a6c23ea9e2acf9d, type: 2}
+  - gameObjectName: StarterGear2
+    partData: {fileID: 11400000, guid: 730822a79e4c5ba4487c66318aa74cf1, type: 2}
+  - gameObjectName: TensionPulley
+    partData: {fileID: 11400000, guid: 67e6aa7ab76fe224a912873b7c2e209b, type: 2}
+  - gameObjectName: TensionPulleyMount
+    partData: {fileID: 11400000, guid: 03e2d078c5d57414c99c7fc2e06e2e81, type: 2}
+  - gameObjectName: WaterPumpPulley
+    partData: {fileID: 11400000, guid: 068efb3c2e5caf344b6263d045d33744, type: 2}
+  - gameObjectName: CylinderHead
+    partData: {fileID: 11400000, guid: 7b9f919fe63de9d499a0fa043ad5d99b, type: 2}
+  - gameObjectName: CylinderHeadCover2
+    partData: {fileID: 11400000, guid: ee05c606f8af7094b9b2b8865f8aaee8, type: 2}
+  - gameObjectName: DistributorGear
+    partData: {fileID: 11400000, guid: 52409b51a4810a445b894e834fd0cc11, type: 2}
+  - gameObjectName: EngineBlock
+    partData: {fileID: 11400000, guid: cd8e9cdd403b5ee4588771a7bc44c513, type: 2}
+  - gameObjectName: ExhaustManifold
+    partData: {fileID: 11400000, guid: 48b426930dd9f1943bf238e0c651ac43, type: 2}
+  - gameObjectName: ExhaustManifoldTurbo
+    partData: {fileID: 11400000, guid: c153daacef8b6bd4194a3c48b9d627a2, type: 2}
+  - gameObjectName: FuelPipes
+    partData: {fileID: 11400000, guid: bd4b966fd0df65648ad801bb3a1e52c0, type: 2}
+  - gameObjectName: FuelRail
+    partData: {fileID: 11400000, guid: 802b607a83144074b934a4275ba9122d, type: 2}
+  - gameObjectName: Gearbox
+    partData: {fileID: 11400000, guid: 921252152fdc9044481ab0980fb506f7, type: 2}
+  - gameObjectName: Generator
+    partData: {fileID: 11400000, guid: 9a5c4ad2790511e4a9d7225526e05c5c, type: 2}
+  - gameObjectName: Injectors1
+    partData: {fileID: 11400000, guid: 5d4f3995326d48745aa1b8ba37941160, type: 2}
+  - gameObjectName: Injectors2
+    partData: {fileID: 11400000, guid: cd435608231a65f44bfad2131815361d, type: 2}
+  - gameObjectName: Injectors3
+    partData: {fileID: 11400000, guid: a86b9897ff8dbff4ba4ba0340f7bd03e, type: 2}
+  - gameObjectName: Injectors4
+    partData: {fileID: 11400000, guid: 85ed8a613f3c12245bc73b47d12c41f9, type: 2}
+  - gameObjectName: IntakeManifold
+    partData: {fileID: 11400000, guid: 72bfb58a8d6e3a145b9868c3fd9ba240, type: 2}
+  - gameObjectName: OilPan
+    partData: {fileID: 11400000, guid: 14be8bd390e2a824b873e761ff384597, type: 2}
+  - gameObjectName: SparkPlugs
+    partData: {fileID: 11400000, guid: 4675669b09a5afc4fa2ccba7184bcb24, type: 2}
+  - gameObjectName: SparkPlugWires
+    partData: {fileID: 11400000, guid: 06f0bd976b2747e4d985e0475bc59a53, type: 2}
+  - gameObjectName: ThrottlesDrossel
+    partData: {fileID: 11400000, guid: a1d6f09dd281bed4ba9b3599f4416aef, type: 2}
+  - gameObjectName: TimingBelt
+    partData: {fileID: 11400000, guid: b1b2848e59df3ae4684ec971bc0cba98, type: 2}
+  - gameObjectName: TurboAirIntakePipe
+    partData: {fileID: 11400000, guid: 99030f4f4fb4d864dac20e650d56d930, type: 2}
+  - gameObjectName: TurboAirOutPipe
+    partData: {fileID: 11400000, guid: 17f144d081471c449bd1941b1839674c, type: 2}
+  - gameObjectName: Turbocharger
+    partData: {fileID: 11400000, guid: e880f7d9ceba46e40836c9fee0ed78f4, type: 2}
+  - gameObjectName: TurboFan
+    partData: {fileID: 11400000, guid: 0d7537c876dc5814cac7972e3224f196, type: 2}
+  - gameObjectName: TurboIntercooler
+    partData: {fileID: 11400000, guid: 89104047041cea345acf7f0f8385ba79, type: 2}
+  - gameObjectName: WaterPump
+    partData: {fileID: 11400000, guid: 037faf8b11b547d4696cf17e62cfaf34, type: 2}

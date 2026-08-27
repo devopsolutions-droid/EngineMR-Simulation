@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: SplitACUnitManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Condenser Coil
+    partData: {fileID: 11400000, guid: 90d68d5dbfc760048a46a81f05bd6ffb, type: 2}
+  - gameObjectName: Condenser Fins
+    partData: {fileID: 11400000, guid: 6c36fabf89bb0e646a210677feb5576d, type: 2}
+  - gameObjectName: Outdoor Unit Cover
+    partData: {fileID: 11400000, guid: d994d6b6ba48dcd458442bfc2ef3744b, type: 2}
+  - gameObjectName: Liquid Line
+    partData: {fileID: 11400000, guid: 0710bc3282b778e4da50e844ba31bcc4, type: 2}
+  - gameObjectName: Fan (Axial Fan)
+    partData: {fileID: 11400000, guid: e98f38c55b17a754c9ff4595a5e9d1ce, type: 2}
+  - gameObjectName: Suction Line
+    partData: {fileID: 11400000, guid: 17b089206e01afc4ca73ed05153e3af2, type: 2}
+  - gameObjectName: Rotator
+    partData: {fileID: 11400000, guid: 9580eeb50216b39419bc15d90679cd3a, type: 2}
+  - gameObjectName: Pipe_Connector
+    partData: {fileID: 11400000, guid: 619d10ebed4c1ae4c9943cdc34fdc842, type: 2}
+  - gameObjectName: Part10
+    partData: {fileID: 11400000, guid: 068f4a80fc51c9a45833b7dd556a58e5, type: 2}
+  - gameObjectName: Part9
+    partData: {fileID: 11400000, guid: 25992bd99daa269458891b6393848610, type: 2}
+  - gameObjectName: Part7
+    partData: {fileID: 11400000, guid: d07bd978245159642b23de3606ea415f, type: 2}
+  - gameObjectName: Part6
+    partData: {fileID: 11400000, guid: 16db5fbde5dd5a84fa1a32152fac5ed2, type: 2}
+  - gameObjectName: Part5
+    partData: {fileID: 11400000, guid: d83c085b770bd424c96e5e7109b0630f, type: 2}
+  - gameObjectName: Part4
+    partData: {fileID: 11400000, guid: 29eb0dbe5b9e8a74f83fea8142e8126d, type: 2}
+  - gameObjectName: Part3
+    partData: {fileID: 11400000, guid: 9919b74a86166cc449be9ad8ef88af53, type: 2}
+  - gameObjectName: Part2
+    partData: {fileID: 11400000, guid: 46999ba126d96c14aa24b4251d36259e, type: 2}
+  - gameObjectName: Part1
+    partData: {fileID: 11400000, guid: c6f6579c4922d1e49a061ffb8c5d333f, type: 2}
+  - gameObjectName: Copper_Pipe2
+    partData: {fileID: 11400000, guid: 20f31546fb404d24489310a8fa95c735, type: 2}
+  - gameObjectName: Compressor_FAn
+    partData: {fileID: 11400000, guid: e7e2beff178f191469197303921ffc53, type: 2}
+  - gameObjectName: Compressor_Cover2
+    partData: {fileID: 11400000, guid: e4a3e7d1061dd3642bb3a30177be849d, type: 2}
+  - gameObjectName: Compressor_Cover1
+    partData: {fileID: 11400000, guid: 1cc2e853df2486240a4f20a3db9a11bc, type: 2}
+  - gameObjectName: Evaporator Coil
+    partData: {fileID: 11400000, guid: 63b9698e81adf2f4cafa0e68976b5db5, type: 2}
+  - gameObjectName: Dust Filter
+    partData: {fileID: 11400000, guid: 0450f7aacc409df4d984813b92f73274, type: 2}
+  - gameObjectName: Expension Valve
+    partData: {fileID: 11400000, guid: d9c9682c109c4f14dbb519b2d91ba36d, type: 2}
+  - gameObjectName: Blower Motor Bearings
+    partData: {fileID: 11400000, guid: 44ee47954c08d5044a62fdb05b7baf8b, type: 2}
+  - gameObjectName: Coil (Evaporator Coil)
+    partData: {fileID: 11400000, guid: bf745cf1876745e4c82f010627e40300, type: 2}
+  - gameObjectName: Back_Cover
+    partData: {fileID: 11400000, guid: 47416a6ba0651d34293792651f844d6a, type: 2}
+  - gameObjectName: Body
+    partData: {fileID: 11400000, guid: 78d4658568d167e4cbd05f0673dc4a97, type: 2}
+  - gameObjectName: Connector
+    partData: {fileID: 11400000, guid: e090e628871159f4ab13f86b94327cd0, type: 2}
+  - gameObjectName: Wire
+    partData: {fileID: 11400000, guid: 4f4d04900f9a8024496c119f9d1f4ed5, type: 2}
+  - gameObjectName: Moter
+    partData: {fileID: 11400000, guid: 4053ebbc18d93bb4da330093ced831bb, type: 2}
+  - gameObjectName: Blower (Cross-Flow Fan)
+    partData: {fileID: 11400000, guid: 4550d8c834b763c42a6886f858e8ec0a, type: 2}

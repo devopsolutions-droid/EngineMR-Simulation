@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: TurbochargerAirIntakeManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Turbine_Housing
+    partData: {fileID: 11400000, guid: 1b12729a013f7174bbe2fcafeeb042ce, type: 2}
+  - gameObjectName: Compressor_Housing
+    partData: {fileID: 11400000, guid: 8c029ac79e21f164d90f2f0e19e7c07c, type: 2}
+  - gameObjectName: Turbine_Wheel
+    partData: {fileID: 11400000, guid: 79e6fa0b3c7e14446940ec8f6d348d9a, type: 2}
+  - gameObjectName: Compressor_Wheel
+    partData: {fileID: 11400000, guid: f73a6e01716e63a45bf55c54b14e20f4, type: 2}
+  - gameObjectName: Shaft
+    partData: {fileID: 11400000, guid: 665ff6e10df44934cbc98ad0f0f64816, type: 2}
+  - gameObjectName: Part_01
+    partData: {fileID: 11400000, guid: 6c90c410f0d834940b51ac68233efe92, type: 2}
+  - gameObjectName: Part_02
+    partData: {fileID: 11400000, guid: 887efaae36079ef458209dba507121cf, type: 2}
+  - gameObjectName: Part_03
+    partData: {fileID: 11400000, guid: 5abf6a461c7895a479e63deb5433a512, type: 2}
+  - gameObjectName: Part_04
+    partData: {fileID: 11400000, guid: d50e0d00d97b52c46b130c00c1b2a535, type: 2}
+  - gameObjectName: Body_Upper_Part_1
+    partData: {fileID: 11400000, guid: e89e9c85532fc8246a2f215703ec7ba7, type: 2}
+  - gameObjectName: Body_Upper_Part_2
+    partData: {fileID: 11400000, guid: e93028515b896c74aa4df29dd9b73b88, type: 2}
+  - gameObjectName: Body_Lower_Part_1
+    partData: {fileID: 11400000, guid: 0bd2bc49823194046a722e2384618c4a, type: 2}
+  - gameObjectName: Body_Lower_Part_2
+    partData: {fileID: 11400000, guid: 592fa22e800ea32458952a8c18d2089f, type: 2}
+  - gameObjectName: Body_Lower_Part_3
+    partData: {fileID: 11400000, guid: f67aeb5dc45ea4f4bafe6c5d536353e2, type: 2}
+  - gameObjectName: Piston_01
+    partData: {fileID: 11400000, guid: cad29f61e4f77a44cbfb08d36e8a8c82, type: 2}
+  - gameObjectName: Piston_01_Handle
+    partData: {fileID: 11400000, guid: 7f533775bee738747a289af79e4c68f4, type: 2}
+  - gameObjectName: Piston_02
+    partData: {fileID: 11400000, guid: f4128caef62d9104399f5d412286a793, type: 2}
+  - gameObjectName: Piston_02_Handle
+    partData: {fileID: 11400000, guid: f46aeb1eedaaef74e8b04d2e35dd3f8d, type: 2}
+  - gameObjectName: Piston_03
+    partData: {fileID: 11400000, guid: 5d584531414c4f444bf6dc53bbb7a57d, type: 2}
+  - gameObjectName: Piston_03_Handle
+    partData: {fileID: 11400000, guid: dfc1debd8fb492c48acde01b28a6d2d0, type: 2}
+  - gameObjectName: Piston_04
+    partData: {fileID: 11400000, guid: 5b3d3fe76e087dc42a6381e6a9df18ae, type: 2}
+  - gameObjectName: Piston_04_Handle
+    partData: {fileID: 11400000, guid: 6bc06fdabe84c2341a46888ee38e072f, type: 2}
+  - gameObjectName: Piston_Small_Part1_01
+    partData: {fileID: 11400000, guid: 1f8dd5d19acb5b34294f032b9fdde611, type: 2}
+  - gameObjectName: Piston_Small_Part1_02
+    partData: {fileID: 11400000, guid: df49e6b53ca21ca479b613659233887d, type: 2}
+  - gameObjectName: Piston_Small_Part1_03
+    partData: {fileID: 11400000, guid: 1836963cdf3d57646a1897189406a3f5, type: 2}
+  - gameObjectName: Piston_Small_Part1_04
+    partData: {fileID: 11400000, guid: 3507a66d5db276547af3da9ff2121b6b, type: 2}
+  - gameObjectName: Piston_Small_Part1_05
+    partData: {fileID: 11400000, guid: 5d953646885f62f409b62a9d070b0422, type: 2}
+  - gameObjectName: Piston_Small_Part1_06
+    partData: {fileID: 11400000, guid: 8906cc4db8f79b4488cf537fced69fe8, type: 2}
+  - gameObjectName: Piston_Small_Part1_07
+    partData: {fileID: 11400000, guid: c497000e4ca00e949b60420fada213ec, type: 2}
+  - gameObjectName: Piston_Small_Part1_08
+    partData: {fileID: 11400000, guid: e4d069b762f299145a2913178c4a8b16, type: 2}
+  - gameObjectName: Piston_Small_Part1_09
+    partData: {fileID: 11400000, guid: db0162a7c213a1b49bb4e5f5bb637d68, type: 2}
+  - gameObjectName: Piston_Small_Part1_10
+    partData: {fileID: 11400000, guid: 0da426c30f705b247b3df50ca1f9c631, type: 2}
+  - gameObjectName: Piston_Small_Part1_11
+    partData: {fileID: 11400000, guid: dd06d34075fcad14ba2008723470f5ff, type: 2}
+  - gameObjectName: Piston_Small_Part1_12
+    partData: {fileID: 11400000, guid: 0693ed6972ebfa5488d89dbca906f177, type: 2}
+  - gameObjectName: Piston_Small_Part1_13
+    partData: {fileID: 11400000, guid: a20cdda41a6ff6844ac65bdcfa9853b8, type: 2}
+  - gameObjectName: Piston_Small_Part1_14
+    partData: {fileID: 11400000, guid: 44ab0011ded4e2f478e123928f80173a, type: 2}
+  - gameObjectName: Piston_Small_Part1_15
+    partData: {fileID: 11400000, guid: d54440b509a1600478b253f1b4b5a949, type: 2}
+  - gameObjectName: Piston_Small_Part1_16
+    partData: {fileID: 11400000, guid: e6cffec41893c10459f3653957391039, type: 2}
+  - gameObjectName: Piston_Small_Part2_01
+    partData: {fileID: 11400000, guid: 78d1e18204f650b44838010dbfdc87c9, type: 2}
+  - gameObjectName: Piston_Small_Part2_02
+    partData: {fileID: 11400000, guid: 32fe338ce1a1c3c4384f665625bd0e7d, type: 2}
+  - gameObjectName: Piston_Small_Part2_03
+    partData: {fileID: 11400000, guid: f261f21204fe17f4597a07c430ac1312, type: 2}
+  - gameObjectName: Piston_Small_Part2_04
+    partData: {fileID: 11400000, guid: 01224f603893a9f47ba499e394aa235c, type: 2}
+  - gameObjectName: Piston_Small_Part2_05
+    partData: {fileID: 11400000, guid: 2ea2611c6f15edf46a37f01caf3f7660, type: 2}
+  - gameObjectName: Piston_Small_Part2_06
+    partData: {fileID: 11400000, guid: f0f85da1866b3a84faec031311e86bea, type: 2}
+  - gameObjectName: Piston_Small_Part2_07
+    partData: {fileID: 11400000, guid: 7bc8d6b20e6c14a4e9a43c0e8c31c0ca, type: 2}
+  - gameObjectName: Piston_Small_Part2_08
+    partData: {fileID: 11400000, guid: 5774afdec00dfed4db7cbf67aac8ff93, type: 2}
+  - gameObjectName: Piston_Small_Part2_09
+    partData: {fileID: 11400000, guid: a2f830441c8d9534092b15042fe53ff7, type: 2}
+  - gameObjectName: Piston_Small_Part2_10
+    partData: {fileID: 11400000, guid: 79ab30d3e3f2a9d4cac6a68421ef1bb1, type: 2}
+  - gameObjectName: Piston_Small_Part2_11
+    partData: {fileID: 11400000, guid: 8fad34cc4396f694aa66b0672c61ba38, type: 2}
+  - gameObjectName: Piston_Small_Part2_12
+    partData: {fileID: 11400000, guid: a830b5683976a944e937585c34ee1350, type: 2}
+  - gameObjectName: Piston_Small_Part2_13
+    partData: {fileID: 11400000, guid: f70078ab2f81ed448a0c342687a64ec8, type: 2}
+  - gameObjectName: Piston_Small_Part2_14
+    partData: {fileID: 11400000, guid: 6d3a0b6ff2faea642b6bf7f676cce7e0, type: 2}
+  - gameObjectName: Piston_Small_Part2_15
+    partData: {fileID: 11400000, guid: 58c0e746b28f64e4681d4b099f67091b, type: 2}
+  - gameObjectName: Piston_Small_Part2_16
+    partData: {fileID: 11400000, guid: a1fc9d08ca1f0014fae98ed170425c51, type: 2}
+  - gameObjectName: Piston_Small_Part3_01
+    partData: {fileID: 11400000, guid: e4e7d8c869181874baba786d70d74049, type: 2}
+  - gameObjectName: Piston_Small_Part3_02
+    partData: {fileID: 11400000, guid: d49ecaaaae0c068469b694a7bc710c1a, type: 2}
+  - gameObjectName: Piston_Small_Part3_03
+    partData: {fileID: 11400000, guid: 7330471d15cba1849ae020f9aec4e05f, type: 2}
+  - gameObjectName: Piston_Small_Part3_04
+    partData: {fileID: 11400000, guid: 8f29c5702ba38644f9d69bd15325066c, type: 2}
+  - gameObjectName: Piston_Small_Part3_05
+    partData: {fileID: 11400000, guid: 03e38b1952aa2574191fe0942df5e70c, type: 2}
+  - gameObjectName: Piston_Small_Part3_06
+    partData: {fileID: 11400000, guid: be9f410b6d2dcd04fb9d93bcad2c2f18, type: 2}
+  - gameObjectName: Piston_Small_Part3_07
+    partData: {fileID: 11400000, guid: 4aaad70b1d914784d9814b0a459e5af6, type: 2}
+  - gameObjectName: Piston_Small_Part3_08
+    partData: {fileID: 11400000, guid: ce42260b9022f7e42b982d3ebdff2094, type: 2}
+  - gameObjectName: Piston_Small_Part3_09
+    partData: {fileID: 11400000, guid: 23cce57a169bac94c8885bb04c63d5e1, type: 2}
+  - gameObjectName: Piston_Small_Part3_10
+    partData: {fileID: 11400000, guid: 8387ec3cf3869cf4d9cac53b65b7052b, type: 2}
+  - gameObjectName: Piston_Small_Part3_11
+    partData: {fileID: 11400000, guid: 275eb142e4924cc44bda59108e7e39e5, type: 2}
+  - gameObjectName: Piston_Small_Part3_12
+    partData: {fileID: 11400000, guid: 0dc820fa9bcdd5548bf076ff69603698, type: 2}
+  - gameObjectName: Piston_Small_Part3_13
+    partData: {fileID: 11400000, guid: eecb43c5947700c4c8be3eb0da0e4d52, type: 2}
+  - gameObjectName: Piston_Small_Part3_14
+    partData: {fileID: 11400000, guid: 2fa8f6f917bcd7541bd64269a723d187, type: 2}
+  - gameObjectName: Piston_Small_Part3_15
+    partData: {fileID: 11400000, guid: 182e540c54eaa5545b33be63d2fe3876, type: 2}
+  - gameObjectName: Piston_Small_Part3_16
+    partData: {fileID: 11400000, guid: 07b8357b44728854eab8535e453c1b0f, type: 2}
+  - gameObjectName: Piston_Small_Part4_01
+    partData: {fileID: 11400000, guid: 721737636de00b14ca31b833808a7933, type: 2}
+  - gameObjectName: Piston_Small_Part4_02
+    partData: {fileID: 11400000, guid: 28c4181e51297e042b00945803f914fc, type: 2}
+  - gameObjectName: Piston_Small_Part4_03
+    partData: {fileID: 11400000, guid: 577c51be8de72bf4d9d4b734086a0ebe, type: 2}
+  - gameObjectName: Piston_Small_Part4_04
+    partData: {fileID: 11400000, guid: 6d7d7c74562598c43bff0d009c8eb26c, type: 2}
+  - gameObjectName: Piston_Small_Part4_05
+    partData: {fileID: 11400000, guid: d4f90736659acb7448b07a67b23b2b72, type: 2}
+  - gameObjectName: Piston_Small_Part4_06
+    partData: {fileID: 11400000, guid: 45f5e13032671fc468c576b2752d9ec0, type: 2}
+  - gameObjectName: Piston_Small_Part4_07
+    partData: {fileID: 11400000, guid: c5556cdc15d02c642a7e9212febe7612, type: 2}
+  - gameObjectName: Piston_Small_Part4_08
+    partData: {fileID: 11400000, guid: 1b3f01025dcd3524aad996f136a83e97, type: 2}
+  - gameObjectName: Piston_Small_Part4_09
+    partData: {fileID: 11400000, guid: fde0320961feda945a5a49ebe420cb0f, type: 2}
+  - gameObjectName: Piston_Small_Part4_10
+    partData: {fileID: 11400000, guid: 7a31af0e34b6c384bb2c24bea1e4b2d2, type: 2}
+  - gameObjectName: Piston_Small_Part4_11
+    partData: {fileID: 11400000, guid: 943d902dc3e90b644ac006516fd44cb7, type: 2}
+  - gameObjectName: Piston_Small_Part4_12
+    partData: {fileID: 11400000, guid: c3ca25c0da7692846bd23b96ff8eb34a, type: 2}
+  - gameObjectName: Piston_Small_Part4_13
+    partData: {fileID: 11400000, guid: e830b868f5c741e498123d8e892617fa, type: 2}
+  - gameObjectName: Piston_Small_Part4_14
+    partData: {fileID: 11400000, guid: 5689606fc66ae4b44be05dbd9ad9b8c0, type: 2}
+  - gameObjectName: Piston_Small_Part4_15
+    partData: {fileID: 11400000, guid: 55c84a03127722e47a44dde2c493fbfc, type: 2}
+  - gameObjectName: Piston_Small_Part4_16
+    partData: {fileID: 11400000, guid: aac770fdd741c9c44bd3e4515074cd23, type: 2}
+  - gameObjectName: Inner_Shaft_Upper_01
+    partData: {fileID: 11400000, guid: 29a820b44f9edc346ab1a30c4e80fcfb, type: 2}
+  - gameObjectName: Inner_Shaft_Upper_02
+    partData: {fileID: 11400000, guid: afd71f4635504a843b169e63a9eba931, type: 2}
+  - gameObjectName: Crank_Shaft
+    partData: {fileID: 11400000, guid: 714217c66fd693842ac0f9334d344a6b, type: 2}
+  - gameObjectName: Inner_Part_01
+    partData: {fileID: 11400000, guid: ab2fbafef754bda4f844dbd5dc94f559, type: 2}
+  - gameObjectName: Charge_Air_Cooler
+    partData: {fileID: 11400000, guid: 4b3085bcfdea9f343a5d99d941ad3f09, type: 2}
+  - gameObjectName: Cooler_Pipe
+    partData: {fileID: 11400000, guid: 4efa93353ec514c4cbf3525dca88bff8, type: 2}
+  - gameObjectName: Engine_Pipe_01
+    partData: {fileID: 11400000, guid: 11dacc652cdb3b242bcb0eb04d960785, type: 2}
+  - gameObjectName: Engine_Pipe_02
+    partData: {fileID: 11400000, guid: abbccc6b1529b5a4ca3ece8b05ac2394, type: 2}
+  - gameObjectName: Cooler_Pipe_2
+    partData: {fileID: 11400000, guid: 45446bb10a681854ca9c5ccef5070e10, type: 2}
+  - gameObjectName: Plug_01
+    partData: {fileID: 11400000, guid: b6fe5521abf92cd4ea5af5ac02161a30, type: 2}
+  - gameObjectName: Plug_02
+    partData: {fileID: 11400000, guid: 92fd4005b493df64180cdfa626855250, type: 2}
+  - gameObjectName: Plug_03
+    partData: {fileID: 11400000, guid: f1d5362bb130def46995a602c69818c4, type: 2}
+  - gameObjectName: Plug_04
+    partData: {fileID: 11400000, guid: e252672113df8b44eb1d5cbf87ffc407, type: 2}

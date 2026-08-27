@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: PetrolEngineData
+  m_EditorClassIdentifier: 
+  engineName: Petrol Engine
+  engineDescription: A Petrol Engine is an internal combustion engine that converts
+    the chemical energy of petrol into mechanical energy through spark-ignition combustion.
+    It generally operates on the Otto cycle, consisting of intake, compression, combustion
+    and expansion, and exhaust processes. Its major components include the cylinder,
+    piston, connecting rod, crankshaft, spark plug, fuel injector or carburetor,
+    intake and exhaust valves, camshaft, cooling system, and lubrication system.
+    During operation, an air-fuel mixture enters the cylinder and is compressed by
+    the piston. Near the end of the compression stroke, the spark plug ignites the
+    mixture, producing high-pressure gases that force the piston downward during
+    the power stroke. The crankshaft converts the reciprocating motion of the piston
+    into rotary motion. Petrol engines are widely used in cars, motorcycles, small
+    generators, and light-duty vehicles. From an engineering perspective, compression
+    ratio, ignition timing, air-fuel ratio, combustion efficiency, thermal efficiency,
+    cooling, lubrication, emissions, and fuel injection are important factors influencing
+    engine performance.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 81d15a0f51b024f4eb28789614c9eb83, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8570e25f67e4d9b47982d8b1123bce61, type: 3}
+  m_Name: Blower_(Cross-Flow_Fan)
+  m_EditorClassIdentifier: 
+  partName: First Fan Blade
+  description: This is a First Fan Blade that creates airflow by rotating to circulate
+    air through the split AC unit for cooling purposes.
+  audioExplanation: {fileID: 8300000, guid: 9348287bc3fa1e946b490664ab8b388f, type: 3}

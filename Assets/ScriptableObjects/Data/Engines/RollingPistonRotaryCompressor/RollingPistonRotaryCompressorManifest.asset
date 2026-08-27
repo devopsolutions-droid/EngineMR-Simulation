@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: RollingPistonRotaryCompressorManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: cover_cap2
+    partData: {fileID: 11400000, guid: 62a6e59c23dd184468bfc107adfdfde0, type: 2}
+  - gameObjectName: cover_cap1
+    partData: {fileID: 11400000, guid: 614016cbdd2f48f4cb2a4308d3857b00, type: 2}
+  - gameObjectName: Casing
+    partData: {fileID: 11400000, guid: ed60ff21e0d04ec48a03467ffb780943, type: 2}
+  - gameObjectName: Motor
+    partData: {fileID: 11400000, guid: b6431e513d72d0c44a5eadf4d2e4681d, type: 2}
+  - gameObjectName: Object8
+    partData: {fileID: 11400000, guid: a77942110dc8a034c80547d9fee76150, type: 2}
+  - gameObjectName: nut2
+    partData: {fileID: 11400000, guid: 615eb9321a7c0eb4c96f0e03c1578dcf, type: 2}
+  - gameObjectName: nut3
+    partData: {fileID: 11400000, guid: 3dd6d3ec508031449bb7ee04594a94e4, type: 2}
+  - gameObjectName: Shaft
+    partData: {fileID: 11400000, guid: a1d5a600b614cfe41a90c5ed03054eda, type: 2}
+  - gameObjectName: Object6
+    partData: {fileID: 11400000, guid: de3d67846ba56f141b0dc133c1b53b35, type: 2}
+  - gameObjectName: Object11
+    partData: {fileID: 11400000, guid: df333f1ad65dac34bbf788d40f51b103, type: 2}
+  - gameObjectName: AirInlet
+    partData: {fileID: 11400000, guid: 2495b41e6664d7240a9998ae49566639, type: 2}
+  - gameObjectName: Object14
+    partData: {fileID: 11400000, guid: ee32fbf5486fc6f4daa75a36f18762c6, type: 2}
+  - gameObjectName: nut1
+    partData: {fileID: 11400000, guid: e61c93bde1bc6604bb760828406e951f, type: 2}
+  - gameObjectName: Object4
+    partData: {fileID: 11400000, guid: a25071227bf666a479222813312d8e7b, type: 2}
+  - gameObjectName: Object9
+    partData: {fileID: 11400000, guid: d0a165a6d527d3b40935915398782a45, type: 2}
+  - gameObjectName: Object2
+    partData: {fileID: 11400000, guid: a6395f3325ed9084cb7894f680691c9a, type: 2}
+  - gameObjectName: Endcap
+    partData: {fileID: 11400000, guid: 80a5c44be466f344ebc71d38ce498017, type: 2}

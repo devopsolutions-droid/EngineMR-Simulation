@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: ThreeLobePumpModelManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Lobe_Container
+    partData: {fileID: 11400000, guid: 6ec884baa44483a40a97be4d55d6dd7d, type: 2}
+  - gameObjectName: Gearbox Cover
+    partData: {fileID: 11400000, guid: 82d47f98126a21643adfd224b0afed5c, type: 2}
+  - gameObjectName: Bolt
+    partData: {fileID: 11400000, guid: b46f0adaa81067e4da2ac21100bc77cc, type: 2}
+  - gameObjectName: Bolt (1)
+    partData: {fileID: 11400000, guid: 673579ade0089224b8e713543e6bbaff, type: 2}
+  - gameObjectName: Bolt (2)
+    partData: {fileID: 11400000, guid: 55f54f6c9bcf3b84082d633d76b9281b, type: 2}
+  - gameObjectName: Bolt (3)
+    partData: {fileID: 11400000, guid: 041fd83f3eb6e4c479033fbed3c6e0cb, type: 2}
+  - gameObjectName: Bolt (4)
+    partData: {fileID: 11400000, guid: e7d0cd1edde32d14d9e47114de0f96f6, type: 2}
+  - gameObjectName: Bolt (5)
+    partData: {fileID: 11400000, guid: 1eaa296f1c1e6b549822c74aecc643d0, type: 2}
+  - gameObjectName: Bolt (7)
+    partData: {fileID: 11400000, guid: c207dd71d745c904ba86ad1477531ebd, type: 2}
+  - gameObjectName: Bolt (6)
+    partData: {fileID: 11400000, guid: 50edaac9e98997d47aa877fd094f2690, type: 2}
+  - gameObjectName: Casing
+    partData: {fileID: 11400000, guid: 709b4e5ab31800d40a71cd7a81ac14be, type: 2}
+  - gameObjectName: Gear_01
+    partData: {fileID: 11400000, guid: 53a76f773af2662468b651be9b5ffe1f, type: 2}
+  - gameObjectName: Gear_02
+    partData: {fileID: 11400000, guid: a78fab9585cad5e4dbe692c674536ac8, type: 2}
+  - gameObjectName: Lobe3_01 (1)
+    partData: {fileID: 11400000, guid: 3ec5959fdfa64fe458b6fac4b7d4a537, type: 2}
+  - gameObjectName: Lobe3_02 (1)
+    partData: {fileID: 11400000, guid: 11b401b4b196bb34a9612414d68797ef, type: 2}
+  - gameObjectName: Driver Shaft
+    partData: {fileID: 11400000, guid: c18cc3a8b31bdcf4fa7713766ed452e6, type: 2}
+  - gameObjectName: Idler Shaft
+    partData: {fileID: 11400000, guid: c709e953e0394f9438babe0191cad0c5, type: 2}

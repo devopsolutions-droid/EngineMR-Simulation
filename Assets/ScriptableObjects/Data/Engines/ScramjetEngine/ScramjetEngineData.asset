@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: ScramjetEngineData
+  m_EditorClassIdentifier: 
+  engineName: 'Scramjet Engine '
+  engineDescription: A Scramjet (Supersonic Combustion Ramjet) Engine is an air-breathing
+    propulsion system designed to operate efficiently at hypersonic speeds by compressing
+    incoming air through the high-speed motion of the vehicle rather than using rotating
+    compressors. Its main components include the air intake, inlet compression section,
+    isolator, combustion chamber, fuel injection system, flame-holding region, and
+    exhaust nozzle. During operation, high-speed air enters the inlet and is compressed
+    as it passes through specially shaped passages while remaining at supersonic
+    velocity. Fuel is injected and mixed with the compressed air inside the combustion
+    chamber, where combustion occurs under supersonic-flow conditions. The high-temperature
+    combustion gases then expand through the exhaust nozzle, producing thrust. Scramjet
+    engines are mainly used in hypersonic aircraft, experimental aerospace vehicles,
+    and high-speed propulsion research. From an engineering perspective, understanding
+    supersonic aerodynamics, shock waves, air compression, fuel mixing, combustion
+    stability, heat transfer, inlet design, material selection, and thermal management
+    is essential for achieving efficient and reliable operation.
+  engineCategory: 'Engineering '
+  thumbnail: {fileID: 21300000, guid: 74c45be378027b54191f00c222d3dd3c, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: db392f991d9fb39438a17cb96cac9070, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

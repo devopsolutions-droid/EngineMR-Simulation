@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: RamjetEngineManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: Main fuel injector
+    partData: {fileID: 11400000, guid: a5978b0dbbc9b8f4dbe9d51b749f8cb1, type: 2}
+  - gameObjectName: Air turbine hydrolic pump
+    partData: {fileID: 11400000, guid: 551ae7c5ab4c69146ad3365484dc92e7, type: 2}
+  - gameObjectName: Fuel_tank_1
+    partData: {fileID: 11400000, guid: 8ced3d2045d53d746a5b73f659032ea7, type: 2}
+  - gameObjectName: Fuel_tank_2
+    partData: {fileID: 11400000, guid: 9e1582ff8f1c9dd4eaf86d637018723c, type: 2}
+  - gameObjectName: Flame Holder
+    partData: {fileID: 11400000, guid: 181c113eb48feb34db87f9fd667c5e5c, type: 2}
+  - gameObjectName: Pilot Burner
+    partData: {fileID: 11400000, guid: c894c38002b17454b95fa45c837eac5f, type: 2}
+  - gameObjectName: Spike_inletpart_1
+    partData: {fileID: 11400000, guid: 3fdf61612ac6af04cadad2efc723a56c, type: 2}
+  - gameObjectName: Spike_inletpart_2
+    partData: {fileID: 11400000, guid: a1bf68ab16ccc2f4db5d1496d2ebea89, type: 2}
+  - gameObjectName: Intel_internalPart_1
+    partData: {fileID: 11400000, guid: bb76e218c3e8cf149b59fa33f5958770, type: 2}
+  - gameObjectName: Intel_internalPart_2
+    partData: {fileID: 11400000, guid: b30f39e07c094b14fabe86bc64a57150, type: 2}
+  - gameObjectName: Intel_internalPart_3
+    partData: {fileID: 11400000, guid: 9040ac17bcd9d1e47b6a21d5a7b6e228, type: 2}
+  - gameObjectName: Intel_internalPart_4
+    partData: {fileID: 11400000, guid: 0925aae0913b46d44bced7c3325b074c, type: 2}
+  - gameObjectName: Intel_internalPart_5
+    partData: {fileID: 11400000, guid: 452dbfc680f567544be01c541b7c54d0, type: 2}
+  - gameObjectName: Intel_internalPart_6
+    partData: {fileID: 11400000, guid: f7d35a31c782b4946a655270ce8895cd, type: 2}
+  - gameObjectName: Cover_1
+    partData: {fileID: 11400000, guid: 34e444afbcabc8541859d9229a218068, type: 2}
+  - gameObjectName: Cover_2
+    partData: {fileID: 11400000, guid: d9596d220449258459d0b5bfa20efdea, type: 2}
+  - gameObjectName: Nozzle_1
+    partData: {fileID: 11400000, guid: 5a29dd8980d9e284ca4ae4df48e0fa04, type: 2}
+  - gameObjectName: Nozzle_2
+    partData: {fileID: 11400000, guid: 349fbc24bcd5ff14da8e6a7c5981cb4a, type: 2}
+  - gameObjectName: Air_turbine_fuel_pump
+    partData: {fileID: 11400000, guid: 8266e5b192bb4a042bf2d0d06c4f14ba, type: 2}
+  - gameObjectName: fuel_road
+    partData: {fileID: 11400000, guid: 743058b8a21de6c488e96b97ee261e9f, type: 2}
+  - gameObjectName: internal_part
+    partData: {fileID: 11400000, guid: 20960a044fdcfd841b52f8c6c32a73a6, type: 2}
+  - gameObjectName: Pilot_fuel_injector
+    partData: {fileID: 11400000, guid: b266978b321789c40b509e39bc17484e, type: 2}

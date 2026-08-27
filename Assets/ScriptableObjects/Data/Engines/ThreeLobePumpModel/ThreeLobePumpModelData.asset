@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: ThreeLobePumpModelData
+  m_EditorClassIdentifier: 
+  engineName: Three Lobe Pump Model
+  engineDescription: A Three-Lobe Pump is a positive-displacement rotary pump used
+    for transferring liquids by trapping and transporting fluid between three-lobed
+    rotating rotors and the pump casing. Its main components include the pump casing,
+    three-lobed rotors, drive shaft, driven shaft, timing gears, inlet port, outlet
+    port, bearings, and mechanical seals. During operation, the rotors rotate in
+    opposite directions without normally making direct contact with each other. As
+    the lobes rotate, cavities are formed at the inlet, causing the pump to draw
+    fluid into the casing. The trapped fluid is then carried around the outer region
+    of the casing and transported toward the outlet, where the reduction in available
+    space forces the fluid out under pressure. Three-lobe pumps are widely used in
+    food processing, pharmaceutical manufacturing, chemical processing, sanitary
+    fluid transfer, and industrial applications requiring gentle handling of liquids.
+    From an engineering perspective, understanding positive-displacement pumping,
+    rotor synchronization, volumetric efficiency, slip, sealing, pressure pulsation,
+    lubrication, material compatibility, and wear is essential for achieving hygienic,
+    efficient, and reliable operation.
+  engineCategory: Engineering
+  thumbnail: {fileID: 21300000, guid: 503aefaa31a57304ab067d9d02d9ba46, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 6e7f285323aee3646a95268e9f7073c5, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

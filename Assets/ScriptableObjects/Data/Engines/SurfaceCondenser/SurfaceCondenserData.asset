@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: SurfaceCondenserData
+  m_EditorClassIdentifier: 
+  engineName: Surface Condenser
+  engineDescription: A Surface Condenser is a heat-transfer device used to condense
+    steam or vapor into liquid by transferring its heat to a separate cooling fluid
+    without allowing the two fluids to mix. Its main components include the condenser
+    shell, tubes, tube sheets, cooling-water inlet and outlet connections, steam
+    inlet, condensate outlet, air removal system, and supporting structure. During
+    operation, exhaust steam enters the condenser and comes into contact with the
+    outer surfaces of cooling tubes. Cooling water flows through the tubes and absorbs
+    heat from the steam, causing the steam to condense into water. The resulting
+    condensate collects at the bottom of the condenser and can be returned to the
+    feedwater system. Surface condensers are widely used in steam power plants, marine
+    propulsion systems, industrial process plants, and large refrigeration and thermal
+    systems. From an engineering perspective, understanding condensation heat transfer,
+    vacuum maintenance, cooling-water flow, pressure drop, air leakage, fouling,
+    corrosion, tube integrity, and condensate recovery is essential for maintaining
+    high thermal efficiency and reliable operation.
+  engineCategory: Engineering
+  thumbnail: {fileID: 21300000, guid: 033d03c7b196ea34b82fb4dcf9f1422b, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 7758b3b557757a643994bf8a36860556, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

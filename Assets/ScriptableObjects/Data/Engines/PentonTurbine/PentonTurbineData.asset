@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: PentonTurbineData
+  m_EditorClassIdentifier: 
+  engineName: Penton Turbine
+  engineDescription: 'A Pelton Turbine is an impulse-type hydraulic turbine used
+    to convert the kinetic energy of high-head, low-flow water into mechanical energy
+    for electricity generation. It operates by directing high-velocity water jets
+    onto specially shaped buckets mounted around the circumference of a runner, causing
+    the runner to rotate. Its main components include the runner with double-cup
+    buckets, nozzle, spear (needle) valve, deflector, casing, shaft, and braking
+    jet. During operation, water under high pressure is discharged through the nozzle,
+    where its pressure energy is converted into kinetic energy. The high-speed water
+    jet strikes the buckets, transferring momentum and rotating the runner. The spent
+    water is then discharged at atmospheric pressure, while the rotating shaft drives
+    a generator to produce electrical power.
+
+
+    Pelton turbines are widely used
+    in hydroelectric power plants operating under high-head and low-flow conditions
+    due to their high efficiency, simple construction, and reliable performance.'
+  engineCategory: Engineering
+  thumbnail: {fileID: 21300000, guid: ca211d05403a7244da30b7510ce2fa26, type: 3}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 1b7ce6ee899fddb42a6907f5719a4e0c, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

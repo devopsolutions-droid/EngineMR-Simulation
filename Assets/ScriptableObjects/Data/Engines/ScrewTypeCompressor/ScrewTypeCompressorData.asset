@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9260857feccf34e9dedd9a180b4b5c, type: 3}
+  m_Name: ScrewTypeCompressorData
+  m_EditorClassIdentifier: 
+  engineName: Screw Type Compressor
+  engineDescription: A Screw Compressor is a positive-displacement compressor used
+    for continuously compressing gases, particularly air and refrigerants, by trapping
+    and reducing the volume of gas between intermeshing helical rotors. Its main
+    components include the casing, male rotor, female rotor, inlet port, discharge
+    port, bearings, shaft, seals, and lubrication system. During operation, gas enters
+    through the inlet and is trapped between the rotating screw profiles and the
+    casing. As the rotors rotate, the trapped gas is carried along the length of
+    the rotors while the available volume gradually decreases, causing the gas pressure
+    to increase. The compressed gas is then discharged through the outlet port. Screw
+    compressors are widely used in industrial compressed-air systems, refrigeration
+    and air-conditioning equipment, chemical processing, gas handling, and manufacturing
+    plants. From an engineering perspective, understanding rotor geometry, compression
+    ratio, volumetric efficiency, oil injection, sealing, lubrication, heat generation,
+    leakage, vibration, and maintenance is essential for ensuring efficient and reliable
+    compressor performance.
+  engineCategory: Engineering
+  thumbnail: {fileID: 0}
+  enginePrefab: {fileID: 0}
+  partManifest: {fileID: 11400000, guid: 5632ddc3c80c31f42bb8251f5dc1cf3d, type: 2}
+  spawnPosition: {x: 0, y: 0, z: 0}
+  spawnRotation: {x: 0, y: 0, z: 0}

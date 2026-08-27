@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd2eea37a43cd340b7c552abaee2a64, type: 3}
+  m_Name: SemiHermeticCompressorManifest
+  m_EditorClassIdentifier: 
+  parts:
+  - gameObjectName: nut_bolt
+    partData: {fileID: 11400000, guid: 377825960bb510f4fbe335ffd2a9c002, type: 2}
+  - gameObjectName: cover_A
+    partData: {fileID: 11400000, guid: 02816daf81ab7c04b8a195b215804551, type: 2}
+  - gameObjectName: oil_filter_internal2
+    partData: {fileID: 11400000, guid: 004ab878ea84e694da32e8f6fc26da1d, type: 2}
+  - gameObjectName: oil_filter_internal1
+    partData: {fileID: 11400000, guid: 2ffc2da27d3577e429e376438caa9ff3, type: 2}
+  - gameObjectName: oil_filter_internal
+    partData: {fileID: 11400000, guid: 628609bfc56a0554dbf13f57e7d80e90, type: 2}
+  - gameObjectName: Oil_Filter6
+    partData: {fileID: 11400000, guid: 7aaac645862765d4baff9df425878e5d, type: 2}
+  - gameObjectName: Casing_cover_left
+    partData: {fileID: 11400000, guid: 1b38a1c66e9901c4a841d3a5bb3d637b, type: 2}
+  - gameObjectName: outlet
+    partData: {fileID: 11400000, guid: 85efeaca0e208fa42bffdf3d8213a97f, type: 2}
+  - gameObjectName: outlet2
+    partData: {fileID: 11400000, guid: 6d6ff934c67aef24f990919235071b26, type: 2}
+  - gameObjectName: Cover
+    partData: {fileID: 11400000, guid: c2efae59747d72b4884097c591521d0a, type: 2}
+  - gameObjectName: casing_cover_right
+    partData: {fileID: 11400000, guid: 52454a5bdf976c741b722fc9304fcda7, type: 2}
+  - gameObjectName: valve_part2
+    partData: {fileID: 11400000, guid: a95101d30a7ef7e418795236ae0f2f4c, type: 2}
+  - gameObjectName: spring1
+    partData: {fileID: 11400000, guid: 65ead6fa7c7d5e941a72d822bb47f78e, type: 2}
+  - gameObjectName: nut_bolt2
+    partData: {fileID: 11400000, guid: 7dc61e2284d96d84eb7139b262fe26e4, type: 2}
+  - gameObjectName: nut
+    partData: {fileID: 11400000, guid: 86675d8db9a6e7b41bcacd19b8a9a518, type: 2}
+  - gameObjectName: Thermal Mixing Valve
+    partData: {fileID: 11400000, guid: 36da8940c64d47545ac5daa0a4c2b6a1, type: 2}
+  - gameObjectName: Female Rotor
+    partData: {fileID: 11400000, guid: 88271484a53647044bf881c8ee8cb5a0, type: 2}
+  - gameObjectName: bearing20
+    partData: {fileID: 11400000, guid: 6b4a270596a571447b331420ad4df188, type: 2}
+  - gameObjectName: bearing13
+    partData: {fileID: 11400000, guid: 1ade863b1967ac84a8b131d3ece4eb4c, type: 2}
+  - gameObjectName: bearing17
+    partData: {fileID: 11400000, guid: c8017f5d513fb654891cdc4c6dceb507, type: 2}
+  - gameObjectName: RB4
+    partData: {fileID: 11400000, guid: fa6fe978c0a6a484887d0bfb3548d964, type: 2}
+  - gameObjectName: AB4
+    partData: {fileID: 11400000, guid: 9ae0d87a93b2e9a4486becfba3aa4428, type: 2}
+  - gameObjectName: bearing2
+    partData: {fileID: 11400000, guid: 0eef0853d3a525140b2fa75b2298ba21, type: 2}
+  - gameObjectName: bearing7
+    partData: {fileID: 11400000, guid: dcc3b467dd039b64fb51ceb92ff81986, type: 2}
+  - gameObjectName: bearing6
+    partData: {fileID: 11400000, guid: 1e5db122576ae254f88e13fa690fbdf5, type: 2}
+  - gameObjectName: RB1
+    partData: {fileID: 11400000, guid: c1de1502cdeed7f45bd51538301fe852, type: 2}
+  - gameObjectName: AB1
+    partData: {fileID: 11400000, guid: d338023fb13428c42ab183bfb653cede, type: 2}
+  - gameObjectName: Male Rotor
+    partData: {fileID: 11400000, guid: 4583348d59e62e7488a25a6277a720ef, type: 2}
+  - gameObjectName: shaft_rod2
+    partData: {fileID: 11400000, guid: 98a2a27ad3c817d419a522369fcedff7, type: 2}
+  - gameObjectName: MotorRoter
+    partData: {fileID: 11400000, guid: e83b829b3ad1dd3428e7a3e890befd3e, type: 2}
+  - gameObjectName: bearing12
+    partData: {fileID: 11400000, guid: 235a7306f69d0424fb1e80e7d08b5ad6, type: 2}
+  - gameObjectName: bearing16
+    partData: {fileID: 11400000, guid: 57dcd39f505ba994a9466f083470d13b, type: 2}
+  - gameObjectName: bearing18
+    partData: {fileID: 11400000, guid: 511df23b86396414eb03ef067762ffdc, type: 2}
+  - gameObjectName: RB3
+    partData: {fileID: 11400000, guid: 4fc8e420683232748a14dc2ead903bda, type: 2}
+  - gameObjectName: AB3
+    partData: {fileID: 11400000, guid: 304f7bd4df184d348a9c307db7d328bd, type: 2}
+  - gameObjectName: bearing3
+    partData: {fileID: 11400000, guid: a3a93553d2a2d384486863a23a11e690, type: 2}
+  - gameObjectName: bearing4
+    partData: {fileID: 11400000, guid: 9581d1ed6c59d4f468a515b2183c46d3, type: 2}
+  - gameObjectName: bearing8
+    partData: {fileID: 11400000, guid: eaff4b2fb56c4a7408e49644646a0d96, type: 2}
+  - gameObjectName: RB
+    partData: {fileID: 11400000, guid: 362cb0ba433dac14897e938e1038fa6e, type: 2}
+  - gameObjectName: AB
+    partData: {fileID: 11400000, guid: b0f8f80d108cbe842a5f4f00d8c3e729, type: 2}
+  - gameObjectName: Bearing4
+    partData: {fileID: 11400000, guid: 9581d1ed6c59d4f468a515b2183c46d3, type: 2}
+  - gameObjectName: Bearing3
+    partData: {fileID: 11400000, guid: a3a93553d2a2d384486863a23a11e690, type: 2}
+  - gameObjectName: Slippering
+    partData: {fileID: 11400000, guid: 25a4fae273cb41d40810c9a20f548e34, type: 2}
+  - gameObjectName: Motor Rotor
+    partData: {fileID: 11400000, guid: c4b1b8b8114deb044b945624e2e4f80b, type: 2}
